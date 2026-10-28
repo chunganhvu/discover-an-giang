@@ -24,6 +24,14 @@ Everything is in [`src/data/content.ts`](src/data/content.ts): categories → le
 - **Recorded audio:** put an mp3 in `public/audio/` and set `audio: '/audio/xxx.mp3'`. Without it the device's text-to-speech reads the word (`say` can override the spoken text).
 - Quiz questions are generated automatically from each lesson's words.
 
+## AI illustrations from real photos
+
+`.github/workflows/generate-images.yml` (Actions → *Generate images* → Run workflow) draws one illustration per word with the Gemini image API and commits the WebP files to `public/images/<lesson>/<word>.webp`. Add the repository secret `GEMINI_API_KEY` first (key from https://aistudio.google.com/apikey).
+
+- Put your own photos in `reference/<lesson>/<word>.jpg` to base a word's illustration on them (best quality).
+- For place names, the script can instead pick an openly licensed photo from Wikimedia Commons (`refs: auto`); credits are written to `content/image-credits.json` and shown on `/credits/`.
+- Other words are drawn from the text alone. Review the results and regenerate single words with `word` + `force`.
+
 ## Deploy
 
 The site is a static export (`output: 'export'`), so any static host works (Cloudflare Pages, Netlify, Vercel, AZDIGI, GitHub Pages). For a sub-path such as GitHub Pages, build with `NEXT_PUBLIC_BASE_PATH=/discover-an-giang`. A ready workflow is in `.github/workflows/pages.yml`.

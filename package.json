@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "npx serve out",
     "prompts": "node scripts/image-prompts.mjs",
-    "audio": "node scripts/generate-audio.mjs"
+    "audio": "node scripts/generate-audio.mjs",
+    "images": "node scripts/generate-images.mjs"
   },
   "dependencies": {
     "@types/node": "^26.6.5",
@@ -18,5 +19,8 @@
     "react-dom": "^19.3.1",
     "typescript": "^7.0.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
 }

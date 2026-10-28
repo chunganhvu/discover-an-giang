@@ -26,7 +26,8 @@ export default function Home() {
           ))}
         </ul>
         <p className="foot">
-          A community project to help officials, teachers, students and everyone in An Giang tell our story in English.
+          A community project to help officials, teachers, students and everyone in An Giang tell our story in English.{' '}
+          <Link href="/credits/">Image credits</Link>
         </p>
       </main>
     </>

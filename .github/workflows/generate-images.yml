@@ -1,0 +1,72 @@
+name: Generate images
+
+# Creates illustrations with the Gemini image API (based on real photos when available),
+# commits them to main and triggers the Pages deploy. Needs the repository secret GEMINI_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      lesson:
+        description: 'Lesson id (e.g. seven-mountains) or "all"'
+        default: 'seven-mountains'
+      word:
+        description: 'Only this word slug (optional, e.g. sam-mountain)'
+        default: ''
+      force:
+        description: 'Regenerate images that already exist'
+        type: boolean
+        default: false
+      refs:
+        description: 'Reference photos: auto (use Wikimedia Commons for place names) or none'
+        type: choice
+        options: [auto, none]
+        default: auto
+      model:
+        description: 'Gemini image model'
+        default: 'gemini-2.5-flash-image'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Generate images
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LESSON: ${{ inputs.lesson }}
+          WORD: ${{ inputs.word }}
+          REFS: ${{ inputs.refs }}
+          MODEL: ${{ inputs.model }}
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::error::Add the repository secret GEMINI_API_KEY first (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          WORD_ARG=""
+          if [ -n "$WORD" ]; then WORD_ARG="--word $WORD"; fi
+          npm run images -- --lesson "$LESSON" --refs "$REFS" --model "$MODEL" $WORD_ARG $FORCE
+      - name: Commit and deploy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/images content/image-credits.json
+          if git diff --cached --quiet; then
+            echo "No new images."
+            exit 0
+          fi
+          git commit -m "Add AI illustrations"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh workflow run pages.yml --ref main
