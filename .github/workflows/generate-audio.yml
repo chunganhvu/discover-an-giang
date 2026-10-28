@@ -1,0 +1,55 @@
+name: Generate audio
+
+# Creates public/audio/**.mp3 with Google Cloud Text-to-Speech, commits them to main,
+# then triggers the Pages deploy. Needs the repository secret GOOGLE_TTS_API_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      voice:
+        description: 'Google TTS voice name'
+        default: 'en-US-Neural2-F'
+      force:
+        description: 'Regenerate files that already exist'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Generate mp3 files
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          VOICE: ${{ inputs.voice }}
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: |
+          if [ -z "$GOOGLE_TTS_API_KEY" ]; then
+            echo "::error::Add the repository secret GOOGLE_TTS_API_KEY first (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          npm run audio -- --voice "$VOICE" $FORCE
+      - name: Commit and deploy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/audio
+          if git diff --cached --quiet; then
+            echo "No new audio files."
+            exit 0
+          fi
+          git commit -m "Add recorded audio (Google Cloud TTS)"
+          git push origin HEAD:main
+          # Pushes made with GITHUB_TOKEN do not start other workflows, so start the deploy explicitly.
+          gh workflow run pages.yml --ref main
