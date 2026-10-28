@@ -311,3 +311,27 @@ body { background: var(--green-soft); }
 @media (min-width: 600px) {
   .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
+
+/* ---------- Topic / lesson banner (same artwork as the home card) ---------- */
+.cat-banner {
+  width: calc(100% - 2 * clamp(16px, 3vw, 40px)); max-width: 960px; margin: clamp(12px, 2vw, 24px) auto 0;
+  border-radius: clamp(20px, 2.4vw, 30px); overflow: hidden; background: #fff; box-shadow: 0 8px 22px rgba(15, 80, 42, .14);
+}
+.cat-banner-art { position: relative; }
+.cat-banner-art .cat-art { width: 100%; height: auto; aspect-ratio: 16 / 9; max-height: 460px; object-fit: cover; display: block; }
+.cat-banner-art .back { top: max(12px, env(safe-area-inset-top)); left: 12px; }
+.cat-banner-label { color: #fff; text-align: center; padding: clamp(12px, 2vw, 24px) 16px; }
+.cat-banner-label h1 { margin: 0; font-size: clamp(1.3rem, 2.4vw + .6rem, 2.4rem); font-weight: 900; text-transform: uppercase; letter-spacing: .02em; line-height: 1.15; }
+.cat-banner-label p { margin: 4px 0 0; font-weight: 700; opacity: .95; font-size: clamp(.9rem, 1vw + .5rem, 1.2rem); }
+@media (min-width: 900px) { .cat-banner-art .cat-art { aspect-ratio: 2 / 1; } }
+
+/* Lessons: one balanced centered column on every screen size. */
+.list, .modes { max-width: 960px; width: calc(100% - 2 * clamp(16px, 3vw, 40px)); padding-left: 0; padding-right: 0; }
+.list ul { grid-template-columns: 1fr; gap: clamp(12px, 1.6vw, 18px); }
+.lesson-row { padding: clamp(14px, 2vw, 22px); gap: clamp(12px, 2vw, 20px); border-radius: clamp(18px, 2vw, 26px); }
+.lesson-num { width: clamp(38px, 5vw, 52px); height: clamp(38px, 5vw, 52px); font-size: clamp(1rem, 2vw, 1.3rem); }
+.lesson-body strong { font-size: clamp(1rem, 1.6vw + .4rem, 1.35rem); }
+.lesson-body em { font-size: clamp(.88rem, 1.2vw + .3rem, 1.1rem); }
+.lesson-body small { font-size: clamp(.8rem, 1vw + .3rem, 1rem); }
+.lesson-emoji { font-size: clamp(2rem, 4vw, 3rem); }
+.modes { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, getCategory } from '@/data/content';
+import CategoryBanner from '@/components/CategoryBanner';
 
 export const dynamicParams = false;
 
@@ -15,18 +16,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
 
   return (
     <>
-      <header className="page-head" style={{ background: `linear-gradient(165deg, ${category.from}, ${category.to})` }}>
-        <Link href="/" className="back" aria-label="Back to home">
-          ←
-        </Link>
-        <span className="page-emoji" aria-hidden="true">
-          {category.emoji}
-        </span>
-        <h1>{category.title}</h1>
-        <p>
-          {category.vi} · {category.blurb}
-        </p>
-      </header>
+      <CategoryBanner category={category} backHref="/" title={category.title} subtitle={`(${category.vi}) · ${category.blurb}`} />
       <main className="list">
         <h2 className="section-title">
           Lessons <small>Bài học</small>

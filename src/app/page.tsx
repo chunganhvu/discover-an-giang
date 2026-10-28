@@ -2,17 +2,7 @@ import Link from 'next/link';
 import Hero from '@/components/Hero';
 import { categories } from '@/data/content';
 import CategoryArt from '@/components/CategoryArt';
-import fs from 'node:fs';
-import path from 'node:path';
-
-const base = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
-
-/** public/images/categories/<id>.webp is used when present; otherwise the built-in SVG scene. */
-function categoryImage(id: string) {
-  return fs.existsSync(path.join(process.cwd(), 'public', 'images', 'categories', `${id}.webp`))
-    ? `${base}/images/categories/${id}.webp`
-    : undefined;
-}
+import { categoryImage } from '@/data/assets';
 
 export default function Home() {
   return (

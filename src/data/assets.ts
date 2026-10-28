@@ -27,3 +27,8 @@ export function withAssets(lesson: Lesson): Lesson {
     }),
   };
 }
+
+/** public/images/categories/<id>.webp when present, with basePath applied. */
+export function categoryImage(id: string) {
+  return fs.existsSync(pub('images', 'categories', `${id}.webp`)) ? `${base}/images/categories/${id}.webp` : undefined;
+}

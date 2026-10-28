@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
+import CategoryBanner from '@/components/CategoryBanner';
 
 export const dynamicParams = false;
 
@@ -17,16 +18,7 @@ export default async function LessonPage({ params }: { params: Promise<{ categor
 
   return (
     <>
-      <header className="page-head" style={{ background: `linear-gradient(165deg, ${category.from}, ${category.to})` }}>
-        <Link href={`/c/${category.id}/`} className="back" aria-label={`Back to ${category.title}`}>
-          ←
-        </Link>
-        <span className="page-emoji" aria-hidden="true">
-          {lesson.emoji}
-        </span>
-        <h1>{lesson.title}</h1>
-        <p>{lesson.vi}</p>
-      </header>
+      <CategoryBanner category={category} backHref={`/c/${category.id}/`} title={lesson.title} subtitle={`${lesson.vi} · ${category.title}`} />
       <main className="modes">
         <h2 className="section-title">
           What would you like to do? <small>Bạn muốn làm gì?</small>
