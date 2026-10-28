@@ -1,0 +1,327 @@
+import type { Category } from '@/lib/types';
+
+/**
+ * All learning content lives here. To add a word, copy an object in a lesson's
+ * `words` array. To add a lesson, copy a lesson object. Photos and recorded
+ * audio are optional (`image`, `audio`); without them the app falls back to a
+ * placeholder illustration and the device's text-to-speech voice.
+ */
+export const categories: Category[] = [
+  {
+    id: 'landscapes',
+    title: 'Landscapes',
+    vi: 'Cảnh đẹp',
+    emoji: '⛰️',
+    from: '#5f9b43',
+    to: '#2f7a3a',
+    blurb: 'Mountains, forests and lakes of An Giang.',
+    lessons: [
+      {
+        id: 'seven-mountains',
+        title: 'The Seven Mountains',
+        vi: 'Vẻ đẹp Thất Sơn',
+        emoji: '🏔️',
+        blurb: 'Peaks rising from the Mekong Delta.',
+        badge: { title: 'Thất Sơn Ambassador', vi: 'Đại sứ Thất Sơn', emoji: '⛰️' },
+        words: [
+          { en: 'Seven Mountains', ipa: '/ˈsɛvən ˈmaʊntənz/', vi: 'Bảy Núi (Thất Sơn)', emoji: '🏔️', example: 'The Seven Mountains rise above the flat Mekong Delta.', exampleVi: 'Bảy Núi nhô lên giữa đồng bằng sông Cửu Long bằng phẳng.' },
+          { en: 'Sam Mountain', ipa: '/sɑːm ˈmaʊntən/', vi: 'Núi Sam', emoji: '⛰️', example: 'Many pilgrims visit Sam Mountain every year.', exampleVi: 'Mỗi năm có nhiều người hành hương đến núi Sam.' },
+          { en: 'Cam Mountain', ipa: '/kɑːm ˈmaʊntən/', vi: 'Núi Cấm', emoji: '🗻', example: 'Cam Mountain is the tallest of the Seven Mountains.', exampleVi: 'Núi Cấm là ngọn cao nhất trong Bảy Núi.' },
+          { en: 'Cable car', ipa: '/ˈkeɪbəl kɑːr/', vi: 'cáp treo', emoji: '🚡', example: 'A cable car carries visitors to the top.', exampleVi: 'Cáp treo đưa du khách lên đỉnh.' },
+          { en: 'Summit', ipa: '/ˈsʌmɪt/', vi: 'đỉnh núi', emoji: '🏔️', example: 'The summit is covered in morning mist.', exampleVi: 'Đỉnh núi phủ đầy sương sớm.' },
+          { en: 'Rice field', ipa: '/raɪs fiːld/', vi: 'ruộng lúa', emoji: '🌾', example: 'Green rice fields surround the mountain.', exampleVi: 'Những ruộng lúa xanh bao quanh ngọn núi.' },
+        ],
+      },
+      {
+        id: 'tra-su-forest',
+        title: 'Tra Su Cajuput Forest',
+        vi: 'Rừng tràm Trà Sư',
+        emoji: '🌳',
+        blurb: 'A green world on the water.',
+        badge: { title: 'Tra Su Forest Ranger', vi: 'Người gác rừng Trà Sư', emoji: '🌳' },
+        words: [
+          { en: 'Cajuput forest', ipa: '/ˈkædʒəpʌt ˈfɔːrɪst/', vi: 'rừng tràm', emoji: '🌳', example: 'Tra Su is a famous cajuput forest in An Giang.', exampleVi: 'Trà Sư là một rừng tràm nổi tiếng ở An Giang.' },
+          { en: 'Duckweed', ipa: '/ˈdʌkwiːd/', vi: 'bèo tấm', emoji: '🍃', example: 'Green duckweed covers the water like a carpet.', exampleVi: 'Bèo tấm xanh phủ mặt nước như một tấm thảm.' },
+          { en: 'Rowing boat', ipa: '/ˈroʊɪŋ boʊt/', vi: 'xuồng chèo', emoji: '🛶', example: 'We took a rowing boat through the forest.', exampleVi: 'Chúng tôi đi xuồng chèo xuyên qua khu rừng.' },
+          { en: 'Watchtower', ipa: '/ˈwɑːtʃtaʊər/', vi: 'tháp quan sát', emoji: '🗼', example: 'From the watchtower, you can see the whole forest.', exampleVi: 'Từ tháp quan sát, bạn nhìn thấy toàn bộ khu rừng.' },
+          { en: 'Egret', ipa: '/ˈiːɡrət/', vi: 'cò trắng', emoji: '🦢', example: 'A white egret stands in the shallow water.', exampleVi: 'Một con cò trắng đứng trong làn nước nông.' },
+          { en: 'Flood season', ipa: '/flʌd ˈsiːzən/', vi: 'mùa nước nổi', emoji: '🌊', example: 'The flood season brings fish and life to the delta.', exampleVi: 'Mùa nước nổi mang cá và sự sống đến vùng đồng bằng.' },
+        ],
+      },
+      {
+        id: 'bung-binh-thien',
+        title: 'Bung Binh Thien Lake',
+        vi: 'Hồ Búng Bình Thiên',
+        emoji: '🏞️',
+        blurb: 'Calm water, sunrise and lotus.',
+        badge: { title: 'Lotus Lake Explorer', vi: 'Nhà thám hiểm hồ sen', emoji: '🪷' },
+        words: [
+          { en: 'Bung Binh Thien Lake', ipa: '/bʊŋ bɪn tiːn leɪk/', vi: 'hồ Búng Bình Thiên', emoji: '🏞️', say: 'Bung Binh Thien Lake', example: 'Bung Binh Thien Lake is a peaceful place to relax.', exampleVi: 'Hồ Búng Bình Thiên là nơi yên bình để thư giãn.' },
+          { en: 'Lotus', ipa: '/ˈloʊtəs/', vi: 'hoa sen', emoji: '🪷', example: 'Pink lotus flowers bloom in the shallow water.', exampleVi: 'Hoa sen hồng nở trên mặt nước nông.' },
+          { en: 'Sunrise', ipa: '/ˈsʌnraɪz/', vi: 'bình minh', emoji: '🌅', example: 'We woke up early to watch the sunrise.', exampleVi: 'Chúng tôi dậy sớm để ngắm bình minh.' },
+          { en: 'Reflection', ipa: '/rɪˈflɛkʃən/', vi: 'bóng phản chiếu', emoji: '🪞', example: 'The trees make a beautiful reflection on the calm water.', exampleVi: 'Hàng cây tạo nên bóng phản chiếu tuyệt đẹp trên mặt nước phẳng lặng.' },
+          { en: 'Stilt house', ipa: '/stɪlt haʊs/', vi: 'nhà sàn', emoji: '🏠', example: 'Families here live in stilt houses above the water.', exampleVi: 'Các gia đình ở đây sống trong những ngôi nhà sàn trên mặt nước.' },
+          { en: 'Fishing boat', ipa: '/ˈfɪʃɪŋ boʊt/', vi: 'thuyền đánh cá', emoji: '🎣', example: 'A small fishing boat rests by the shore.', exampleVi: 'Một chiếc thuyền đánh cá nhỏ nằm nghỉ bên bờ.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'heritage',
+    title: 'Heritage',
+    vi: 'Lịch sử xưa',
+    emoji: '🏛️',
+    from: '#c98a4b',
+    to: '#9a6431',
+    blurb: 'Ancient kingdoms and historic towns.',
+    lessons: [
+      {
+        id: 'oc-eo',
+        title: 'Oc Eo Culture',
+        vi: 'Văn hóa Óc Eo',
+        emoji: '🏺',
+        blurb: 'The ancient kingdom of Funan.',
+        badge: { title: 'Oc Eo Archaeologist', vi: 'Nhà khảo cổ Óc Eo', emoji: '🏺' },
+        words: [
+          { en: 'Oc Eo culture', ipa: '/ɑːk ˈeɪoʊ ˈkʌltʃər/', vi: 'văn hóa Óc Eo', emoji: '🏺', example: 'Oc Eo culture flourished more than 1,500 years ago.', exampleVi: 'Văn hóa Óc Eo phát triển rực rỡ cách đây hơn 1.500 năm.' },
+          { en: 'Funan Kingdom', ipa: '/fuːˈnɑːn ˈkɪŋdəm/', vi: 'Vương quốc Phù Nam', emoji: '👑', example: 'The Funan Kingdom traded with India and China.', exampleVi: 'Vương quốc Phù Nam buôn bán với Ấn Độ và Trung Quốc.' },
+          { en: 'Archaeological site', ipa: '/ˌɑːrkiəˈlɑːdʒɪkəl saɪt/', vi: 'di chỉ khảo cổ', emoji: '⛏️', example: 'Visitors can explore the archaeological site of Oc Eo.', exampleVi: 'Du khách có thể tham quan di chỉ khảo cổ Óc Eo.' },
+          { en: 'Ancient port', ipa: '/ˈeɪnʃənt pɔːrt/', vi: 'cảng cổ', emoji: '⚓', example: 'Oc Eo was once an ancient port city.', exampleVi: 'Óc Eo từng là một thành phố cảng cổ.' },
+          { en: 'Artifact', ipa: '/ˈɑːrtɪfækt/', vi: 'hiện vật', emoji: '🗿', example: 'Museums keep many artifacts from the Oc Eo period.', exampleVi: 'Các bảo tàng lưu giữ nhiều hiện vật thời Óc Eo.' },
+          { en: 'Gold ornament', ipa: '/ɡoʊld ˈɔːrnəmənt/', vi: 'đồ trang sức bằng vàng', emoji: '💍', example: 'Archaeologists found a gold ornament in the ruins.', exampleVi: 'Các nhà khảo cổ tìm thấy một món trang sức bằng vàng trong phế tích.' },
+        ],
+      },
+      {
+        id: 'ha-tien',
+        title: 'Historic Ha Tien',
+        vi: 'Hà Tiên xưa',
+        emoji: '🏯',
+        blurb: 'A coastal town with a rich past.',
+        badge: { title: 'Ha Tien Historian', vi: 'Nhà sử học Hà Tiên', emoji: '🏛️' },
+        words: [
+          { en: 'Ha Tien', ipa: '/hɑː ˈtjɛn/', vi: 'Hà Tiên', emoji: '🏯', example: 'Ha Tien is a historic town by the sea.', exampleVi: 'Hà Tiên là một thị trấn lịch sử bên bờ biển.' },
+          { en: 'Mac Cuu Mausoleum', ipa: '/mɑːk kjuː ˌmɔːsəˈliːəm/', vi: 'lăng Mạc Cửu', emoji: '🕍', example: 'The Mac Cuu Mausoleum honors the founder of Ha Tien.', exampleVi: 'Lăng Mạc Cửu tưởng nhớ người sáng lập Hà Tiên.' },
+          { en: 'Ancestor', ipa: '/ˈænsɛstər/', vi: 'tổ tiên', emoji: '🕯️', example: 'The Mac family honored their ancestors with temples.', exampleVi: 'Họ Mạc tôn vinh tổ tiên bằng các ngôi đền.' },
+          { en: 'Stone tablet', ipa: '/stoʊn ˈtæblət/', vi: 'bia đá', emoji: '🪨', example: 'An old stone tablet tells the story of the town.', exampleVi: 'Một tấm bia đá cổ kể câu chuyện của thị trấn.' },
+          { en: 'Historic relic', ipa: '/hɪˈstɔːrɪk ˈrɛlɪk/', vi: 'di tích lịch sử', emoji: '🏛️', example: 'This historic relic is protected by the nation.', exampleVi: 'Di tích lịch sử này được nhà nước bảo vệ.' },
+          { en: 'Dynasty', ipa: '/ˈdaɪnəsti/', vi: 'triều đại', emoji: '👑', example: 'The Mac family ruled Ha Tien for several generations.', exampleVi: 'Họ Mạc cai quản Hà Tiên qua nhiều thế hệ.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'cuisine',
+    title: 'Cuisine',
+    vi: 'Ẩm thực',
+    emoji: '🍜',
+    from: '#f0a33a',
+    to: '#d9782a',
+    blurb: 'Flavors of the Mekong Delta and the sea.',
+    lessons: [
+      {
+        id: 'famous-dishes',
+        title: 'Famous Dishes',
+        vi: 'Món ngon nổi tiếng',
+        emoji: '🍲',
+        blurb: 'From fish noodle soup to sea urchin.',
+        badge: { title: 'Mekong Food Hunter', vi: 'Thợ săn ẩm thực miền Tây', emoji: '🍜' },
+        words: [
+          { en: 'Fish noodle soup', ipa: '/fɪʃ ˈnuːdəl suːp/', vi: 'bún cá', emoji: '🍜', example: 'Chau Doc is famous for its fish noodle soup.', exampleVi: 'Châu Đốc nổi tiếng với món bún cá.' },
+          { en: 'Fermented fish paste', ipa: '/fərˈmɛntɪd fɪʃ peɪst/', vi: 'mắm cá', emoji: '🐟', example: 'Fermented fish paste is a specialty of Chau Doc.', exampleVi: 'Mắm là đặc sản của Châu Đốc.' },
+          { en: 'Tile-grilled beef', ipa: '/taɪl ɡrɪld biːf/', vi: 'bò nướng ngói', emoji: '🥩', example: 'Tile-grilled beef is cooked on a hot clay tile.', exampleVi: 'Bò nướng ngói được nướng trên một viên ngói nóng.' },
+          { en: 'Fermented fish hotpot', ipa: '/fərˈmɛntɪd fɪʃ ˈhɑːtpɑːt/', vi: 'lẩu mắm', emoji: '🍲', example: 'Fermented fish hotpot is served with fresh vegetables.', exampleVi: 'Lẩu mắm được dùng kèm rau tươi.' },
+          { en: 'Herring salad', ipa: '/ˈhɛrɪŋ ˈsæləd/', vi: 'gỏi cá trích', emoji: '🥗', example: 'Herring salad is a famous dish on Phu Quoc.', exampleVi: 'Gỏi cá trích là món nổi tiếng ở Phú Quốc.' },
+          { en: 'Sea urchin', ipa: '/siː ˈɜːrtʃɪn/', vi: 'nhum biển', emoji: '🦔', example: 'Grilled sea urchin is a Phu Quoc favorite.', exampleVi: 'Nhum nướng là món được yêu thích ở Phú Quốc.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'crafts',
+    title: 'Crafts',
+    vi: 'Ngành nghề',
+    emoji: '🧵',
+    from: '#e08a6b',
+    to: '#c4604a',
+    blurb: 'Silk, brocade and river livelihoods.',
+    lessons: [
+      {
+        id: 'silk-and-brocade',
+        title: 'Silk, Brocade and Rivers',
+        vi: 'Lụa, thổ cẩm và nghề sông nước',
+        emoji: '🧣',
+        blurb: 'Hands that weave and rivers that feed.',
+        badge: { title: 'Silk Village Weaver', vi: 'Nghệ nhân làng lụa', emoji: '🧵' },
+        words: [
+          { en: 'Tan Chau silk', ipa: '/tæn tʃaʊ sɪlk/', vi: 'lụa Tân Châu', emoji: '🧣', example: 'Tan Chau silk is soft, smooth and famous across Vietnam.', exampleVi: 'Lụa Tân Châu mềm, mượt và nổi tiếng khắp Việt Nam.' },
+          { en: 'Silkworm', ipa: '/ˈsɪlkwɜːrm/', vi: 'con tằm', emoji: '🐛', example: 'Silkworms eat mulberry leaves.', exampleVi: 'Tằm ăn lá dâu.' },
+          { en: 'Loom', ipa: '/luːm/', vi: 'khung dệt', emoji: '🧵', example: 'She weaves cloth on a wooden loom.', exampleVi: 'Cô ấy dệt vải trên khung dệt bằng gỗ.' },
+          { en: 'Brocade', ipa: '/broʊˈkeɪd/', vi: 'thổ cẩm', emoji: '🎨', example: 'Cham brocade has bright colors and beautiful patterns.', exampleVi: 'Thổ cẩm Chăm có màu sắc rực rỡ và hoa văn đẹp.' },
+          { en: 'Dye', ipa: '/daɪ/', vi: 'nhuộm', emoji: '🪣', example: 'Villagers dye the thread with natural colors.', exampleVi: 'Dân làng nhuộm sợi bằng màu tự nhiên.' },
+          { en: 'Floating fish farm', ipa: '/ˈfloʊtɪŋ fɪʃ fɑːrm/', vi: 'bè cá (nuôi cá bè)', emoji: '🐠', example: 'A floating fish farm lies on the Hau River.', exampleVi: 'Một bè nuôi cá nằm trên sông Hậu.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'festivals',
+    title: 'Festivals',
+    vi: 'Lễ hội',
+    emoji: '🎉',
+    from: '#e57a9a',
+    to: '#c9526f',
+    blurb: 'Colorful celebrations across the province.',
+    lessons: [
+      {
+        id: 'festival-time',
+        title: 'Festival Time',
+        vi: 'Mùa lễ hội',
+        emoji: '🎊',
+        blurb: 'Pilgrims, bulls and moonlight.',
+        badge: { title: 'Festival Ambassador', vi: 'Đại sứ lễ hội', emoji: '🎊' },
+        words: [
+          { en: 'Ba Chua Xu Festival', ipa: '/bɑː tʃuə suː ˈfɛstəvəl/', vi: 'lễ hội Vía Bà Chúa Xứ', emoji: '🎊', example: 'The Ba Chua Xu Festival attracts thousands of visitors to Sam Mountain.', exampleVi: 'Lễ hội Vía Bà thu hút hàng nghìn du khách đến núi Sam.' },
+          { en: 'Bull racing', ipa: '/bʊl ˈreɪsɪŋ/', vi: 'đua bò', emoji: '🐂', example: 'Bull racing in the Seven Mountains is a Khmer tradition.', exampleVi: 'Đua bò Bảy Núi là một truyền thống của người Khmer.' },
+          { en: 'Khmer New Year', ipa: '/kəˈmɛr nuː jɪr/', vi: 'Tết Chol Chnam Thmay', emoji: '🎉', example: 'Khmer New Year is celebrated in April.', exampleVi: 'Tết Chol Chnam Thmay được đón vào tháng Tư.' },
+          { en: 'Moon worship', ipa: '/muːn ˈwɜːrʃɪp/', vi: 'cúng trăng', emoji: '🌕', example: 'Ok Om Bok is a moon worship festival of the Khmer people.', exampleVi: 'Ok Om Bok là lễ hội cúng trăng của người Khmer.' },
+          { en: 'Offering', ipa: '/ˈɔːfərɪŋ/', vi: 'lễ vật', emoji: '🍎', example: 'Families bring offerings of fruit and flowers.', exampleVi: 'Các gia đình mang lễ vật là trái cây và hoa.' },
+          { en: 'Pilgrim', ipa: '/ˈpɪlɡrɪm/', vi: 'người hành hương', emoji: '🙏', example: 'Pilgrims travel from all over Vietnam to Sam Mountain.', exampleVi: 'Người hành hương đến núi Sam từ khắp Việt Nam.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'seas-islands',
+    title: 'Seas & Islands',
+    vi: 'Du lịch biển đảo',
+    emoji: '🏝️',
+    from: '#3aa0c4',
+    to: '#1f7aa3',
+    blurb: 'The Kien Giang coast and Phu Quoc.',
+    lessons: [
+      {
+        id: 'ha-tien-coast',
+        title: 'Ha Tien & Kien Luong Coast',
+        vi: 'Bờ biển Hà Tiên – Kiên Lương',
+        emoji: '⛵',
+        blurb: 'Limestone islets and quiet bays.',
+        badge: { title: 'Coast Voyager', vi: 'Nhà hàng hải duyên hải', emoji: '⛵' },
+        words: [
+          { en: 'Father and Son Islet', ipa: '/ˈfɑːðər ənd sʌn ˈaɪlət/', vi: 'Hòn Phụ Tử', emoji: '🏝️', example: 'Father and Son Islet is a popular photo spot near Ha Tien.', exampleVi: 'Hòn Phụ Tử là điểm chụp ảnh được ưa chuộng gần Hà Tiên.' },
+          { en: 'Islet', ipa: '/ˈaɪlət/', vi: 'hòn đảo nhỏ', emoji: '🪨', example: 'A tiny islet rises from the calm sea.', exampleVi: 'Một hòn đảo nhỏ nhô lên giữa biển lặng.' },
+          { en: 'Limestone', ipa: '/ˈlaɪmstoʊn/', vi: 'đá vôi', emoji: '⛰️', example: 'The rocky hills near Ha Tien are made of limestone.', exampleVi: 'Những ngọn đồi đá gần Hà Tiên được tạo nên từ đá vôi.' },
+          { en: 'Cave', ipa: '/keɪv/', vi: 'hang động', emoji: '🕳️', example: 'Visitors can explore a cave full of stalactites.', exampleVi: 'Du khách có thể khám phá một hang động đầy nhũ đá.' },
+          { en: 'Coastline', ipa: '/ˈkoʊstlaɪn/', vi: 'bờ biển', emoji: '🏖️', example: 'The coastline of Kien Giang is long and beautiful.', exampleVi: 'Bờ biển Kiên Giang dài và xinh đẹp.' },
+          { en: 'Speedboat', ipa: '/ˈspiːdboʊt/', vi: 'tàu cao tốc', emoji: '🚤', example: 'A speedboat takes us to the islands quickly.', exampleVi: 'Tàu cao tốc đưa chúng tôi ra đảo thật nhanh.' },
+        ],
+      },
+      {
+        id: 'phu-quoc',
+        title: 'Phu Quoc Island',
+        vi: 'Đảo ngọc Phú Quốc',
+        emoji: '🦪',
+        blurb: 'Beaches, coral and sunsets.',
+        badge: { title: 'Pearl Island Adventurer', vi: 'Nhà thám hiểm đảo ngọc', emoji: '🦪' },
+        words: [
+          { en: 'Phu Quoc Island', ipa: '/fuː kwɒk ˈaɪlənd/', vi: 'đảo Phú Quốc', emoji: '🏝️', example: 'Phu Quoc Island is the largest island in Vietnam.', exampleVi: 'Phú Quốc là hòn đảo lớn nhất Việt Nam.' },
+          { en: 'Sandy beach', ipa: '/ˈsændi biːtʃ/', vi: 'bãi cát', emoji: '🏖️', example: 'We walked along a sandy beach at sunset.', exampleVi: 'Chúng tôi đi dạo trên bãi cát lúc hoàng hôn.' },
+          { en: 'Coral reef', ipa: '/ˈkɔːrəl riːf/', vi: 'rạn san hô', emoji: '🪸', example: 'A coral reef is home to colorful fish.', exampleVi: 'Rạn san hô là nhà của những loài cá đầy màu sắc.' },
+          { en: 'Snorkeling', ipa: '/ˈsnɔːrkəlɪŋ/', vi: 'lặn ống thở', emoji: '🤿', example: 'Snorkeling is popular around the southern islands.', exampleVi: 'Lặn ống thở rất được ưa chuộng quanh các đảo phía nam.' },
+          { en: 'Sunset', ipa: '/ˈsʌnsɛt/', vi: 'hoàng hôn', emoji: '🌇', example: 'Many tourists watch the sunset from the beach.', exampleVi: 'Nhiều du khách ngắm hoàng hôn từ bãi biển.' },
+          { en: 'Sea-crossing cable car', ipa: '/siː ˈkrɔːsɪŋ ˈkeɪbəl kɑːr/', vi: 'cáp treo vượt biển', emoji: '🚡', example: 'The sea-crossing cable car links Phu Quoc to Hon Thom Island.', exampleVi: 'Cáp treo vượt biển nối Phú Quốc với đảo Hòn Thơm.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'ocop',
+    title: 'OCOP Products',
+    vi: 'Sản phẩm OCOP',
+    emoji: '🏅',
+    from: '#d2a73a',
+    to: '#a9801f',
+    blurb: 'One Commune, One Product.',
+    lessons: [
+      {
+        id: 'local-products',
+        title: 'Proud Local Products',
+        vi: 'Sản phẩm tự hào',
+        emoji: '🍯',
+        blurb: 'Sugar, sauce, pepper and pearls.',
+        badge: { title: 'OCOP Merchant', vi: 'Thương gia OCOP', emoji: '🏅' },
+        words: [
+          { en: 'OCOP', ipa: '/ˈoʊkɑːp/', vi: 'OCOP – Mỗi xã một sản phẩm', emoji: '🏅', say: 'O-cop', example: 'OCOP stands for One Commune One Product.', exampleVi: 'OCOP là viết tắt của "Mỗi xã một sản phẩm".' },
+          { en: 'Palm sugar', ipa: '/pɑːm ˈʃʊɡər/', vi: 'đường thốt nốt', emoji: '🍯', example: 'Palm sugar is made from the sap of the palmyra palm.', exampleVi: 'Đường thốt nốt được làm từ nhựa cây thốt nốt.' },
+          { en: 'Palmyra palm', ipa: '/pælˈmaɪrə pɑːm/', vi: 'cây thốt nốt', emoji: '🌴', example: 'Palmyra palms grow tall beside the rice fields.', exampleVi: 'Cây thốt nốt mọc cao bên những ruộng lúa.' },
+          { en: 'Fish sauce', ipa: '/fɪʃ sɔːs/', vi: 'nước mắm', emoji: '🍶', example: 'Phu Quoc fish sauce is famous across Vietnam.', exampleVi: 'Nước mắm Phú Quốc nổi tiếng khắp Việt Nam.' },
+          { en: 'Pepper', ipa: '/ˈpɛpər/', vi: 'hồ tiêu', emoji: '🌶️', example: 'Phu Quoc pepper is spicy and fragrant.', exampleVi: 'Hồ tiêu Phú Quốc cay và thơm.' },
+          { en: 'Pearl', ipa: '/pɜːrl/', vi: 'ngọc trai', emoji: '🦪', example: 'Visitors can see how a pearl is grown on a farm.', exampleVi: 'Du khách có thể xem ngọc trai được nuôi cấy như thế nào.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'wildlife',
+    title: 'Nature & Wildlife',
+    vi: 'Thiên nhiên',
+    emoji: '🦜',
+    from: '#38a58a',
+    to: '#237d68',
+    blurb: 'Wetlands, mangroves and rare animals.',
+    lessons: [
+      {
+        id: 'wild-places',
+        title: 'Wild Places',
+        vi: 'Những miền hoang dã',
+        emoji: '🌿',
+        blurb: 'Parks, birds and the ridgeback dog.',
+        badge: { title: 'Wetland Guardian', vi: 'Người bảo vệ đất ngập nước', emoji: '🦜' },
+        words: [
+          { en: 'Wetland', ipa: '/ˈwɛtlænd/', vi: 'đất ngập nước', emoji: '🌿', example: 'The wetland is home to many rare birds.', exampleVi: 'Vùng đất ngập nước là nhà của nhiều loài chim quý hiếm.' },
+          { en: 'Mangrove', ipa: '/ˈmæŋɡroʊv/', vi: 'rừng ngập mặn', emoji: '🌱', example: 'Mangroves protect the coast from storms.', exampleVi: 'Rừng ngập mặn bảo vệ bờ biển khỏi bão.' },
+          { en: 'Biosphere reserve', ipa: '/ˈbaɪəsfɪr rɪˈzɜːrv/', vi: 'khu dự trữ sinh quyển', emoji: '🌍', example: 'The Kien Giang biosphere reserve is recognized by UNESCO.', exampleVi: 'Khu dự trữ sinh quyển Kiên Giang được UNESCO công nhận.' },
+          { en: 'Migratory bird', ipa: '/ˈmaɪɡrətɔːri bɜːrd/', vi: 'chim di cư', emoji: '🐦', example: 'Migratory birds visit the wetlands every winter.', exampleVi: 'Chim di cư đến vùng đất ngập nước mỗi mùa đông.' },
+          { en: 'Ridgeback dog', ipa: '/ˈrɪdʒbæk dɔːɡ/', vi: 'chó Phú Quốc', emoji: '🐕', example: 'The Phu Quoc ridgeback dog has a ridge of hair on its back.', exampleVi: 'Chó Phú Quốc có một vệt lông ngược trên lưng.' },
+          { en: 'National park', ipa: '/ˈnæʃənəl pɑːrk/', vi: 'vườn quốc gia', emoji: '🏞️', example: 'U Minh Thuong National Park protects a large cajuput forest.', exampleVi: 'Vườn quốc gia U Minh Thượng bảo vệ một khu rừng tràm rộng lớn.' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'spiritual',
+    title: 'Spiritual Sites',
+    vi: 'Tâm linh',
+    emoji: '🛕',
+    from: '#8d6bb8',
+    to: '#6a4a96',
+    blurb: 'Pagodas, temples and mosques.',
+    lessons: [
+      {
+        id: 'places-of-worship',
+        title: 'Places of Worship',
+        vi: 'Nơi thờ tự',
+        emoji: '🙏',
+        blurb: 'Many cultures, many beliefs.',
+        badge: { title: 'Peaceful Pilgrim', vi: 'Người hành hương an lành', emoji: '🙏' },
+        words: [
+          { en: 'Pagoda', ipa: '/pəˈɡoʊdə/', vi: 'chùa', emoji: '🛕', example: 'Many families visit the pagoda at Lunar New Year.', exampleVi: 'Nhiều gia đình đi chùa dịp Tết.' },
+          { en: 'Khmer pagoda', ipa: '/kəˈmɛr pəˈɡoʊdə/', vi: 'chùa Khmer', emoji: '🛕', example: 'A Khmer pagoda has a colorful roof and a peaceful yard.', exampleVi: 'Chùa Khmer có mái nhà nhiều màu sắc và sân chùa yên bình.' },
+          { en: 'Temple', ipa: '/ˈtɛmpəl/', vi: 'miếu, đền', emoji: '🏯', example: 'Ba Chua Xu Temple is one of the most famous temples in the south.', exampleVi: 'Miếu Bà Chúa Xứ là một trong những ngôi miếu nổi tiếng nhất miền Nam.' },
+          { en: 'Incense', ipa: '/ˈɪnsɛns/', vi: 'hương, nhang', emoji: '🪔', example: 'People burn incense to show respect.', exampleVi: 'Người ta thắp hương để thể hiện lòng kính trọng.' },
+          { en: 'Mosque', ipa: '/mɑːsk/', vi: 'thánh đường Hồi giáo', emoji: '🕌', example: 'The Cham community prays at the mosque on Fridays.', exampleVi: 'Cộng đồng người Chăm cầu nguyện tại thánh đường vào thứ Sáu.' },
+          { en: 'Monk', ipa: '/mʌŋk/', vi: 'nhà sư', emoji: '🧘', example: 'A monk blesses the visitors with a smile.', exampleVi: 'Một nhà sư chúc phúc cho du khách bằng nụ cười.' },
+        ],
+      },
+    ],
+  },
+];
+
+export function getCategory(id: string) {
+  return categories.find((c) => c.id === id);
+}
+
+export function getLesson(categoryId: string, lessonId: string) {
+  const category = getCategory(categoryId);
+  const lesson = category?.lessons.find((l) => l.id === lessonId);
+  return category && lesson ? { category, lesson } : undefined;
+}
