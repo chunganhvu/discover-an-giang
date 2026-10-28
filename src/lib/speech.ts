@@ -48,8 +48,8 @@ export function stopSpeaking() {
 export async function speak(
   text: string,
   opts: { lang?: string; rate?: number; audio?: string } = {},
-): Promise<void> {
-  if (typeof window === 'undefined') return;
+): Promise<boolean> {
+  if (typeof window === 'undefined') return true;
   const wasSpeaking = !!synth()?.speaking || !!synth()?.pending;
   stopSpeaking();
 
@@ -61,13 +61,13 @@ export async function speak(
       el.onerror = () => resolve(false);
       el.play().catch(() => resolve(false));
     });
-    if (played) return;
+    if (played) return true;
   }
 
   const s = synth();
   if (!s) {
     await sleep(600);
-    return;
+    return false;
   }
 
   // Calling speak() right after cancel() is silently dropped by some browsers.
@@ -75,20 +75,33 @@ export async function speak(
   const voices = await loadVoices();
   const lang = opts.lang ?? 'en-US';
 
-  await new Promise<void>((resolve) => {
+  return new Promise<boolean>((resolve) => {
     const u = new SpeechSynthesisUtterance(text);
     currentUtterance = u;
     u.lang = lang;
     u.rate = opts.rate ?? 0.85;
     const voice = pickVoice(voices, lang);
     if (voice) u.voice = voice;
-    const guard = setTimeout(resolve, text.length * 160 + 2500);
-    const done = () => {
+    let started = false;
+    // Some tablets accept speak() but never produce sound; report that instead of failing silently.
+    const startGuard = setTimeout(() => {
+      if (!started) {
+        s.cancel();
+        resolve(false);
+      }
+    }, 2000);
+    const guard = setTimeout(() => resolve(started), text.length * 160 + 4000);
+    const done = (ok: boolean) => {
+      clearTimeout(startGuard);
       clearTimeout(guard);
-      resolve();
+      resolve(ok);
     };
-    u.onend = done;
-    u.onerror = done;
+    u.onstart = () => {
+      started = true;
+      clearTimeout(startGuard);
+    };
+    u.onend = () => done(true);
+    u.onerror = (e) => done(e.error === 'canceled' || e.error === 'interrupted');
     s.resume();
     s.speak(u);
   });

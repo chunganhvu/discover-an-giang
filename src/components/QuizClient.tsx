@@ -24,6 +24,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
   const [score, setScore] = useState(0);
   const [missed, setMissed] = useState<Question[]>([]);
   const [round, setRound] = useState(0);
+  const [silent, setSilent] = useState(false);
 
   // Built after mount so server HTML and client render never differ (questions are shuffled).
   useEffect(() => {
@@ -39,7 +40,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
   const q = questions?.[i];
 
   useEffect(() => {
-    if (q?.type === 'listen') speakWord(q.word);
+    if (q?.type === 'listen') speakWord(q.word).then((ok) => setSilent(!ok));
   }, [q]);
 
   if (!questions) return <p className="counter">Loading…</p>;
@@ -99,7 +100,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
     const ok = choice === q.answer;
     if (ok) setScore((s) => s + 1);
     else setMissed((m) => [...m, q]);
-    speak(q.word.say ?? q.word.en, { audio: q.word.audio });
+    speak(q.word.say ?? q.word.en, { audio: q.word.audio }).then((ok) => setSilent(!ok));
   };
 
   return (
@@ -111,7 +112,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
         Question {i + 1} / {questions.length}
       </p>
 
-      <SpeechNotice hasRecordedAudio={lesson.words.every((w) => !!w.audio)} />
+      <SpeechNotice hasRecordedAudio={lesson.words.every((w) => !!w.audio)} failed={silent} />
       <div className="prompt">
         {q.type === 'image' && (
           <>
@@ -121,7 +122,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
         )}
         {q.type === 'listen' && (
           <>
-            <button type="button" className="listen" onClick={() => speakWord(q.word)} aria-label="Play the word again">
+            <button type="button" className="listen" onClick={() => speakWord(q.word).then((ok) => setSilent(!ok))} aria-label="Play the word again">
               🔊
             </button>
             <h2>Listen and choose the word</h2>

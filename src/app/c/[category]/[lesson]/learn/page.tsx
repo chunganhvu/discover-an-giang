@@ -5,6 +5,7 @@ import { withAssets } from '@/data/assets';
 import LearnClient from '@/components/LearnClient';
 import LessonTabs from '@/components/LessonTabs';
 import ViToggle from '@/components/ViToggle';
+import FullscreenButton from '@/components/FullscreenButton';
 
 export const dynamicParams = false;
 
@@ -28,6 +29,7 @@ export default async function LearnPage({ params }: { params: Promise<{ category
           {category.title} • {category.vi}
         </span>
         <ViToggle />
+        <FullscreenButton />
       </header>
       <main className="lesson-main">
         <LearnClient category={category} lesson={withAssets(lesson)} />

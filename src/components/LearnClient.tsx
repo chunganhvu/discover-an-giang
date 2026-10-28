@@ -19,6 +19,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
   const [done, setDone] = useState(false);
   const [autoNext, setAutoNext] = useState(false);
   const [playing, setPlaying] = useState(false);
+  const [silent, setSilent] = useState(false);
   const token = useRef(0);
   const startX = useRef<number | null>(null);
 
@@ -45,8 +46,9 @@ export default function LearnClient({ category, lesson }: { category: Category; 
   const play = useCallback(async () => {
     const mine = ++token.current;
     setPlaying(true);
-    await speakWord(words[index]);
+    const ok = await speakWord(words[index]);
     if (mine !== token.current) return;
+    setSilent(!ok);
     setPlaying(false);
     if (autoNext) {
       await new Promise((r) => setTimeout(r, 450));
@@ -156,7 +158,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           </div>
         </article>
       </div>
-      <SpeechNotice hasRecordedAudio={words.every((w) => !!w.audio)} />
+      <SpeechNotice hasRecordedAudio={words.every((w) => !!w.audio)} failed={silent} />
       <p className="hint">Tap the card to hear it · Swipe to continue</p>
 
       <label className="auto">

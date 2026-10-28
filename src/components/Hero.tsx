@@ -1,4 +1,5 @@
 import ViToggle from './ViToggle';
+import FullscreenButton from './FullscreenButton';
 
 const base = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
 
@@ -17,6 +18,7 @@ export default function Hero() {
       />
       <h1 className="sr-only">Khám phá An Giang – Discover An Giang</h1>
       <ViToggle />
+      <FullscreenButton />
       <p className="hero-tag">Khám phá An Giang · Núi rừng &amp; Biển đảo</p>
     </header>
   );
