@@ -7,6 +7,7 @@ import { speakWord, stopSpeaking } from '@/lib/speech';
 import { usePrefs } from '@/lib/prefs';
 import Illustration from './Illustration';
 import BadgeCard from './BadgeCard';
+import SpeechNotice from './SpeechNotice';
 
 const SWIPE_PX = 50;
 
@@ -155,6 +156,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           </div>
         </article>
       </div>
+      <SpeechNotice hasRecordedAudio={words.every((w) => !!w.audio)} />
       <p className="hint">Tap the card to hear it · Swipe to continue</p>
 
       <label className="auto">

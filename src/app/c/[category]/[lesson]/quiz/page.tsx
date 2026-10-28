@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
+import { withAssets } from '@/data/assets';
 import QuizClient from '@/components/QuizClient';
 import LessonTabs from '@/components/LessonTabs';
 import ViToggle from '@/components/ViToggle';
@@ -29,7 +30,7 @@ export default async function QuizPage({ params }: { params: Promise<{ category:
         <ViToggle />
       </header>
       <main className="lesson-main">
-        <QuizClient category={category} lesson={lesson} />
+        <QuizClient category={category} lesson={withAssets(lesson)} />
       </main>
       <LessonTabs category={category.id} lesson={lesson.id} active="quiz" />
     </div>

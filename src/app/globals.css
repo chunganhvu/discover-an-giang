@@ -238,3 +238,4 @@ button { font: inherit; cursor: pointer; }
 .tabs svg { margin-bottom: 1px; }
 .grid li:last-child:nth-child(odd) { grid-column: 1 / -1; }
 .grid li:last-child:nth-child(odd) .cat-art { height: 110px; }
+.speech-notice { margin: 8px 0; padding: 10px 12px; border-radius: 12px; background: #fff1d6; color: #7a4b00; font-size: .78rem; font-weight: 700; }

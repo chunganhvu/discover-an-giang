@@ -8,6 +8,7 @@ import { speak, speakWord, stopSpeaking } from '@/lib/speech';
 import { usePrefs } from '@/lib/prefs';
 import Illustration from './Illustration';
 import BadgeCard from './BadgeCard';
+import SpeechNotice from './SpeechNotice';
 
 const MESSAGES = {
   gold: 'Outstanding! You know An Giang very well.',
@@ -110,6 +111,7 @@ export default function QuizClient({ category, lesson }: { category: Category; l
         Question {i + 1} / {questions.length}
       </p>
 
+      <SpeechNotice hasRecordedAudio={lesson.words.every((w) => !!w.audio)} />
       <div className="prompt">
         {q.type === 'image' && (
           <>
