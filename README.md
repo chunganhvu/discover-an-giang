@@ -2,7 +2,7 @@
 
 A free, offline-capable **PWA** that teaches English vocabulary through the places, food and culture of **An Giang (merged with Kiên Giang)**. Built for officials, teachers, students and everyone in the community.
 
-- 9 topics, 28 lessons, 168 words: Landscapes, Heritage, Cuisine, Crafts, Festivals, Seas & Islands, OCOP Products, Nature & Wildlife, Spiritual Sites
+- 9 topics, 50 lessons, 300 words: Landscapes, Heritage, Cuisine, Crafts, Festivals, Seas & Islands, OCOP Products, Nature & Wildlife, Spiritual Sites
 - Each lesson has **Learn** (tap-to-hear flashcards with IPA, Vietnamese meaning, example sentence; swipe or press Next) and **Quiz** (picture, listening, fill-in-the-blank, meaning questions)
 - Finishing a lesson shows a local **badge** (e.g. *Thất Sơn Ambassador*, *Tra Su Forest Ranger*). Nothing is saved – badges are just for fun
 - Vietnamese meanings can be switched on/off
