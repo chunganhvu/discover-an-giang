@@ -88,7 +88,11 @@ const scenes: Record<string, React.ReactNode> = {
   ),
 };
 
-export default function CategoryArt({ id }: { id: string }) {
+export default function CategoryArt({ id, image }: { id: string; image?: string }) {
+  if (image) {
+    // eslint-disable-next-line @next/next/no-img-element
+    return <img className="cat-art" src={image} alt="" loading="lazy" decoding="async" />;
+  }
   return (
     <svg className="cat-art" viewBox="0 0 160 100" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
       {scenes[id]}

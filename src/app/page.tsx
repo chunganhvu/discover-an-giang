@@ -2,6 +2,17 @@ import Link from 'next/link';
 import Hero from '@/components/Hero';
 import { categories } from '@/data/content';
 import CategoryArt from '@/components/CategoryArt';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const base = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
+
+/** public/images/categories/<id>.webp is used when present; otherwise the built-in SVG scene. */
+function categoryImage(id: string) {
+  return fs.existsSync(path.join(process.cwd(), 'public', 'images', 'categories', `${id}.webp`))
+    ? `${base}/images/categories/${id}.webp`
+    : undefined;
+}
 
 export default function Home() {
   return (
@@ -15,7 +26,7 @@ export default function Home() {
           {categories.map((c) => (
             <li key={c.id}>
               <Link href={`/c/${c.id}/`} className="cat-card">
-                <CategoryArt id={c.id} />
+                <CategoryArt id={c.id} image={categoryImage(c.id)} />
                 <span className="cat-label" style={{ background: `linear-gradient(180deg, ${c.from}, ${c.to})` }}>
                   <span className="cat-title">{c.title}</span>
                   <span className="cat-vi">({c.vi})</span>

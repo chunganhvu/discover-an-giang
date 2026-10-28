@@ -284,3 +284,30 @@ body { background: var(--green-soft); }
 }
 .hero .fs-btn { position: absolute; top: 10px; right: 10px; }
 .lesson-top .fs-btn { box-shadow: none; border: 1px solid #bfe0c6; width: 30px; height: 30px; }
+
+/* ---------- Topic cards: modern, balanced on every screen ---------- */
+.home { max-width: 1200px; padding-left: clamp(16px, 3vw, 40px); padding-right: clamp(16px, 3vw, 40px); }
+.grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(12px, 2.4vw, 28px); }
+.cat-card {
+  border: 0; border-radius: clamp(20px, 2.4vw, 30px); min-height: 0; background: #fff;
+  box-shadow: 0 8px 22px rgba(15, 80, 42, .14); transition: transform .2s, box-shadow .2s;
+}
+.cat-card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(15, 80, 42, .22); }
+.cat-card:active { transform: scale(.98); }
+.cat-art { width: 100%; height: auto; aspect-ratio: 16 / 11; object-fit: cover; transition: transform .35s; }
+.cat-card:hover .cat-art { transform: scale(1.04); }
+.cat-card { position: relative; }
+.cat-card > .cat-art { position: relative; z-index: 0; }
+.cat-label { position: relative; z-index: 1; padding: clamp(10px, 1.6vw, 20px) 8px; gap: 2px; }
+.cat-title { font-size: clamp(.85rem, 1.5vw + .3rem, 1.5rem); }
+.cat-vi { font-size: clamp(.78rem, 1.1vw + .3rem, 1.15rem); }
+
+/* Phones: 2 columns; the odd ninth card spans the full row. */
+@media (max-width: 599px) {
+  .grid li:last-child:nth-child(odd) { grid-column: 1 / -1; }
+  .grid li:last-child:nth-child(odd) .cat-art { aspect-ratio: 21 / 9; }
+}
+/* Tablets, laptops: 3 columns so 9 topics form a perfect 3 x 3 grid. */
+@media (min-width: 600px) {
+  .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
