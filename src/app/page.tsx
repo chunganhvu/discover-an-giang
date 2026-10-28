@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Hero from '@/components/Hero';
 import { categories } from '@/data/content';
+import CategoryArt from '@/components/CategoryArt';
 
 export default function Home() {
   return (
@@ -13,16 +14,12 @@ export default function Home() {
         <ul className="grid">
           {categories.map((c) => (
             <li key={c.id}>
-              <Link
-                href={`/c/${c.id}/`}
-                className="cat-card"
-                style={{ background: `linear-gradient(165deg, ${c.from}, ${c.to})` }}
-              >
-                <span className="cat-emoji" aria-hidden="true">
-                  {c.emoji}
+              <Link href={`/c/${c.id}/`} className="cat-card">
+                <CategoryArt id={c.id} />
+                <span className="cat-label" style={{ background: `linear-gradient(180deg, ${c.from}, ${c.to})` }}>
+                  <span className="cat-title">{c.title}</span>
+                  <span className="cat-vi">({c.vi})</span>
                 </span>
-                <span className="cat-title">{c.title}</span>
-                <span className="cat-vi">({c.vi})</span>
               </Link>
             </li>
           ))}

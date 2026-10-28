@@ -116,7 +116,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
       </p>
 
       <div
-        className="card-wrap"
+        className={`card-wrap${index > 0 ? ' has-prev' : ''}${index < words.length - 1 ? ' has-next' : ''}`}
         onPointerDown={(e) => {
           startX.current = e.clientX;
         }}
@@ -144,7 +144,10 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           <div className="flash-text">
             <h2>{word.en}</h2>
             <p className="ipa">
-              {word.ipa} <span className="speaker" aria-hidden="true">🔊</span>
+              {word.ipa}
+              <button type="button" className="speaker-btn" aria-label="Play pronunciation" onPointerUp={(e) => e.stopPropagation()} onPointerDown={(e) => e.stopPropagation()} onClick={(e) => { e.stopPropagation(); play(); }}>
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9z" /><path d="M16 8a5 5 0 0 1 0 8" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+              </button>
             </p>
             {showVi && <p className="vi">({word.vi})</p>}
             <p className="example">“{word.example}”</p>
