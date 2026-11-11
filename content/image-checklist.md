@@ -1,773 +1,774 @@
 # Danh sách ảnh cần tìm / Image checklist
 
-Mỗi từ cần **1 ảnh** (ngang 4:3, tối thiểu 800×600). Lưu đúng tên file theo cột "Tên file", thư mục `public/images/<id-bài>/`.
+✅ = đã có ảnh trên web · ☐ = cần ảnh
 
+Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` — đặt tên file = từ tiếng Anh + `.jpg` (ví dụ `Cham mosque.jpg`). Ảnh ngang 4:3, tối thiểu 1200×896.
 
 ## Landscapes (Cảnh đẹp)
 
-### The Seven Mountains (Vẻ đẹp Thất Sơn) — `seven-mountains`
+### The Seven Mountains (Vẻ đẹp Thất Sơn) — 10/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Seven Mountains | Bảy Núi (Thất Sơn) | `seven-mountains.webp` | ☐ |
-| 2 | Sam Mountain | Núi Sam | `sam-mountain.webp` | ☐ |
-| 3 | Cam Mountain | Núi Cấm | `cam-mountain.webp` | ☐ |
-| 4 | Cable car | cáp treo | `cable-car.webp` | ☐ |
-| 5 | Summit | đỉnh núi | `summit.webp` | ☐ |
-| 6 | Rice field | ruộng lúa | `rice-field.webp` | ☐ |
-| 7 | Mist | sương mù | `mist.webp` | ☐ |
-| 8 | Foothill | chân núi | `foothill.webp` | ☐ |
-| 9 | Hiking | đi bộ đường dài | `hiking.webp` | ☐ |
-| 10 | Panorama | toàn cảnh | `panorama.webp` | ☐ |
+| 1 | Seven Mountains | Bảy Núi (Thất Sơn) | `Seven Mountains.jpg` | ✅ |
+| 2 | Sam Mountain | Núi Sam | `Sam Mountain.jpg` | ✅ |
+| 3 | Cam Mountain | Núi Cấm | `Cam Mountain.jpg` | ✅ |
+| 4 | Cable car | cáp treo | `Cable car.jpg` | ✅ |
+| 5 | Summit | đỉnh núi | `Summit.jpg` | ✅ |
+| 6 | Rice field | ruộng lúa | `Rice field.jpg` | ✅ |
+| 7 | Mist | sương mù | `Mist.jpg` | ✅ |
+| 8 | Foothill | chân núi | `Foothill.jpg` | ✅ |
+| 9 | Hiking | đi bộ đường dài | `Hiking.jpg` | ✅ |
+| 10 | Panorama | toàn cảnh | `Panorama.jpg` | ✅ |
 
-### Tra Su Cajuput Forest (Rừng tràm Trà Sư) — `tra-su-forest`
+### Tra Su Cajuput Forest (Rừng tràm Trà Sư) — 10/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Cajuput forest | rừng tràm | `cajuput-forest.webp` | ☐ |
-| 2 | Duckweed | bèo tấm | `duckweed.webp` | ☐ |
-| 3 | Rowing boat | xuồng chèo | `rowing-boat.webp` | ☐ |
-| 4 | Watchtower | tháp quan sát | `watchtower.webp` | ☐ |
-| 5 | Egret | cò trắng | `egret.webp` | ☐ |
-| 6 | Flood season | mùa nước nổi | `flood-season.webp` | ☐ |
-| 7 | Wooden bridge | cây cầu gỗ | `wooden-bridge.webp` | ☐ |
-| 8 | Nature reserve | khu bảo tồn thiên nhiên | `nature-reserve.webp` | ☐ |
-| 9 | Canopy | tán cây | `canopy.webp` | ☐ |
-| 10 | Ecotourism | du lịch sinh thái | `ecotourism.webp` | ☐ |
+| 1 | Cajuput forest | rừng tràm | `Cajuput forest.jpg` | ✅ |
+| 2 | Duckweed | bèo tấm | `Duckweed.jpg` | ✅ |
+| 3 | Rowing boat | xuồng chèo | `Rowing boat.jpg` | ✅ |
+| 4 | Watchtower | tháp quan sát | `Watchtower.jpg` | ✅ |
+| 5 | Egret | cò trắng | `Egret.jpg` | ✅ |
+| 6 | Flood season | mùa nước nổi | `Flood season.jpg` | ✅ |
+| 7 | Wooden bridge | cây cầu gỗ | `Wooden bridge.jpg` | ✅ |
+| 8 | Nature reserve | khu bảo tồn thiên nhiên | `Nature reserve.jpg` | ✅ |
+| 9 | Canopy | tán cây | `Canopy.jpg` | ✅ |
+| 10 | Ecotourism | du lịch sinh thái | `Ecotourism.jpg` | ✅ |
 
-### Bung Binh Thien Lake (Hồ Búng Bình Thiên) — `bung-binh-thien`
+### Bung Binh Thien Lake (Hồ Búng Bình Thiên) — 6/11 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Bung Binh Thien Lake | hồ Búng Bình Thiên | `bung-binh-thien-lake.webp` | ☐ |
-| 2 | Sesbania flower | bông điên điển | `sesbania-flower.webp` | ☐ |
-| 3 | Sunrise | bình minh | `sunrise.webp` | ☐ |
-| 4 | Reflection | bóng phản chiếu | `reflection.webp` | ☐ |
-| 5 | Stilt house | nhà sàn | `stilt-house.webp` | ☐ |
-| 6 | Fishing boat | thuyền đánh cá | `fishing-boat.webp` | ☐ |
-| 7 | Cham people | người Chăm | `cham-people.webp` | ☐ |
-| 8 | Calm water | mặt nước phẳng lặng | `calm-water.webp` | ☐ |
-| 9 | Picnic | chuyến dã ngoại | `picnic.webp` | ☐ |
-| 10 | Shady tree | cây bóng mát | `shady-tree.webp` | ☐ |
-| 11 | Cham temple | chùa Chăm | `cham-temple.webp` | ☐ |
+| 1 | Bung Binh Thien Lake | hồ Búng Bình Thiên | `Bung Binh Thien Lake.jpg` | ☐ |
+| 2 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ☐ |
+| 3 | Sunrise | bình minh | `Sunrise.jpg` | ✅ |
+| 4 | Reflection | bóng phản chiếu | `Reflection.jpg` | ✅ |
+| 5 | Stilt house | nhà sàn | `Stilt house.jpg` | ✅ |
+| 6 | Fishing boat | thuyền đánh cá | `Fishing boat.jpg` | ✅ |
+| 7 | Cham people | người Chăm | `Cham people.jpg` | ☐ |
+| 8 | Calm water | mặt nước phẳng lặng | `Calm water.jpg` | ✅ |
+| 9 | Picnic | chuyến dã ngoại | `Picnic.jpg` | ☐ |
+| 10 | Shady tree | cây bóng mát | `Shady tree.jpg` | ✅ |
+| 11 | Cham mosque | thánh đường Chăm | `Cham mosque.jpg` | ☐ |
 
-### Ha Tien Scenery (Phong cảnh Hà Tiên) — `ha-tien-scenery`
+### Ha Tien Scenery (Phong cảnh Hà Tiên) — 1/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Dong Ho Lagoon | đầm Đông Hồ | `dong-ho-lagoon.webp` | ☐ |
-| 2 | Thach Dong Cave | Thạch Động | `thach-dong-cave.webp` | ☐ |
-| 3 | Mui Nai Cape | Mũi Nai | `mui-nai-cape.webp` | ☐ |
-| 4 | Lagoon | đầm phá | `lagoon.webp` | ☐ |
-| 5 | Stalactite | nhũ đá | `stalactite.webp` | ☐ |
-| 6 | Viewpoint | điểm ngắm cảnh | `viewpoint.webp` | ☐ |
-| 7 | Sea breeze | gió biển | `sea-breeze.webp` | ☐ |
-| 8 | Rocky hill | đồi đá | `rocky-hill.webp` | ☐ |
-| 9 | Sandy shore | bờ cát | `sandy-shore.webp` | ☐ |
-| 10 | Boat trip | chuyến đi thuyền | `boat-trip.webp` | ☐ |
+| 1 | Dong Ho Lagoon | đầm Đông Hồ | `Dong Ho Lagoon.jpg` | ✅ |
+| 2 | Thach Dong Cave | Thạch Động | `Thach Dong Cave.jpg` | ☐ |
+| 3 | Mui Nai Cape | Mũi Nai | `Mui Nai Cape.jpg` | ☐ |
+| 4 | Lagoon | đầm phá | `Lagoon.jpg` | ☐ |
+| 5 | Stalactite | nhũ đá | `Stalactite.jpg` | ☐ |
+| 6 | Viewpoint | điểm ngắm cảnh | `Viewpoint.jpg` | ☐ |
+| 7 | Sea breeze | gió biển | `Sea breeze.jpg` | ☐ |
+| 8 | Rocky hill | đồi đá | `Rocky hill.jpg` | ☐ |
+| 9 | Sandy shore | bờ cát | `Sandy shore.jpg` | ☐ |
+| 10 | Boat trip | chuyến đi thuyền | `Boat trip.jpg` | ☐ |
 
-### Phu Quoc Landscapes (Cảnh đẹp Phú Quốc) — `phu-quoc-landscapes`
+### Phu Quoc Landscapes (Cảnh đẹp Phú Quốc) — 1/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Sao Beach | bãi Sao | `sao-beach.webp` | ☐ |
-| 2 | Suoi Tranh Waterfall | suối Tranh | `suoi-tranh-waterfall.webp` | ☐ |
-| 3 | Dinh Cau Rock | mỏm đá Dinh Cậu | `dinh-cau-rock.webp` | ☐ |
-| 4 | Bai Khem Beach | bãi Khem | `bai-khem-beach.webp` | ☐ |
-| 5 | White sand | cát trắng | `white-sand.webp` | ☐ |
-| 6 | Lighthouse | hải đăng | `lighthouse.webp` | ☐ |
-| 7 | Palm tree | cây cọ, cây dừa | `palm-tree.webp` | ☐ |
-| 8 | Horizon | đường chân trời | `horizon.webp` | ☐ |
-| 9 | Tropical island | đảo nhiệt đới | `tropical-island.webp` | ☐ |
-| 10 | Forest trail | lối mòn trong rừng | `forest-trail.webp` | ☐ |
+| 1 | Sao Beach | bãi Sao | `Sao Beach.jpg` | ✅ |
+| 2 | Suoi Tranh Waterfall | suối Tranh | `Suoi Tranh Waterfall.jpg` | ☐ |
+| 3 | Dinh Cau Rock | mỏm đá Dinh Cậu | `Dinh Cau Rock.jpg` | ☐ |
+| 4 | Bai Khem Beach | bãi Khem | `Bai Khem Beach.jpg` | ☐ |
+| 5 | White sand | cát trắng | `White sand.jpg` | ☐ |
+| 6 | Lighthouse | hải đăng | `Lighthouse.jpg` | ☐ |
+| 7 | Palm tree | cây cọ, cây dừa | `Palm tree.jpg` | ☐ |
+| 8 | Horizon | đường chân trời | `Horizon.jpg` | ☐ |
+| 9 | Tropical island | đảo nhiệt đới | `Tropical island.jpg` | ☐ |
+| 10 | Forest trail | lối mòn trong rừng | `Forest trail.jpg` | ☐ |
 
-### U Minh Thuong Forest (Rừng U Minh Thượng) — `u-minh-thuong`
+### U Minh Thuong Forest (Rừng U Minh Thượng) — 1/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | U Minh Thuong | U Minh Thượng | `u-minh-thuong.webp` | ☐ |
-| 2 | Peat swamp forest | rừng ngập than bùn | `peat-swamp-forest.webp` | ☐ |
-| 3 | Swamp | đầm lầy | `swamp.webp` | ☐ |
-| 4 | Honey bee | ong mật | `honey-bee.webp` | ☐ |
-| 5 | Beehive | tổ ong | `beehive.webp` | ☐ |
-| 6 | Rainy season | mùa mưa | `rainy-season.webp` | ☐ |
-| 7 | Cajuput tree | cây tràm | `cajuput-tree.webp` | ☐ |
-| 8 | Wildlife | động vật hoang dã | `wildlife.webp` | ☐ |
-| 9 | Fire prevention | phòng cháy | `fire-prevention.webp` | ☐ |
-| 10 | Dry season | mùa khô | `dry-season.webp` | ☐ |
+| 1 | U Minh Thuong | U Minh Thượng | `U Minh Thuong.jpg` | ✅ |
+| 2 | Peat swamp forest | rừng ngập than bùn | `Peat swamp forest.jpg` | ☐ |
+| 3 | Swamp | đầm lầy | `Swamp.jpg` | ☐ |
+| 4 | Honey bee | ong mật | `Honey bee.jpg` | ☐ |
+| 5 | Beehive | tổ ong | `Beehive.jpg` | ☐ |
+| 6 | Rainy season | mùa mưa | `Rainy season.jpg` | ☐ |
+| 7 | Cajuput tree | cây tràm | `Cajuput tree.jpg` | ☐ |
+| 8 | Wildlife | động vật hoang dã | `Wildlife.jpg` | ☐ |
+| 9 | Fire prevention | phòng cháy | `Fire prevention.jpg` | ☐ |
+| 10 | Dry season | mùa khô | `Dry season.jpg` | ☐ |
 
-### River Tour & Floating Market (Du lịch sông nước và chợ nổi) — `mekong-river-tour`
+### River Tour & Floating Market (Du lịch sông nước và chợ nổi) — 1/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Floating market | chợ nổi | `floating-market.webp` | ☐ |
-| 2 | Boat vendor | người bán hàng trên ghe | `boat-vendor.webp` | ☐ |
-| 3 | River cruise | chuyến du thuyền sông | `river-cruise.webp` | ☐ |
-| 4 | Homestay | lưu trú tại nhà dân | `homestay.webp` | ☐ |
-| 5 | Orchard | vườn cây ăn trái | `orchard.webp` | ☐ |
-| 6 | Sunset cruise | chuyến thuyền ngắm hoàng hôn | `sunset-cruise.webp` | ☐ |
-| 7 | Tour guide | hướng dẫn viên | `tour-guide.webp` | ☐ |
-| 8 | Fresh fruit | trái cây tươi | `fresh-fruit.webp` | ☐ |
-| 9 | Ticket | vé | `ticket.webp` | ☐ |
-| 10 | Riverbank | bờ sông | `riverbank.webp` | ☐ |
+| 1 | Floating market | chợ nổi | `Floating market.jpg` | ✅ |
+| 2 | Boat vendor | người bán hàng trên ghe | `Boat vendor.jpg` | ☐ |
+| 3 | River cruise | chuyến du thuyền sông | `River cruise.jpg` | ☐ |
+| 4 | Homestay | lưu trú tại nhà dân | `Homestay.jpg` | ☐ |
+| 5 | Orchard | vườn cây ăn trái | `Orchard.jpg` | ☐ |
+| 6 | Sunset cruise | chuyến thuyền ngắm hoàng hôn | `Sunset cruise.jpg` | ☐ |
+| 7 | Tour guide | hướng dẫn viên | `Tour guide.jpg` | ☐ |
+| 8 | Fresh fruit | trái cây tươi | `Fresh fruit.jpg` | ☐ |
+| 9 | Ticket | vé | `Ticket.jpg` | ☐ |
+| 10 | Riverbank | bờ sông | `Riverbank.jpg` | ☐ |
 
 ## Heritage (Lịch sử xưa)
 
-### Oc Eo Culture (Văn hóa Óc Eo) — `oc-eo`
+### Oc Eo Culture (Văn hóa Óc Eo) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Oc Eo culture | văn hóa Óc Eo | `oc-eo-culture.webp` | ☐ |
-| 2 | Funan Kingdom | Vương quốc Phù Nam | `funan-kingdom.webp` | ☐ |
-| 3 | Archaeological site | di chỉ khảo cổ | `archaeological-site.webp` | ☐ |
-| 4 | Ancient port | cảng cổ | `ancient-port.webp` | ☐ |
-| 5 | Artifact | hiện vật | `artifact.webp` | ☐ |
-| 6 | Gold ornament | đồ trang sức bằng vàng | `gold-ornament.webp` | ☐ |
-| 7 | Excavation | cuộc khai quật | `excavation.webp` | ☐ |
-| 8 | Brick foundation | nền móng gạch | `brick-foundation.webp` | ☐ |
-| 9 | Ancient trade | giao thương cổ đại | `ancient-trade.webp` | ☐ |
-| 10 | Archaeologist | nhà khảo cổ | `archaeologist.webp` | ☐ |
+| 1 | Oc Eo culture | văn hóa Óc Eo | `Oc Eo culture.jpg` | ☐ |
+| 2 | Funan Kingdom | Vương quốc Phù Nam | `Funan Kingdom.jpg` | ☐ |
+| 3 | Archaeological site | di chỉ khảo cổ | `Archaeological site.jpg` | ☐ |
+| 4 | Ancient port | cảng cổ | `Ancient port.jpg` | ☐ |
+| 5 | Artifact | hiện vật | `Artifact.jpg` | ☐ |
+| 6 | Gold ornament | đồ trang sức bằng vàng | `Gold ornament.jpg` | ☐ |
+| 7 | Excavation | cuộc khai quật | `Excavation.jpg` | ☐ |
+| 8 | Brick foundation | nền móng gạch | `Brick foundation.jpg` | ☐ |
+| 9 | Ancient trade | giao thương cổ đại | `Ancient trade.jpg` | ☐ |
+| 10 | Archaeologist | nhà khảo cổ | `Archaeologist.jpg` | ☐ |
 
-### Historic Ha Tien (Hà Tiên xưa) — `ha-tien`
+### Historic Ha Tien (Hà Tiên xưa) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ha Tien | Hà Tiên | `ha-tien.webp` | ☐ |
-| 2 | Mac Cuu Mausoleum | lăng Mạc Cửu | `mac-cuu-mausoleum.webp` | ☐ |
-| 3 | Ancestor | tổ tiên | `ancestor.webp` | ☐ |
-| 4 | Stone tablet | bia đá | `stone-tablet.webp` | ☐ |
-| 5 | Historic relic | di tích lịch sử | `historic-relic.webp` | ☐ |
-| 6 | Dynasty | triều đại | `dynasty.webp` | ☐ |
-| 7 | Founder | người sáng lập | `founder.webp` | ☐ |
-| 8 | Trading port | cảng buôn bán | `trading-port.webp` | ☐ |
-| 9 | Poet | nhà thơ | `poet.webp` | ☐ |
-| 10 | Old street | phố cổ | `old-street.webp` | ☐ |
+| 1 | Ha Tien | Hà Tiên | `Ha Tien.jpg` | ☐ |
+| 2 | Mac Cuu Mausoleum | lăng Mạc Cửu | `Mac Cuu Mausoleum.jpg` | ☐ |
+| 3 | Ancestor | tổ tiên | `Ancestor.jpg` | ☐ |
+| 4 | Stone tablet | bia đá | `Stone tablet.jpg` | ☐ |
+| 5 | Historic relic | di tích lịch sử | `Historic relic.jpg` | ☐ |
+| 6 | Dynasty | triều đại | `Dynasty.jpg` | ☐ |
+| 7 | Founder | người sáng lập | `Founder.jpg` | ☐ |
+| 8 | Trading port | cảng buôn bán | `Trading port.jpg` | ☐ |
+| 9 | Poet | nhà thơ | `Poet.jpg` | ☐ |
+| 10 | Old street | phố cổ | `Old street.jpg` | ☐ |
 
-### Vinh Te Canal & Chau Doc (Kênh Vĩnh Tế và Châu Đốc) — `vinh-te-canal`
+### Vinh Te Canal & Chau Doc (Kênh Vĩnh Tế và Châu Đốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Vinh Te Canal | kênh Vĩnh Tế | `vinh-te-canal.webp` | ☐ |
-| 2 | Thoai Ngoc Hau Mausoleum | lăng Thoại Ngọc Hầu | `thoai-ngoc-hau-mausoleum.webp` | ☐ |
-| 3 | Canal | kênh đào | `canal.webp` | ☐ |
-| 4 | Border | biên giới | `border.webp` | ☐ |
-| 5 | Tay An Pagoda | chùa Tây An | `tay-an-pagoda.webp` | ☐ |
-| 6 | Waterway | đường thủy | `waterway.webp` | ☐ |
-| 7 | Laborer | người lao động | `laborer.webp` | ☐ |
-| 8 | Irrigation | thủy lợi | `irrigation.webp` | ☐ |
-| 9 | Trade route | tuyến giao thương | `trade-route.webp` | ☐ |
-| 10 | Defense | phòng thủ | `defense.webp` | ☐ |
+| 1 | Vinh Te Canal | kênh Vĩnh Tế | `Vinh Te Canal.jpg` | ☐ |
+| 2 | Thoai Ngoc Hau Mausoleum | lăng Thoại Ngọc Hầu | `Thoai Ngoc Hau Mausoleum.jpg` | ☐ |
+| 3 | Canal | kênh đào | `Canal.jpg` | ☐ |
+| 4 | Border | biên giới | `Border.jpg` | ☐ |
+| 5 | Tay An Pagoda | chùa Tây An | `Tay An Pagoda.jpg` | ☐ |
+| 6 | Waterway | đường thủy | `Waterway.jpg` | ☐ |
+| 7 | Laborer | người lao động | `Laborer.jpg` | ☐ |
+| 8 | Irrigation | thủy lợi | `Irrigation.jpg` | ☐ |
+| 9 | Trade route | tuyến giao thương | `Trade route.jpg` | ☐ |
+| 10 | Defense | phòng thủ | `Defense.jpg` | ☐ |
 
-### Rach Gia & National Heroes (Rạch Giá và các anh hùng dân tộc) — `rach-gia-heroes`
+### Rach Gia & National Heroes (Rạch Giá và các anh hùng dân tộc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Rach Gia | Rạch Giá | `rach-gia.webp` | ☐ |
-| 2 | National hero | anh hùng dân tộc | `national-hero.webp` | ☐ |
-| 3 | Nguyen Trung Truc Temple | đền thờ Nguyễn Trung Trực | `nguyen-trung-truc-temple.webp` | ☐ |
-| 4 | Resistance | cuộc kháng chiến | `resistance.webp` | ☐ |
-| 5 | Monument | tượng đài | `monument.webp` | ☐ |
-| 6 | Commemoration | lễ tưởng niệm | `commemoration.webp` | ☐ |
-| 7 | Courage | lòng dũng cảm | `courage.webp` | ☐ |
-| 8 | Patriotism | lòng yêu nước | `patriotism.webp` | ☐ |
-| 9 | Tribute | sự tri ân | `tribute.webp` | ☐ |
-| 10 | Harbor | bến cảng | `harbor.webp` | ☐ |
+| 1 | Rach Gia | Rạch Giá | `Rach Gia.jpg` | ☐ |
+| 2 | National hero | anh hùng dân tộc | `National hero.jpg` | ☐ |
+| 3 | Nguyen Trung Truc Temple | đền thờ Nguyễn Trung Trực | `Nguyen Trung Truc Temple.jpg` | ☐ |
+| 4 | Resistance | cuộc kháng chiến | `Resistance.jpg` | ☐ |
+| 5 | Monument | tượng đài | `Monument.jpg` | ☐ |
+| 6 | Commemoration | lễ tưởng niệm | `Commemoration.jpg` | ☐ |
+| 7 | Courage | lòng dũng cảm | `Courage.jpg` | ☐ |
+| 8 | Patriotism | lòng yêu nước | `Patriotism.jpg` | ☐ |
+| 9 | Tribute | sự tri ân | `Tribute.jpg` | ☐ |
+| 10 | Harbor | bến cảng | `Harbor.jpg` | ☐ |
 
-### Phu Quoc Prison (Nhà tù Phú Quốc) — `phu-quoc-prison`
+### Phu Quoc Prison (Nhà tù Phú Quốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Prison | nhà tù | `prison.webp` | ☐ |
-| 2 | Coconut Tree Prison | nhà tù Phú Quốc (Cây Dừa) | `coconut-tree-prison.webp` | ☐ |
-| 3 | Barbed wire | dây thép gai | `barbed-wire.webp` | ☐ |
-| 4 | Museum | bảo tàng | `museum.webp` | ☐ |
-| 5 | War memorial | đài tưởng niệm chiến tranh | `war-memorial.webp` | ☐ |
-| 6 | Revolutionary soldier | chiến sĩ cách mạng | `revolutionary-soldier.webp` | ☐ |
-| 7 | Prisoner | người tù | `prisoner.webp` | ☐ |
-| 8 | Cell | phòng giam | `cell.webp` | ☐ |
-| 9 | Exhibition | cuộc triển lãm | `exhibition.webp` | ☐ |
-| 10 | Independence | độc lập | `independence.webp` | ☐ |
+| 1 | Prison | nhà tù | `Prison.jpg` | ☐ |
+| 2 | Coconut Tree Prison | nhà tù Phú Quốc (Cây Dừa) | `Coconut Tree Prison.jpg` | ☐ |
+| 3 | Barbed wire | dây thép gai | `Barbed wire.jpg` | ☐ |
+| 4 | Museum | bảo tàng | `Museum.jpg` | ☐ |
+| 5 | War memorial | đài tưởng niệm chiến tranh | `War memorial.jpg` | ☐ |
+| 6 | Revolutionary soldier | chiến sĩ cách mạng | `Revolutionary soldier.jpg` | ☐ |
+| 7 | Prisoner | người tù | `Prisoner.jpg` | ☐ |
+| 8 | Cell | phòng giam | `Cell.jpg` | ☐ |
+| 9 | Exhibition | cuộc triển lãm | `Exhibition.jpg` | ☐ |
+| 10 | Independence | độc lập | `Independence.jpg` | ☐ |
 
-### Ba Chuc Memorial (Nhà mồ Ba Chúc) — `ba-chuc-memorial`
+### Ba Chuc Memorial (Nhà mồ Ba Chúc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ba Chuc | Ba Chúc | `ba-chuc.webp` | ☐ |
-| 2 | Memorial | đài tưởng niệm | `memorial.webp` | ☐ |
-| 3 | Remembrance | sự tưởng nhớ | `remembrance.webp` | ☐ |
-| 4 | Peace | hòa bình | `peace.webp` | ☐ |
-| 5 | Sacrifice | sự hy sinh | `sacrifice.webp` | ☐ |
-| 6 | Descendant | con cháu | `descendant.webp` | ☐ |
-| 7 | Border region | vùng biên giới | `border-region.webp` | ☐ |
-| 8 | Friendship | tình hữu nghị | `friendship.webp` | ☐ |
-| 9 | History | lịch sử | `history.webp` | ☐ |
-| 10 | Visitor | du khách | `visitor.webp` | ☐ |
+| 1 | Ba Chuc | Ba Chúc | `Ba Chuc.jpg` | ☐ |
+| 2 | Memorial | đài tưởng niệm | `Memorial.jpg` | ☐ |
+| 3 | Remembrance | sự tưởng nhớ | `Remembrance.jpg` | ☐ |
+| 4 | Peace | hòa bình | `Peace.jpg` | ☐ |
+| 5 | Sacrifice | sự hy sinh | `Sacrifice.jpg` | ☐ |
+| 6 | Descendant | con cháu | `Descendant.jpg` | ☐ |
+| 7 | Border region | vùng biên giới | `Border region.jpg` | ☐ |
+| 8 | Friendship | tình hữu nghị | `Friendship.jpg` | ☐ |
+| 9 | History | lịch sử | `History.jpg` | ☐ |
+| 10 | Visitor | du khách | `Visitor.jpg` | ☐ |
 
 ## Cuisine (Ẩm thực)
 
-### Famous Dishes (Món ngon nổi tiếng) — `famous-dishes`
+### Famous Dishes (Món ngon nổi tiếng) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Fish noodle soup | bún cá | `fish-noodle-soup.webp` | ☐ |
-| 2 | Fermented fish paste | mắm cá | `fermented-fish-paste.webp` | ☐ |
-| 3 | Tile-grilled beef | bò nướng ngói | `tile-grilled-beef.webp` | ☐ |
-| 4 | Fermented fish hotpot | lẩu mắm | `fermented-fish-hotpot.webp` | ☐ |
-| 5 | Herring salad | gỏi cá trích | `herring-salad.webp` | ☐ |
-| 6 | Sea urchin | nhum biển | `sea-urchin.webp` | ☐ |
-| 7 | Grilled fish | cá nướng | `grilled-fish.webp` | ☐ |
-| 8 | Fish sauce | nước mắm | `fish-sauce.webp` | ☐ |
-| 9 | Vegetables | rau | `vegetables.webp` | ☐ |
-| 10 | Delicious | ngon | `delicious.webp` | ☐ |
+| 1 | Fish noodle soup | bún cá | `Fish noodle soup.jpg` | ☐ |
+| 2 | Fermented fish paste | mắm cá | `Fermented fish paste.jpg` | ☐ |
+| 3 | Tile-grilled beef | bò nướng ngói | `Tile-grilled beef.jpg` | ☐ |
+| 4 | Fermented fish hotpot | lẩu mắm | `Fermented fish hotpot.jpg` | ☐ |
+| 5 | Herring salad | gỏi cá trích | `Herring salad.jpg` | ☐ |
+| 6 | Sea urchin | nhum biển | `Sea urchin.jpg` | ☐ |
+| 7 | Grilled fish | cá nướng | `Grilled fish.jpg` | ☐ |
+| 8 | Fish sauce | nước mắm | `Fish sauce.jpg` | ☐ |
+| 9 | Vegetables | rau | `Vegetables.jpg` | ☐ |
+| 10 | Delicious | ngon | `Delicious.jpg` | ☐ |
 
-### Street Food & Snacks (Món ăn vặt đường phố) — `street-snacks`
+### Street Food & Snacks (Món ăn vặt đường phố) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Palm sugar cake | bánh bò thốt nốt | `palm-sugar-cake.webp` | ☐ |
-| 2 | Rice pancake | bánh xèo | `rice-pancake.webp` | ☐ |
-| 3 | Sweet soup | chè | `sweet-soup.webp` | ☐ |
-| 4 | Sticky rice | xôi | `sticky-rice.webp` | ☐ |
-| 5 | Fresh herbs | rau thơm | `fresh-herbs.webp` | ☐ |
-| 6 | Dipping sauce | nước chấm | `dipping-sauce.webp` | ☐ |
-| 7 | Sugarcane juice | nước mía | `sugarcane-juice.webp` | ☐ |
-| 8 | Bread roll | bánh mì | `bread-roll.webp` | ☐ |
-| 9 | Banana cake | bánh chuối | `banana-cake.webp` | ☐ |
-| 10 | Street vendor | người bán hàng rong | `street-vendor.webp` | ☐ |
+| 1 | Palm sugar cake | bánh bò thốt nốt | `Palm sugar cake.jpg` | ☐ |
+| 2 | Rice pancake | bánh xèo | `Rice pancake.jpg` | ☐ |
+| 3 | Sweet soup | chè | `Sweet soup.jpg` | ☐ |
+| 4 | Sticky rice | xôi | `Sticky rice.jpg` | ☐ |
+| 5 | Fresh herbs | rau thơm | `Fresh herbs.jpg` | ☐ |
+| 6 | Dipping sauce | nước chấm | `Dipping sauce.jpg` | ☐ |
+| 7 | Sugarcane juice | nước mía | `Sugarcane juice.jpg` | ☐ |
+| 8 | Bread roll | bánh mì | `Bread roll.jpg` | ☐ |
+| 9 | Banana cake | bánh chuối | `Banana cake.jpg` | ☐ |
+| 10 | Street vendor | người bán hàng rong | `Street vendor.jpg` | ☐ |
 
-### Seafood of Phu Quoc (Hải sản Phú Quốc) — `phu-quoc-seafood`
+### Seafood of Phu Quoc (Hải sản Phú Quốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Seafood | hải sản | `seafood.webp` | ☐ |
-| 2 | Blue crab | ghẹ | `blue-crab.webp` | ☐ |
-| 3 | Squid | mực | `squid.webp` | ☐ |
-| 4 | Sun-dried squid | mực một nắng | `sun-dried-squid.webp` | ☐ |
-| 5 | Night market | chợ đêm | `night-market.webp` | ☐ |
-| 6 | Fishing village | làng chài | `fishing-village.webp` | ☐ |
-| 7 | Grilled prawn | tôm nướng | `grilled-prawn.webp` | ☐ |
-| 8 | Fresh fish | cá tươi | `fresh-fish.webp` | ☐ |
-| 9 | Lobster | tôm hùm | `lobster.webp` | ☐ |
-| 10 | Seafood hotpot | lẩu hải sản | `seafood-hotpot.webp` | ☐ |
+| 1 | Seafood | hải sản | `Seafood.jpg` | ☐ |
+| 2 | Blue crab | ghẹ | `Blue crab.jpg` | ☐ |
+| 3 | Squid | mực | `Squid.jpg` | ☐ |
+| 4 | Sun-dried squid | mực một nắng | `Sun-dried squid.jpg` | ☐ |
+| 5 | Night market | chợ đêm | `Night market.jpg` | ☐ |
+| 6 | Fishing village | làng chài | `Fishing village.jpg` | ☐ |
+| 7 | Grilled prawn | tôm nướng | `Grilled prawn.jpg` | ☐ |
+| 8 | Fresh fish | cá tươi | `Fresh fish.jpg` | ☐ |
+| 9 | Lobster | tôm hùm | `Lobster.jpg` | ☐ |
+| 10 | Seafood hotpot | lẩu hải sản | `Seafood hotpot.jpg` | ☐ |
 
-### Kien Giang Flavors (Hương vị Kiên Giang) — `kien-giang-flavors`
+### Kien Giang Flavors (Hương vị Kiên Giang) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Bun ken | bún kèn | `bun-ken.webp` | ☐ |
-| 2 | Sim fruit | trái sim | `sim-fruit.webp` | ☐ |
-| 3 | Sim wine | rượu sim | `sim-wine.webp` | ☐ |
-| 4 | Grilled snail | ốc nướng | `grilled-snail.webp` | ☐ |
-| 5 | Coconut milk | nước cốt dừa | `coconut-milk.webp` | ☐ |
-| 6 | Rice noodles | bún | `rice-noodles.webp` | ☐ |
-| 7 | Fish cake | chả cá | `fish-cake.webp` | ☐ |
-| 8 | Pickled vegetables | rau củ muối chua | `pickled-vegetables.webp` | ☐ |
-| 9 | Lime | chanh | `lime.webp` | ☐ |
-| 10 | Chili | ớt | `chili.webp` | ☐ |
+| 1 | Bun ken | bún kèn | `Bun ken.jpg` | ☐ |
+| 2 | Sim fruit | trái sim | `Sim fruit.jpg` | ☐ |
+| 3 | Sim wine | rượu sim | `Sim wine.jpg` | ☐ |
+| 4 | Grilled snail | ốc nướng | `Grilled snail.jpg` | ☐ |
+| 5 | Coconut milk | nước cốt dừa | `Coconut milk.jpg` | ☐ |
+| 6 | Rice noodles | bún | `Rice noodles.jpg` | ☐ |
+| 7 | Fish cake | chả cá | `Fish cake.jpg` | ☐ |
+| 8 | Pickled vegetables | rau củ muối chua | `Pickled vegetables.jpg` | ☐ |
+| 9 | Lime | chanh | `Lime.jpg` | ☐ |
+| 10 | Chili | ớt | `Chili.jpg` | ☐ |
 
-### Khmer Flavors (Hương vị Khmer) — `khmer-flavors`
+### Khmer Flavors (Hương vị Khmer) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Khmer rice noodles | bún Khmer (num banh chok) | `khmer-rice-noodles.webp` | ☐ |
-| 2 | Curry | cà ri | `curry.webp` | ☐ |
-| 3 | Lemongrass | sả | `lemongrass.webp` | ☐ |
-| 4 | Turmeric | nghệ | `turmeric.webp` | ☐ |
-| 5 | Spicy | cay | `spicy.webp` | ☐ |
-| 6 | Banana blossom | bắp chuối | `banana-blossom.webp` | ☐ |
-| 7 | Fish broth | nước lèo cá | `fish-broth.webp` | ☐ |
-| 8 | Mint leaves | lá bạc hà | `mint-leaves.webp` | ☐ |
-| 9 | Peanut | đậu phộng | `peanut.webp` | ☐ |
-| 10 | Garlic | tỏi | `garlic.webp` | ☐ |
+| 1 | Khmer rice noodles | bún Khmer (num banh chok) | `Khmer rice noodles.jpg` | ☐ |
+| 2 | Curry | cà ri | `Curry.jpg` | ☐ |
+| 3 | Lemongrass | sả | `Lemongrass.jpg` | ☐ |
+| 4 | Turmeric | nghệ | `Turmeric.jpg` | ☐ |
+| 5 | Spicy | cay | `Spicy.jpg` | ☐ |
+| 6 | Banana blossom | bắp chuối | `Banana blossom.jpg` | ☐ |
+| 7 | Fish broth | nước lèo cá | `Fish broth.jpg` | ☐ |
+| 8 | Mint leaves | lá bạc hà | `Mint leaves.jpg` | ☐ |
+| 9 | Peanut | đậu phộng | `Peanut.jpg` | ☐ |
+| 10 | Garlic | tỏi | `Garlic.jpg` | ☐ |
 
 ## Crafts (Ngành nghề)
 
-### Silk, Brocade and Rivers (Lụa, thổ cẩm và nghề sông nước) — `silk-and-brocade`
+### Silk, Brocade and Rivers (Lụa, thổ cẩm và nghề sông nước) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Tan Chau silk | lụa Tân Châu | `tan-chau-silk.webp` | ☐ |
-| 2 | Silkworm | con tằm | `silkworm.webp` | ☐ |
-| 3 | Loom | khung dệt | `loom.webp` | ☐ |
-| 4 | Brocade | thổ cẩm | `brocade.webp` | ☐ |
-| 5 | Dye | nhuộm | `dye.webp` | ☐ |
-| 6 | Floating fish farm | bè cá (nuôi cá bè) | `floating-fish-farm.webp` | ☐ |
-| 7 | Mulberry leaf | lá dâu | `mulberry-leaf.webp` | ☐ |
-| 8 | Cocoon | cái kén | `cocoon.webp` | ☐ |
-| 9 | Thread | sợi chỉ | `thread.webp` | ☐ |
-| 10 | Weaver | thợ dệt | `weaver.webp` | ☐ |
+| 1 | Tan Chau silk | lụa Tân Châu | `Tan Chau silk.jpg` | ☐ |
+| 2 | Silkworm | con tằm | `Silkworm.jpg` | ☐ |
+| 3 | Loom | khung dệt | `Loom.jpg` | ☐ |
+| 4 | Brocade | thổ cẩm | `Brocade.jpg` | ☐ |
+| 5 | Dye | nhuộm | `Dye.jpg` | ☐ |
+| 6 | Floating fish farm | bè cá (nuôi cá bè) | `Floating fish farm.jpg` | ☐ |
+| 7 | Mulberry leaf | lá dâu | `Mulberry leaf.jpg` | ☐ |
+| 8 | Cocoon | cái kén | `Cocoon.jpg` | ☐ |
+| 9 | Thread | sợi chỉ | `Thread.jpg` | ☐ |
+| 10 | Weaver | thợ dệt | `Weaver.jpg` | ☐ |
 
-### Life on the River (Đời sống sông nước) — `river-life`
+### Life on the River (Đời sống sông nước) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Hau River | sông Hậu | `hau-river.webp` | ☐ |
-| 2 | Fisherman | ngư dân | `fisherman.webp` | ☐ |
-| 3 | Fishing net | lưới đánh cá | `fishing-net.webp` | ☐ |
-| 4 | Floating house | nhà nổi | `floating-house.webp` | ☐ |
-| 5 | Water hyacinth | lục bình | `water-hyacinth.webp` | ☐ |
-| 6 | Ferry | phà | `ferry.webp` | ☐ |
-| 7 | Paddle | mái chèo | `paddle.webp` | ☐ |
-| 8 | Fish trap | bẫy cá | `fish-trap.webp` | ☐ |
-| 9 | Sampan | thuyền nhỏ | `sampan.webp` | ☐ |
-| 10 | Dock | bến tàu | `dock.webp` | ☐ |
+| 1 | Hau River | sông Hậu | `Hau River.jpg` | ☐ |
+| 2 | Fisherman | ngư dân | `Fisherman.jpg` | ☐ |
+| 3 | Fishing net | lưới đánh cá | `Fishing net.jpg` | ☐ |
+| 4 | Floating house | nhà nổi | `Floating house.jpg` | ☐ |
+| 5 | Water hyacinth | lục bình | `Water hyacinth.jpg` | ☐ |
+| 6 | Ferry | phà | `Ferry.jpg` | ☐ |
+| 7 | Paddle | mái chèo | `Paddle.jpg` | ☐ |
+| 8 | Fish trap | bẫy cá | `Fish trap.jpg` | ☐ |
+| 9 | Sampan | thuyền nhỏ | `Sampan.jpg` | ☐ |
+| 10 | Dock | bến tàu | `Dock.jpg` | ☐ |
 
-### Farm & Food Crafts (Nghề nông và chế biến) — `farm-and-food-crafts`
+### Farm & Food Crafts (Nghề nông và chế biến) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Harvest | mùa gặt | `harvest.webp` | ☐ |
-| 2 | Rice mill | nhà máy xay lúa | `rice-mill.webp` | ☐ |
-| 3 | Sap | nhựa cây | `sap.webp` | ☐ |
-| 4 | Wooden barrel | thùng gỗ | `wooden-barrel.webp` | ☐ |
-| 5 | Dried fish | cá khô | `dried-fish.webp` | ☐ |
-| 6 | Fermentation | sự lên men | `fermentation.webp` | ☐ |
-| 7 | Paddy | lúa | `paddy.webp` | ☐ |
-| 8 | Sickle | cái liềm | `sickle.webp` | ☐ |
-| 9 | Buffalo | con trâu | `buffalo.webp` | ☐ |
-| 10 | Sun drying | phơi nắng | `sun-drying.webp` | ☐ |
+| 1 | Harvest | mùa gặt | `Harvest.jpg` | ☐ |
+| 2 | Rice mill | nhà máy xay lúa | `Rice mill.jpg` | ☐ |
+| 3 | Sap | nhựa cây | `Sap.jpg` | ☐ |
+| 4 | Wooden barrel | thùng gỗ | `Wooden barrel.jpg` | ☐ |
+| 5 | Dried fish | cá khô | `Dried fish.jpg` | ☐ |
+| 6 | Fermentation | sự lên men | `Fermentation.jpg` | ☐ |
+| 7 | Paddy | lúa | `Paddy.jpg` | ☐ |
+| 8 | Sickle | cái liềm | `Sickle.jpg` | ☐ |
+| 9 | Buffalo | con trâu | `Buffalo.jpg` | ☐ |
+| 10 | Sun drying | phơi nắng | `Sun drying.jpg` | ☐ |
 
-### Fish Sauce & Pearl Farms (Nước mắm và ngọc trai) — `fish-sauce-pearl`
+### Fish Sauce & Pearl Farms (Nước mắm và ngọc trai) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Anchovy | cá cơm | `anchovy.webp` | ☐ |
-| 2 | Salt | muối | `salt.webp` | ☐ |
-| 3 | Fish sauce factory | nhà thùng nước mắm | `fish-sauce-factory.webp` | ☐ |
-| 4 | Pearl oyster | trai ngọc | `pearl-oyster.webp` | ☐ |
-| 5 | Pearl farm | trại nuôi ngọc trai | `pearl-farm.webp` | ☐ |
-| 6 | Pepper farm | vườn tiêu | `pepper-farm.webp` | ☐ |
-| 7 | Aging | thời gian ủ | `aging.webp` | ☐ |
-| 8 | Peppercorn | hạt tiêu | `peppercorn.webp` | ☐ |
-| 9 | Quality | chất lượng | `quality.webp` | ☐ |
-| 10 | Tradition | truyền thống | `tradition.webp` | ☐ |
+| 1 | Anchovy | cá cơm | `Anchovy.jpg` | ☐ |
+| 2 | Salt | muối | `Salt.jpg` | ☐ |
+| 3 | Fish sauce factory | nhà thùng nước mắm | `Fish sauce factory.jpg` | ☐ |
+| 4 | Pearl oyster | trai ngọc | `Pearl oyster.jpg` | ☐ |
+| 5 | Pearl farm | trại nuôi ngọc trai | `Pearl farm.jpg` | ☐ |
+| 6 | Pepper farm | vườn tiêu | `Pepper farm.jpg` | ☐ |
+| 7 | Aging | thời gian ủ | `Aging.jpg` | ☐ |
+| 8 | Peppercorn | hạt tiêu | `Peppercorn.jpg` | ☐ |
+| 9 | Quality | chất lượng | `Quality.jpg` | ☐ |
+| 10 | Tradition | truyền thống | `Tradition.jpg` | ☐ |
 
-### Handicrafts & Souvenirs (Thủ công mỹ nghệ) — `handicrafts`
+### Handicrafts & Souvenirs (Thủ công mỹ nghệ) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Wood carving | chạm khắc gỗ | `wood-carving.webp` | ☐ |
-| 2 | Bamboo weaving | đan tre | `bamboo-weaving.webp` | ☐ |
-| 3 | Straw mat | chiếu | `straw-mat.webp` | ☐ |
-| 4 | Shell craft | đồ mỹ nghệ vỏ sò | `shell-craft.webp` | ☐ |
-| 5 | Conical hat | nón lá | `conical-hat.webp` | ☐ |
-| 6 | Basket | giỏ | `basket.webp` | ☐ |
-| 7 | Craftsman | thợ thủ công | `craftsman.webp` | ☐ |
-| 8 | Workshop | xưởng | `workshop.webp` | ☐ |
-| 9 | Pattern | hoa văn | `pattern.webp` | ☐ |
-| 10 | Souvenir shop | cửa hàng lưu niệm | `souvenir-shop.webp` | ☐ |
+| 1 | Wood carving | chạm khắc gỗ | `Wood carving.jpg` | ☐ |
+| 2 | Bamboo weaving | đan tre | `Bamboo weaving.jpg` | ☐ |
+| 3 | Straw mat | chiếu | `Straw mat.jpg` | ☐ |
+| 4 | Shell craft | đồ mỹ nghệ vỏ sò | `Shell craft.jpg` | ☐ |
+| 5 | Conical hat | nón lá | `Conical hat.jpg` | ☐ |
+| 6 | Basket | giỏ | `Basket.jpg` | ☐ |
+| 7 | Craftsman | thợ thủ công | `Craftsman.jpg` | ☐ |
+| 8 | Workshop | xưởng | `Workshop.jpg` | ☐ |
+| 9 | Pattern | hoa văn | `Pattern.jpg` | ☐ |
+| 10 | Souvenir shop | cửa hàng lưu niệm | `Souvenir shop.jpg` | ☐ |
 
 ## Festivals (Lễ hội)
 
-### Festival Time (Mùa lễ hội) — `festival-time`
+### Festival Time (Mùa lễ hội) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ba Chua Xu Festival | lễ hội Vía Bà Chúa Xứ | `ba-chua-xu-festival.webp` | ☐ |
-| 2 | Bull racing | đua bò | `bull-racing.webp` | ☐ |
-| 3 | Khmer New Year | Tết Chol Chnam Thmay | `khmer-new-year.webp` | ☐ |
-| 4 | Moon worship | cúng trăng | `moon-worship.webp` | ☐ |
-| 5 | Offering | lễ vật | `offering.webp` | ☐ |
-| 6 | Pilgrim | người hành hương | `pilgrim.webp` | ☐ |
-| 7 | Crowd | đám đông | `crowd.webp` | ☐ |
-| 8 | Traditional music | nhạc truyền thống | `traditional-music.webp` | ☐ |
-| 9 | Parade | cuộc diễu hành | `parade.webp` | ☐ |
-| 10 | Celebration | lễ kỷ niệm | `celebration.webp` | ☐ |
+| 1 | Ba Chua Xu Festival | lễ hội Vía Bà Chúa Xứ | `Ba Chua Xu Festival.jpg` | ☐ |
+| 2 | Bull racing | đua bò | `Bull racing.jpg` | ☐ |
+| 3 | Khmer New Year | Tết Chol Chnam Thmay | `Khmer New Year.jpg` | ☐ |
+| 4 | Moon worship | cúng trăng | `Moon worship.jpg` | ☐ |
+| 5 | Offering | lễ vật | `Offering.jpg` | ☐ |
+| 6 | Pilgrim | người hành hương | `Pilgrim.jpg` | ☐ |
+| 7 | Crowd | đám đông | `Crowd.jpg` | ☐ |
+| 8 | Traditional music | nhạc truyền thống | `Traditional music.jpg` | ☐ |
+| 9 | Parade | cuộc diễu hành | `Parade.jpg` | ☐ |
+| 10 | Celebration | lễ kỷ niệm | `Celebration.jpg` | ☐ |
 
-### Tet & Family Traditions (Tết và nét đẹp gia đình) — `lunar-new-year`
+### Tet & Family Traditions (Tết và nét đẹp gia đình) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Lunar New Year | Tết Nguyên đán | `lunar-new-year.webp` | ☐ |
-| 2 | Yellow apricot blossom | hoa mai vàng | `yellow-apricot-blossom.webp` | ☐ |
-| 3 | Sticky rice cake | bánh tét | `sticky-rice-cake.webp` | ☐ |
-| 4 | Lucky money | tiền lì xì | `lucky-money.webp` | ☐ |
-| 5 | Ancestral altar | bàn thờ tổ tiên | `ancestral-altar.webp` | ☐ |
-| 6 | Fireworks | pháo hoa | `fireworks.webp` | ☐ |
-| 7 | Family reunion | đoàn viên gia đình | `family-reunion.webp` | ☐ |
-| 8 | Greeting | lời chúc | `greeting.webp` | ☐ |
-| 9 | Spring | mùa xuân | `spring.webp` | ☐ |
-| 10 | Decoration | đồ trang trí | `decoration.webp` | ☐ |
+| 1 | Lunar New Year | Tết Nguyên đán | `Lunar New Year.jpg` | ☐ |
+| 2 | Yellow apricot blossom | hoa mai vàng | `Yellow apricot blossom.jpg` | ☐ |
+| 3 | Sticky rice cake | bánh tét | `Sticky rice cake.jpg` | ☐ |
+| 4 | Lucky money | tiền lì xì | `Lucky money.jpg` | ☐ |
+| 5 | Ancestral altar | bàn thờ tổ tiên | `Ancestral altar.jpg` | ☐ |
+| 6 | Fireworks | pháo hoa | `Fireworks.jpg` | ☐ |
+| 7 | Family reunion | đoàn viên gia đình | `Family reunion.jpg` | ☐ |
+| 8 | Greeting | lời chúc | `Greeting.jpg` | ☐ |
+| 9 | Spring | mùa xuân | `Spring.jpg` | ☐ |
+| 10 | Decoration | đồ trang trí | `Decoration.jpg` | ☐ |
 
-### Music, Dance & Costume (Âm nhạc, múa và trang phục) — `music-and-arts`
+### Music, Dance & Costume (Âm nhạc, múa và trang phục) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Southern amateur music | đờn ca tài tử | `southern-amateur-music.webp` | ☐ |
-| 2 | Folk song | dân ca | `folk-song.webp` | ☐ |
-| 3 | Traditional costume | trang phục truyền thống | `traditional-costume.webp` | ☐ |
-| 4 | Ba ba shirt | áo bà ba | `ba-ba-shirt.webp` | ☐ |
-| 5 | Khmer dance | múa Khmer | `khmer-dance.webp` | ☐ |
-| 6 | Musical instrument | nhạc cụ | `musical-instrument.webp` | ☐ |
-| 7 | Lute | đàn | `lute.webp` | ☐ |
-| 8 | Singer | ca sĩ | `singer.webp` | ☐ |
-| 9 | Stage | sân khấu | `stage.webp` | ☐ |
-| 10 | Audience | khán giả | `audience.webp` | ☐ |
+| 1 | Southern amateur music | đờn ca tài tử | `Southern amateur music.jpg` | ☐ |
+| 2 | Folk song | dân ca | `Folk song.jpg` | ☐ |
+| 3 | Traditional costume | trang phục truyền thống | `Traditional costume.jpg` | ☐ |
+| 4 | Ba ba shirt | áo bà ba | `Ba ba shirt.jpg` | ☐ |
+| 5 | Khmer dance | múa Khmer | `Khmer dance.jpg` | ☐ |
+| 6 | Musical instrument | nhạc cụ | `Musical instrument.jpg` | ☐ |
+| 7 | Lute | đàn | `Lute.jpg` | ☐ |
+| 8 | Singer | ca sĩ | `Singer.jpg` | ☐ |
+| 9 | Stage | sân khấu | `Stage.jpg` | ☐ |
+| 10 | Audience | khán giả | `Audience.jpg` | ☐ |
 
-### Sea Festivals (Lễ hội biển) — `sea-festivals`
+### Sea Festivals (Lễ hội biển) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Nghinh Ong Festival | lễ hội Nghinh Ông | `nghinh-ong-festival.webp` | ☐ |
-| 2 | Whale worship | tục thờ cá Ông | `whale-worship.webp` | ☐ |
-| 3 | Boat procession | rước thuyền | `boat-procession.webp` | ☐ |
-| 4 | Fishing community | cộng đồng ngư dân | `fishing-community.webp` | ☐ |
-| 5 | Safe voyage | chuyến đi bình an | `safe-voyage.webp` | ☐ |
-| 6 | Drum | trống | `drum.webp` | ☐ |
-| 7 | Coast | bờ biển | `coast.webp` | ☐ |
-| 8 | Flag | lá cờ | `flag.webp` | ☐ |
-| 9 | Good catch | mẻ cá bội thu | `good-catch.webp` | ☐ |
-| 10 | Ceremony | nghi lễ | `ceremony.webp` | ☐ |
+| 1 | Nghinh Ong Festival | lễ hội Nghinh Ông | `Nghinh Ong Festival.jpg` | ☐ |
+| 2 | Whale worship | tục thờ cá Ông | `Whale worship.jpg` | ☐ |
+| 3 | Boat procession | rước thuyền | `Boat procession.jpg` | ☐ |
+| 4 | Fishing community | cộng đồng ngư dân | `Fishing community.jpg` | ☐ |
+| 5 | Safe voyage | chuyến đi bình an | `Safe voyage.jpg` | ☐ |
+| 6 | Drum | trống | `Drum.jpg` | ☐ |
+| 7 | Coast | bờ biển | `Coast.jpg` | ☐ |
+| 8 | Flag | lá cờ | `Flag.jpg` | ☐ |
+| 9 | Good catch | mẻ cá bội thu | `Good catch.jpg` | ☐ |
+| 10 | Ceremony | nghi lễ | `Ceremony.jpg` | ☐ |
 
-### Rach Gia & Ha Tien Festivals (Lễ hội Rạch Giá và Hà Tiên) — `town-festivals`
+### Rach Gia & Ha Tien Festivals (Lễ hội Rạch Giá và Hà Tiên) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Nguyen Trung Truc Festival | lễ hội Nguyễn Trung Trực | `nguyen-trung-truc-festival.webp` | ☐ |
-| 2 | Nguyen Tieu Festival | lễ hội Nguyên tiêu | `nguyen-tieu-festival.webp` | ☐ |
-| 3 | Full moon | trăng tròn | `full-moon.webp` | ☐ |
-| 4 | Lantern | đèn lồng | `lantern.webp` | ☐ |
-| 5 | Procession | đám rước | `procession.webp` | ☐ |
-| 6 | Lion dance | múa lân | `lion-dance.webp` | ☐ |
-| 7 | Traditional game | trò chơi dân gian | `traditional-game.webp` | ☐ |
-| 8 | Drumbeat | tiếng trống | `drumbeat.webp` | ☐ |
-| 9 | Temple yard | sân đền | `temple-yard.webp` | ☐ |
-| 10 | Incense stick | nén hương | `incense-stick.webp` | ☐ |
+| 1 | Nguyen Trung Truc Festival | lễ hội Nguyễn Trung Trực | `Nguyen Trung Truc Festival.jpg` | ☐ |
+| 2 | Nguyen Tieu Festival | lễ hội Nguyên tiêu | `Nguyen Tieu Festival.jpg` | ☐ |
+| 3 | Full moon | trăng tròn | `Full moon.jpg` | ☐ |
+| 4 | Lantern | đèn lồng | `Lantern.jpg` | ☐ |
+| 5 | Procession | đám rước | `Procession.jpg` | ☐ |
+| 6 | Lion dance | múa lân | `Lion dance.jpg` | ☐ |
+| 7 | Traditional game | trò chơi dân gian | `Traditional game.jpg` | ☐ |
+| 8 | Drumbeat | tiếng trống | `Drumbeat.jpg` | ☐ |
+| 9 | Temple yard | sân đền | `Temple yard.jpg` | ☐ |
+| 10 | Incense stick | nén hương | `Incense stick.jpg` | ☐ |
 
-### Cham Community Festivals (Lễ hội của cộng đồng Chăm) — `cham-festivals`
+### Cham Community Festivals (Lễ hội của cộng đồng Chăm) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ramadan | tháng Ramadan | `ramadan.webp` | ☐ |
-| 2 | Fasting | nhịn ăn ban ngày | `fasting.webp` | ☐ |
-| 3 | Eid | lễ Eid | `eid.webp` | ☐ |
-| 4 | Charity | lòng từ thiện | `charity.webp` | ☐ |
-| 5 | Feast | bữa tiệc | `feast.webp` | ☐ |
-| 6 | Community | cộng đồng | `community.webp` | ☐ |
-| 7 | Crescent moon | trăng lưỡi liềm | `crescent-moon.webp` | ☐ |
-| 8 | Date fruit | quả chà là | `date-fruit.webp` | ☐ |
-| 9 | Traditional dress | trang phục truyền thống | `traditional-dress.webp` | ☐ |
-| 10 | Gathering | buổi họp mặt | `gathering.webp` | ☐ |
+| 1 | Ramadan | tháng Ramadan | `Ramadan.jpg` | ☐ |
+| 2 | Fasting | nhịn ăn ban ngày | `Fasting.jpg` | ☐ |
+| 3 | Eid | lễ Eid | `Eid.jpg` | ☐ |
+| 4 | Charity | lòng từ thiện | `Charity.jpg` | ☐ |
+| 5 | Feast | bữa tiệc | `Feast.jpg` | ☐ |
+| 6 | Community | cộng đồng | `Community.jpg` | ☐ |
+| 7 | Crescent moon | trăng lưỡi liềm | `Crescent moon.jpg` | ☐ |
+| 8 | Date fruit | quả chà là | `Date fruit.jpg` | ☐ |
+| 9 | Traditional dress | trang phục truyền thống | `Traditional dress.jpg` | ☐ |
+| 10 | Gathering | buổi họp mặt | `Gathering.jpg` | ☐ |
 
 ## Seas & Islands (Du lịch biển đảo)
 
-### Ha Tien & Kien Luong Coast (Bờ biển Hà Tiên – Kiên Lương) — `ha-tien-coast`
+### Ha Tien & Kien Luong Coast (Bờ biển Hà Tiên – Kiên Lương) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Father and Son Islet | Hòn Phụ Tử | `father-and-son-islet.webp` | ☐ |
-| 2 | Islet | hòn đảo nhỏ | `islet.webp` | ☐ |
-| 3 | Limestone | đá vôi | `limestone.webp` | ☐ |
-| 4 | Cave | hang động | `cave.webp` | ☐ |
-| 5 | Coastline | bờ biển | `coastline.webp` | ☐ |
-| 6 | Speedboat | tàu cao tốc | `speedboat.webp` | ☐ |
-| 7 | Sea view | cảnh biển | `sea-view.webp` | ☐ |
-| 8 | Rocky shore | bờ đá | `rocky-shore.webp` | ☐ |
-| 9 | Calm bay | vịnh yên ả | `calm-bay.webp` | ☐ |
-| 10 | Seagull | chim hải âu | `seagull.webp` | ☐ |
+| 1 | Father and Son Islet | Hòn Phụ Tử | `Father and Son Islet.jpg` | ☐ |
+| 2 | Islet | hòn đảo nhỏ | `Islet.jpg` | ☐ |
+| 3 | Limestone | đá vôi | `Limestone.jpg` | ☐ |
+| 4 | Cave | hang động | `Cave.jpg` | ☐ |
+| 5 | Coastline | bờ biển | `Coastline.jpg` | ☐ |
+| 6 | Speedboat | tàu cao tốc | `Speedboat.jpg` | ☐ |
+| 7 | Sea view | cảnh biển | `Sea view.jpg` | ☐ |
+| 8 | Rocky shore | bờ đá | `Rocky shore.jpg` | ☐ |
+| 9 | Calm bay | vịnh yên ả | `Calm bay.jpg` | ☐ |
+| 10 | Seagull | chim hải âu | `Seagull.jpg` | ☐ |
 
-### Phu Quoc Island (Đảo ngọc Phú Quốc) — `phu-quoc`
+### Phu Quoc Island (Đảo ngọc Phú Quốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Phu Quoc Island | đảo Phú Quốc | `phu-quoc-island.webp` | ☐ |
-| 2 | Sandy beach | bãi cát | `sandy-beach.webp` | ☐ |
-| 3 | Coral reef | rạn san hô | `coral-reef.webp` | ☐ |
-| 4 | Snorkeling | lặn ống thở | `snorkeling.webp` | ☐ |
-| 5 | Sunset | hoàng hôn | `sunset.webp` | ☐ |
-| 6 | Sea-crossing cable car | cáp treo vượt biển | `sea-crossing-cable-car.webp` | ☐ |
-| 7 | Tourist | du khách | `tourist.webp` | ☐ |
-| 8 | Airport | sân bay | `airport.webp` | ☐ |
-| 9 | Beach umbrella | dù che nắng bãi biển | `beach-umbrella.webp` | ☐ |
-| 10 | Island tour | tour đảo | `island-tour.webp` | ☐ |
+| 1 | Phu Quoc Island | đảo Phú Quốc | `Phu Quoc Island.jpg` | ☐ |
+| 2 | Sandy beach | bãi cát | `Sandy beach.jpg` | ☐ |
+| 3 | Coral reef | rạn san hô | `Coral reef.jpg` | ☐ |
+| 4 | Snorkeling | lặn ống thở | `Snorkeling.jpg` | ☐ |
+| 5 | Sunset | hoàng hôn | `Sunset.jpg` | ☐ |
+| 6 | Sea-crossing cable car | cáp treo vượt biển | `Sea-crossing cable car.jpg` | ☐ |
+| 7 | Tourist | du khách | `Tourist.jpg` | ☐ |
+| 8 | Airport | sân bay | `Airport.jpg` | ☐ |
+| 9 | Beach umbrella | dù che nắng bãi biển | `Beach umbrella.jpg` | ☐ |
+| 10 | Island tour | tour đảo | `Island tour.jpg` | ☐ |
 
-### Nam Du & Remote Islands (Nam Du và các đảo xa) — `nam-du-islands`
+### Nam Du & Remote Islands (Nam Du và các đảo xa) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Archipelago | quần đảo | `archipelago.webp` | ☐ |
-| 2 | Nam Du Islands | quần đảo Nam Du | `nam-du-islands.webp` | ☐ |
-| 3 | Island hopping | tham quan nhiều đảo | `island-hopping.webp` | ☐ |
-| 4 | Turquoise water | nước biển xanh ngọc | `turquoise-water.webp` | ☐ |
-| 5 | Wild beach | bãi biển hoang sơ | `wild-beach.webp` | ☐ |
-| 6 | Life jacket | áo phao | `life-jacket.webp` | ☐ |
-| 7 | Hammock | cái võng | `hammock.webp` | ☐ |
-| 8 | Remote island | đảo xa | `remote-island.webp` | ☐ |
-| 9 | Boat captain | thuyền trưởng | `boat-captain.webp` | ☐ |
-| 10 | Fresh air | không khí trong lành | `fresh-air.webp` | ☐ |
+| 1 | Archipelago | quần đảo | `Archipelago.jpg` | ☐ |
+| 2 | Nam Du Islands | quần đảo Nam Du | `Nam Du Islands.jpg` | ☐ |
+| 3 | Island hopping | tham quan nhiều đảo | `Island hopping.jpg` | ☐ |
+| 4 | Turquoise water | nước biển xanh ngọc | `Turquoise water.jpg` | ☐ |
+| 5 | Wild beach | bãi biển hoang sơ | `Wild beach.jpg` | ☐ |
+| 6 | Life jacket | áo phao | `Life jacket.jpg` | ☐ |
+| 7 | Hammock | cái võng | `Hammock.jpg` | ☐ |
+| 8 | Remote island | đảo xa | `Remote island.jpg` | ☐ |
+| 9 | Boat captain | thuyền trưởng | `Boat captain.jpg` | ☐ |
+| 10 | Fresh air | không khí trong lành | `Fresh air.jpg` | ☐ |
 
-### Sea Adventures (Hoạt động trên biển) — `sea-adventures`
+### Sea Adventures (Hoạt động trên biển) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Boat tour | tour thuyền | `boat-tour.webp` | ☐ |
-| 2 | Squid fishing | câu mực | `squid-fishing.webp` | ☐ |
-| 3 | Scuba diving | lặn biển | `scuba-diving.webp` | ☐ |
-| 4 | Kayak | thuyền kayak | `kayak.webp` | ☐ |
-| 5 | Resort | khu nghỉ dưỡng | `resort.webp` | ☐ |
-| 6 | Sunscreen | kem chống nắng | `sunscreen.webp` | ☐ |
-| 7 | Snorkel mask | kính lặn | `snorkel-mask.webp` | ☐ |
-| 8 | Parasailing | dù bay | `parasailing.webp` | ☐ |
-| 9 | Swimsuit | đồ bơi | `swimsuit.webp` | ☐ |
-| 10 | Towel | khăn tắm | `towel.webp` | ☐ |
+| 1 | Boat tour | tour thuyền | `Boat tour.jpg` | ☐ |
+| 2 | Squid fishing | câu mực | `Squid fishing.jpg` | ☐ |
+| 3 | Scuba diving | lặn biển | `Scuba diving.jpg` | ☐ |
+| 4 | Kayak | thuyền kayak | `Kayak.jpg` | ☐ |
+| 5 | Resort | khu nghỉ dưỡng | `Resort.jpg` | ☐ |
+| 6 | Sunscreen | kem chống nắng | `Sunscreen.jpg` | ☐ |
+| 7 | Snorkel mask | kính lặn | `Snorkel mask.jpg` | ☐ |
+| 8 | Parasailing | dù bay | `Parasailing.jpg` | ☐ |
+| 9 | Swimsuit | đồ bơi | `Swimsuit.jpg` | ☐ |
+| 10 | Towel | khăn tắm | `Towel.jpg` | ☐ |
 
-### Pirate Islands & Hon Chong (Quần đảo Hải Tặc và Hòn Chông) — `pirate-islands`
+### Pirate Islands & Hon Chong (Quần đảo Hải Tặc và Hòn Chông) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Pirate Islands | quần đảo Hải Tặc | `pirate-islands.webp` | ☐ |
-| 2 | Hon Chong | Hòn Chông | `hon-chong.webp` | ☐ |
-| 3 | Cape | mũi đất | `cape.webp` | ☐ |
-| 4 | Cliff | vách đá | `cliff.webp` | ☐ |
-| 5 | Pier | cầu cảng nhỏ | `pier.webp` | ☐ |
-| 6 | Pirate | cướp biển | `pirate.webp` | ☐ |
-| 7 | Treasure | kho báu | `treasure.webp` | ☐ |
-| 8 | Legend | truyền thuyết | `legend.webp` | ☐ |
-| 9 | Bay | vịnh | `bay.webp` | ☐ |
-| 10 | Sea cave | hang biển | `sea-cave.webp` | ☐ |
+| 1 | Pirate Islands | quần đảo Hải Tặc | `Pirate Islands.jpg` | ☐ |
+| 2 | Hon Chong | Hòn Chông | `Hon Chong.jpg` | ☐ |
+| 3 | Cape | mũi đất | `Cape.jpg` | ☐ |
+| 4 | Cliff | vách đá | `Cliff.jpg` | ☐ |
+| 5 | Pier | cầu cảng nhỏ | `Pier.jpg` | ☐ |
+| 6 | Pirate | cướp biển | `Pirate.jpg` | ☐ |
+| 7 | Treasure | kho báu | `Treasure.jpg` | ☐ |
+| 8 | Legend | truyền thuyết | `Legend.jpg` | ☐ |
+| 9 | Bay | vịnh | `Bay.jpg` | ☐ |
+| 10 | Sea cave | hang biển | `Sea cave.jpg` | ☐ |
 
 ## OCOP Products (Sản phẩm OCOP)
 
-### Proud Local Products (Sản phẩm tự hào) — `local-products`
+### Proud Local Products (Sản phẩm tự hào) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | OCOP | OCOP – Mỗi xã một sản phẩm | `ocop.webp` | ☐ |
-| 2 | Palm sugar | đường thốt nốt | `palm-sugar.webp` | ☐ |
-| 3 | Palmyra palm | cây thốt nốt | `palmyra-palm.webp` | ☐ |
-| 4 | Fish sauce | nước mắm | `fish-sauce.webp` | ☐ |
-| 5 | Pepper | hồ tiêu | `pepper.webp` | ☐ |
-| 6 | Pearl | ngọc trai | `pearl.webp` | ☐ |
-| 7 | Product | sản phẩm | `product.webp` | ☐ |
-| 8 | Cooperative | hợp tác xã | `cooperative.webp` | ☐ |
-| 9 | Commune | xã | `commune.webp` | ☐ |
-| 10 | Quality standard | tiêu chuẩn chất lượng | `quality-standard.webp` | ☐ |
+| 1 | OCOP | OCOP – Mỗi xã một sản phẩm | `OCOP.jpg` | ☐ |
+| 2 | Palm sugar | đường thốt nốt | `Palm sugar.jpg` | ☐ |
+| 3 | Palmyra palm | cây thốt nốt | `Palmyra palm.jpg` | ☐ |
+| 4 | Fish sauce | nước mắm | `Fish sauce.jpg` | ☐ |
+| 5 | Pepper | hồ tiêu | `Pepper.jpg` | ☐ |
+| 6 | Pearl | ngọc trai | `Pearl.jpg` | ☐ |
+| 7 | Product | sản phẩm | `Product.jpg` | ☐ |
+| 8 | Cooperative | hợp tác xã | `Cooperative.jpg` | ☐ |
+| 9 | Commune | xã | `Commune.jpg` | ☐ |
+| 10 | Quality standard | tiêu chuẩn chất lượng | `Quality standard.jpg` | ☐ |
 
-### Farm & Forest Products (Sản phẩm từ ruộng và rừng) — `farm-products`
+### Farm & Forest Products (Sản phẩm từ ruộng và rừng) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Jasmine rice | gạo thơm | `jasmine-rice.webp` | ☐ |
-| 2 | Cajuput oil | tinh dầu tràm | `cajuput-oil.webp` | ☐ |
-| 3 | Honey | mật ong | `honey.webp` | ☐ |
-| 4 | Dried fish | khô cá | `dried-fish.webp` | ☐ |
-| 5 | Herbal tea | trà thảo mộc | `herbal-tea.webp` | ☐ |
-| 6 | Gift box | hộp quà | `gift-box.webp` | ☐ |
-| 7 | Brown rice | gạo lứt | `brown-rice.webp` | ☐ |
-| 8 | Organic | hữu cơ | `organic.webp` | ☐ |
-| 9 | Farmer | nông dân | `farmer.webp` | ☐ |
-| 10 | Essential oil | tinh dầu | `essential-oil.webp` | ☐ |
+| 1 | Jasmine rice | gạo thơm | `Jasmine rice.jpg` | ☐ |
+| 2 | Cajuput oil | tinh dầu tràm | `Cajuput oil.jpg` | ☐ |
+| 3 | Honey | mật ong | `Honey.jpg` | ☐ |
+| 4 | Dried fish | khô cá | `Dried fish.jpg` | ☐ |
+| 5 | Herbal tea | trà thảo mộc | `Herbal tea.jpg` | ☐ |
+| 6 | Gift box | hộp quà | `Gift box.jpg` | ☐ |
+| 7 | Brown rice | gạo lứt | `Brown rice.jpg` | ☐ |
+| 8 | Organic | hữu cơ | `Organic.jpg` | ☐ |
+| 9 | Farmer | nông dân | `Farmer.jpg` | ☐ |
+| 10 | Essential oil | tinh dầu | `Essential oil.jpg` | ☐ |
 
-### OCOP Quality & Selling (Chất lượng và bán hàng OCOP) — `ocop-selling`
+### OCOP Quality & Selling (Chất lượng và bán hàng OCOP) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Star rating | xếp hạng sao | `star-rating.webp` | ☐ |
-| 2 | Packaging | bao bì | `packaging.webp` | ☐ |
-| 3 | Label | nhãn mác | `label.webp` | ☐ |
-| 4 | Certificate | giấy chứng nhận | `certificate.webp` | ☐ |
-| 5 | Souvenir | quà lưu niệm | `souvenir.webp` | ☐ |
-| 6 | Online shop | cửa hàng trực tuyến | `online-shop.webp` | ☐ |
-| 7 | Brand | thương hiệu | `brand.webp` | ☐ |
-| 8 | Customer | khách hàng | `customer.webp` | ☐ |
-| 9 | Delivery | giao hàng | `delivery.webp` | ☐ |
-| 10 | Price | giá cả | `price.webp` | ☐ |
+| 1 | Star rating | xếp hạng sao | `Star rating.jpg` | ☐ |
+| 2 | Packaging | bao bì | `Packaging.jpg` | ☐ |
+| 3 | Label | nhãn mác | `Label.jpg` | ☐ |
+| 4 | Certificate | giấy chứng nhận | `Certificate.jpg` | ☐ |
+| 5 | Souvenir | quà lưu niệm | `Souvenir.jpg` | ☐ |
+| 6 | Online shop | cửa hàng trực tuyến | `Online shop.jpg` | ☐ |
+| 7 | Brand | thương hiệu | `Brand.jpg` | ☐ |
+| 8 | Customer | khách hàng | `Customer.jpg` | ☐ |
+| 9 | Delivery | giao hàng | `Delivery.jpg` | ☐ |
+| 10 | Price | giá cả | `Price.jpg` | ☐ |
 
-### OCOP Handmade Products (Sản phẩm thủ công OCOP) — `ocop-handicrafts`
+### OCOP Handmade Products (Sản phẩm thủ công OCOP) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Silk scarf | khăn lụa | `silk-scarf.webp` | ☐ |
-| 2 | Brocade bag | túi thổ cẩm | `brocade-bag.webp` | ☐ |
-| 3 | Pearl necklace | dây chuyền ngọc trai | `pearl-necklace.webp` | ☐ |
-| 4 | Coconut shell bowl | tô vỏ dừa | `coconut-shell-bowl.webp` | ☐ |
-| 5 | Bamboo basket | giỏ tre | `bamboo-basket.webp` | ☐ |
-| 6 | Handmade | làm thủ công | `handmade.webp` | ☐ |
-| 7 | Artisan | nghệ nhân | `artisan.webp` | ☐ |
-| 8 | Natural dye | thuốc nhuộm tự nhiên | `natural-dye.webp` | ☐ |
-| 9 | Gift | quà tặng | `gift.webp` | ☐ |
-| 10 | Design | thiết kế | `design.webp` | ☐ |
+| 1 | Silk scarf | khăn lụa | `Silk scarf.jpg` | ☐ |
+| 2 | Brocade bag | túi thổ cẩm | `Brocade bag.jpg` | ☐ |
+| 3 | Pearl necklace | dây chuyền ngọc trai | `Pearl necklace.jpg` | ☐ |
+| 4 | Coconut shell bowl | tô vỏ dừa | `Coconut shell bowl.jpg` | ☐ |
+| 5 | Bamboo basket | giỏ tre | `Bamboo basket.jpg` | ☐ |
+| 6 | Handmade | làm thủ công | `Handmade.jpg` | ☐ |
+| 7 | Artisan | nghệ nhân | `Artisan.jpg` | ☐ |
+| 8 | Natural dye | thuốc nhuộm tự nhiên | `Natural dye.jpg` | ☐ |
+| 9 | Gift | quà tặng | `Gift.jpg` | ☐ |
+| 10 | Design | thiết kế | `Design.jpg` | ☐ |
 
-### Sea & Salt Products (Sản phẩm từ biển) — `ocop-sea-products`
+### Sea & Salt Products (Sản phẩm từ biển) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Dried squid | mực khô | `dried-squid.webp` | ☐ |
-| 2 | Dried shrimp | tôm khô | `dried-shrimp.webp` | ☐ |
-| 3 | Shrimp paste | mắm tôm | `shrimp-paste.webp` | ☐ |
-| 4 | Seaweed | rong biển | `seaweed.webp` | ☐ |
-| 5 | Sea salt | muối biển | `sea-salt.webp` | ☐ |
-| 6 | Vacuum pack | gói hút chân không | `vacuum-pack.webp` | ☐ |
-| 7 | Salted fish | cá muối | `salted-fish.webp` | ☐ |
-| 8 | Sea cucumber | hải sâm | `sea-cucumber.webp` | ☐ |
-| 9 | Export | xuất khẩu | `export.webp` | ☐ |
-| 10 | Cool box | thùng giữ lạnh | `cool-box.webp` | ☐ |
+| 1 | Dried squid | mực khô | `Dried squid.jpg` | ☐ |
+| 2 | Dried shrimp | tôm khô | `Dried shrimp.jpg` | ☐ |
+| 3 | Shrimp paste | mắm tôm | `Shrimp paste.jpg` | ☐ |
+| 4 | Seaweed | rong biển | `Seaweed.jpg` | ☐ |
+| 5 | Sea salt | muối biển | `Sea salt.jpg` | ☐ |
+| 6 | Vacuum pack | gói hút chân không | `Vacuum pack.jpg` | ☐ |
+| 7 | Salted fish | cá muối | `Salted fish.jpg` | ☐ |
+| 8 | Sea cucumber | hải sâm | `Sea cucumber.jpg` | ☐ |
+| 9 | Export | xuất khẩu | `Export.jpg` | ☐ |
+| 10 | Cool box | thùng giữ lạnh | `Cool box.jpg` | ☐ |
 
 ## Nature & Wildlife (Thiên nhiên)
 
-### Wild Places (Những miền hoang dã) — `wild-places`
+### Wild Places (Những miền hoang dã) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Wetland | đất ngập nước | `wetland.webp` | ☐ |
-| 2 | Mangrove | rừng ngập mặn | `mangrove.webp` | ☐ |
-| 3 | Biosphere reserve | khu dự trữ sinh quyển | `biosphere-reserve.webp` | ☐ |
-| 4 | Migratory bird | chim di cư | `migratory-bird.webp` | ☐ |
-| 5 | Ridgeback dog | chó Phú Quốc | `ridgeback-dog.webp` | ☐ |
-| 6 | National park | vườn quốc gia | `national-park.webp` | ☐ |
-| 7 | Ecosystem | hệ sinh thái | `ecosystem.webp` | ☐ |
-| 8 | Endangered | có nguy cơ tuyệt chủng | `endangered.webp` | ☐ |
-| 9 | Ranger | kiểm lâm | `ranger.webp` | ☐ |
-| 10 | Conservation | bảo tồn | `conservation.webp` | ☐ |
+| 1 | Wetland | đất ngập nước | `Wetland.jpg` | ☐ |
+| 2 | Mangrove | rừng ngập mặn | `Mangrove.jpg` | ☐ |
+| 3 | Biosphere reserve | khu dự trữ sinh quyển | `Biosphere reserve.jpg` | ☐ |
+| 4 | Migratory bird | chim di cư | `Migratory bird.jpg` | ☐ |
+| 5 | Ridgeback dog | chó Phú Quốc | `Ridgeback dog.jpg` | ☐ |
+| 6 | National park | vườn quốc gia | `National park.jpg` | ☐ |
+| 7 | Ecosystem | hệ sinh thái | `Ecosystem.jpg` | ☐ |
+| 8 | Endangered | có nguy cơ tuyệt chủng | `Endangered.jpg` | ☐ |
+| 9 | Ranger | kiểm lâm | `Ranger.jpg` | ☐ |
+| 10 | Conservation | bảo tồn | `Conservation.jpg` | ☐ |
 
-### Life in the Water (Sinh vật mùa nước nổi) — `water-life`
+### Life in the Water (Sinh vật mùa nước nổi) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Linh fish | cá linh | `linh-fish.webp` | ☐ |
-| 2 | Snakehead fish | cá lóc | `snakehead-fish.webp` | ☐ |
-| 3 | Sesbania flower | bông điên điển | `sesbania-flower.webp` | ☐ |
-| 4 | Water lily | bông súng | `water-lily.webp` | ☐ |
-| 5 | Catfish | cá tra | `catfish.webp` | ☐ |
-| 6 | Freshwater prawn | tôm nước ngọt | `freshwater-prawn.webp` | ☐ |
-| 7 | Floodwater | nước lũ | `floodwater.webp` | ☐ |
-| 8 | Eel | con lươn | `eel.webp` | ☐ |
-| 9 | Crab | con cua | `crab.webp` | ☐ |
-| 10 | Fishing season | mùa đánh bắt | `fishing-season.webp` | ☐ |
+| 1 | Linh fish | cá linh | `Linh fish.jpg` | ☐ |
+| 2 | Snakehead fish | cá lóc | `Snakehead fish.jpg` | ☐ |
+| 3 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ☐ |
+| 4 | Water lily | bông súng | `Water lily.jpg` | ☐ |
+| 5 | Catfish | cá tra | `Catfish.jpg` | ☐ |
+| 6 | Freshwater prawn | tôm nước ngọt | `Freshwater prawn.jpg` | ☐ |
+| 7 | Floodwater | nước lũ | `Floodwater.jpg` | ☐ |
+| 8 | Eel | con lươn | `Eel.jpg` | ☐ |
+| 9 | Crab | con cua | `Crab.jpg` | ☐ |
+| 10 | Fishing season | mùa đánh bắt | `Fishing season.jpg` | ☐ |
 
-### Nature of Phu Quoc (Thiên nhiên Phú Quốc) — `phu-quoc-nature`
+### Nature of Phu Quoc (Thiên nhiên Phú Quốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Waterfall | thác nước | `waterfall.webp` | ☐ |
-| 2 | Tropical forest | rừng nhiệt đới | `tropical-forest.webp` | ☐ |
-| 3 | Hiking trail | đường mòn đi bộ | `hiking-trail.webp` | ☐ |
-| 4 | Starfish | sao biển | `starfish.webp` | ☐ |
-| 5 | Coconut grove | rừng dừa | `coconut-grove.webp` | ☐ |
-| 6 | Tide | thủy triều | `tide.webp` | ☐ |
-| 7 | Butterfly | con bướm | `butterfly.webp` | ☐ |
-| 8 | Monkey | con khỉ | `monkey.webp` | ☐ |
-| 9 | Wild orchid | lan rừng | `wild-orchid.webp` | ☐ |
-| 10 | Stream | dòng suối | `stream.webp` | ☐ |
+| 1 | Waterfall | thác nước | `Waterfall.jpg` | ☐ |
+| 2 | Tropical forest | rừng nhiệt đới | `Tropical forest.jpg` | ☐ |
+| 3 | Hiking trail | đường mòn đi bộ | `Hiking trail.jpg` | ☐ |
+| 4 | Starfish | sao biển | `Starfish.jpg` | ☐ |
+| 5 | Coconut grove | rừng dừa | `Coconut grove.jpg` | ☐ |
+| 6 | Tide | thủy triều | `Tide.jpg` | ☐ |
+| 7 | Butterfly | con bướm | `Butterfly.jpg` | ☐ |
+| 8 | Monkey | con khỉ | `Monkey.jpg` | ☐ |
+| 9 | Wild orchid | lan rừng | `Wild orchid.jpg` | ☐ |
+| 10 | Stream | dòng suối | `Stream.jpg` | ☐ |
 
-### Bird Watching (Ngắm chim) — `bird-watching`
+### Bird Watching (Ngắm chim) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Heron | con diệc | `heron.webp` | ☐ |
-| 2 | Kingfisher | chim bói cá | `kingfisher.webp` | ☐ |
-| 3 | Stork | con cò | `stork.webp` | ☐ |
-| 4 | Cormorant | chim cốc | `cormorant.webp` | ☐ |
-| 5 | Frog | con ếch | `frog.webp` | ☐ |
-| 6 | Dragonfly | chuồn chuồn | `dragonfly.webp` | ☐ |
-| 7 | Binoculars | ống nhòm | `binoculars.webp` | ☐ |
-| 8 | Nest | tổ chim | `nest.webp` | ☐ |
-| 9 | Feather | lông vũ | `feather.webp` | ☐ |
-| 10 | Flock | đàn chim | `flock.webp` | ☐ |
+| 1 | Heron | con diệc | `Heron.jpg` | ☐ |
+| 2 | Kingfisher | chim bói cá | `Kingfisher.jpg` | ☐ |
+| 3 | Stork | con cò | `Stork.jpg` | ☐ |
+| 4 | Cormorant | chim cốc | `Cormorant.jpg` | ☐ |
+| 5 | Frog | con ếch | `Frog.jpg` | ☐ |
+| 6 | Dragonfly | chuồn chuồn | `Dragonfly.jpg` | ☐ |
+| 7 | Binoculars | ống nhòm | `Binoculars.jpg` | ☐ |
+| 8 | Nest | tổ chim | `Nest.jpg` | ☐ |
+| 9 | Feather | lông vũ | `Feather.jpg` | ☐ |
+| 10 | Flock | đàn chim | `Flock.jpg` | ☐ |
 
-### Marine Life (Sinh vật biển) — `marine-life`
+### Marine Life (Sinh vật biển) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Seahorse | cá ngựa | `seahorse.webp` | ☐ |
-| 2 | Sea turtle | rùa biển | `sea-turtle.webp` | ☐ |
-| 3 | Dolphin | cá heo | `dolphin.webp` | ☐ |
-| 4 | Jellyfish | con sứa | `jellyfish.webp` | ☐ |
-| 5 | Seagrass | cỏ biển | `seagrass.webp` | ☐ |
-| 6 | Clownfish | cá hề | `clownfish.webp` | ☐ |
-| 7 | Coral | san hô | `coral.webp` | ☐ |
-| 8 | Octopus | bạch tuộc | `octopus.webp` | ☐ |
-| 9 | Shrimp | con tôm | `shrimp.webp` | ☐ |
-| 10 | Plankton | sinh vật phù du | `plankton.webp` | ☐ |
+| 1 | Seahorse | cá ngựa | `Seahorse.jpg` | ☐ |
+| 2 | Sea turtle | rùa biển | `Sea turtle.jpg` | ☐ |
+| 3 | Dolphin | cá heo | `Dolphin.jpg` | ☐ |
+| 4 | Jellyfish | con sứa | `Jellyfish.jpg` | ☐ |
+| 5 | Seagrass | cỏ biển | `Seagrass.jpg` | ☐ |
+| 6 | Clownfish | cá hề | `Clownfish.jpg` | ☐ |
+| 7 | Coral | san hô | `Coral.jpg` | ☐ |
+| 8 | Octopus | bạch tuộc | `Octopus.jpg` | ☐ |
+| 9 | Shrimp | con tôm | `Shrimp.jpg` | ☐ |
+| 10 | Plankton | sinh vật phù du | `Plankton.jpg` | ☐ |
 
 ## Spiritual Sites (Tâm linh)
 
-### Places of Worship (Nơi thờ tự) — `places-of-worship`
+### Places of Worship (Nơi thờ tự) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Pagoda | chùa | `pagoda.webp` | ☐ |
-| 2 | Khmer pagoda | chùa Khmer | `khmer-pagoda.webp` | ☐ |
-| 3 | Temple | miếu, đền | `temple.webp` | ☐ |
-| 4 | Incense | hương, nhang | `incense.webp` | ☐ |
-| 5 | Mosque | thánh đường Hồi giáo | `mosque.webp` | ☐ |
-| 6 | Monk | nhà sư | `monk.webp` | ☐ |
-| 7 | Church | nhà thờ | `church.webp` | ☐ |
-| 8 | Prayer hall | chánh điện | `prayer-hall.webp` | ☐ |
-| 9 | Candle | ngọn nến | `candle.webp` | ☐ |
-| 10 | Religion | tôn giáo | `religion.webp` | ☐ |
+| 1 | Pagoda | chùa | `Pagoda.jpg` | ☐ |
+| 2 | Khmer pagoda | chùa Khmer | `Khmer pagoda.jpg` | ☐ |
+| 3 | Temple | miếu, đền | `Temple.jpg` | ☐ |
+| 4 | Incense | hương, nhang | `Incense.jpg` | ☐ |
+| 5 | Mosque | thánh đường Hồi giáo | `Mosque.jpg` | ☐ |
+| 6 | Monk | nhà sư | `Monk.jpg` | ☐ |
+| 7 | Church | nhà thờ | `Church.jpg` | ☐ |
+| 8 | Prayer hall | chánh điện | `Prayer hall.jpg` | ☐ |
+| 9 | Candle | ngọn nến | `Candle.jpg` | ☐ |
+| 10 | Religion | tôn giáo | `Religion.jpg` | ☐ |
 
-### Ba Chua Xu Temple (Miếu Bà Chúa Xứ) — `ba-chua-xu`
+### Ba Chua Xu Temple (Miếu Bà Chúa Xứ) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Goddess | nữ thần, bà chúa | `goddess.webp` | ☐ |
-| 2 | Statue | tượng | `statue.webp` | ☐ |
-| 3 | Prayer | lời cầu nguyện | `prayer.webp` | ☐ |
-| 4 | Wish | điều ước | `wish.webp` | ☐ |
-| 5 | Blessing | phước lành | `blessing.webp` | ☐ |
-| 6 | Altar | bàn thờ | `altar.webp` | ☐ |
-| 7 | Lady of the Realm | Bà Chúa Xứ | `lady-of-the-realm.webp` | ☐ |
-| 8 | Flower | bông hoa | `flower.webp` | ☐ |
-| 9 | Faith | niềm tin | `faith.webp` | ☐ |
-| 10 | Gratitude | lòng biết ơn | `gratitude.webp` | ☐ |
+| 1 | Goddess | nữ thần, bà chúa | `Goddess.jpg` | ☐ |
+| 2 | Statue | tượng | `Statue.jpg` | ☐ |
+| 3 | Prayer | lời cầu nguyện | `Prayer.jpg` | ☐ |
+| 4 | Wish | điều ước | `Wish.jpg` | ☐ |
+| 5 | Blessing | phước lành | `Blessing.jpg` | ☐ |
+| 6 | Altar | bàn thờ | `Altar.jpg` | ☐ |
+| 7 | Lady of the Realm | Bà Chúa Xứ | `Lady of the Realm.jpg` | ☐ |
+| 8 | Flower | bông hoa | `Flower.jpg` | ☐ |
+| 9 | Faith | niềm tin | `Faith.jpg` | ☐ |
+| 10 | Gratitude | lòng biết ơn | `Gratitude.jpg` | ☐ |
 
-### Khmer & Cham Communities (Cộng đồng Khmer và Chăm) — `khmer-cham-culture`
+### Khmer & Cham Communities (Cộng đồng Khmer và Chăm) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Khmer people | người Khmer | `khmer-people.webp` | ☐ |
-| 2 | Cham people | người Chăm | `cham-people.webp` | ☐ |
-| 3 | Saffron robe | áo cà sa | `saffron-robe.webp` | ☐ |
-| 4 | Stupa | tháp | `stupa.webp` | ☐ |
-| 5 | Alms bowl | bình bát | `alms-bowl.webp` | ☐ |
-| 6 | Harmony | sự hòa hợp | `harmony.webp` | ☐ |
-| 7 | Ethnic group | dân tộc | `ethnic-group.webp` | ☐ |
-| 8 | Language | ngôn ngữ | `language.webp` | ☐ |
-| 9 | Respect | sự tôn trọng | `respect.webp` | ☐ |
-| 10 | Neighbor | hàng xóm | `neighbor.webp` | ☐ |
+| 1 | Khmer people | người Khmer | `Khmer people.jpg` | ☐ |
+| 2 | Cham people | người Chăm | `Cham people.jpg` | ☐ |
+| 3 | Saffron robe | áo cà sa | `Saffron robe.jpg` | ☐ |
+| 4 | Stupa | tháp | `Stupa.jpg` | ☐ |
+| 5 | Alms bowl | bình bát | `Alms bowl.jpg` | ☐ |
+| 6 | Harmony | sự hòa hợp | `Harmony.jpg` | ☐ |
+| 7 | Ethnic group | dân tộc | `Ethnic group.jpg` | ☐ |
+| 8 | Language | ngôn ngữ | `Language.jpg` | ☐ |
+| 9 | Respect | sự tôn trọng | `Respect.jpg` | ☐ |
+| 10 | Neighbor | hàng xóm | `Neighbor.jpg` | ☐ |
 
-### Van Linh Pagoda, Cam Mountain (Chùa Vạn Linh, núi Cấm) — `nui-cam-pagoda`
+### Van Linh Pagoda, Cam Mountain (Chùa Vạn Linh, núi Cấm) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Van Linh Pagoda | chùa Vạn Linh | `van-linh-pagoda.webp` | ☐ |
-| 2 | Maitreya Buddha | Phật Di Lặc | `maitreya-buddha.webp` | ☐ |
-| 3 | Meditation | thiền định | `meditation.webp` | ☐ |
-| 4 | Monastery | tu viện | `monastery.webp` | ☐ |
-| 5 | Bell | chuông | `bell.webp` | ☐ |
-| 6 | Steps | bậc thang | `steps.webp` | ☐ |
-| 7 | Mountain road | đường núi | `mountain-road.webp` | ☐ |
-| 8 | Peaceful | yên bình | `peaceful.webp` | ☐ |
-| 9 | View | tầm nhìn | `view.webp` | ☐ |
-| 10 | Courtyard | sân chùa | `courtyard.webp` | ☐ |
+| 1 | Van Linh Pagoda | chùa Vạn Linh | `Van Linh Pagoda.jpg` | ☐ |
+| 2 | Maitreya Buddha | Phật Di Lặc | `Maitreya Buddha.jpg` | ☐ |
+| 3 | Meditation | thiền định | `Meditation.jpg` | ☐ |
+| 4 | Monastery | tu viện | `Monastery.jpg` | ☐ |
+| 5 | Bell | chuông | `Bell.jpg` | ☐ |
+| 6 | Steps | bậc thang | `Steps.jpg` | ☐ |
+| 7 | Mountain road | đường núi | `Mountain road.jpg` | ☐ |
+| 8 | Peaceful | yên bình | `Peaceful.jpg` | ☐ |
+| 9 | View | tầm nhìn | `View.jpg` | ☐ |
+| 10 | Courtyard | sân chùa | `Courtyard.jpg` | ☐ |
 
-### Temples of Phu Quoc (Đền chùa Phú Quốc) — `phu-quoc-temples`
+### Temples of Phu Quoc (Đền chùa Phú Quốc) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ho Quoc Pagoda | chùa Hộ Quốc | `ho-quoc-pagoda.webp` | ☐ |
-| 2 | Dinh Cau Temple | miếu Dinh Cậu | `dinh-cau-temple.webp` | ☐ |
-| 3 | Zen monastery | thiền viện | `zen-monastery.webp` | ☐ |
-| 4 | Shrine | miếu thờ nhỏ | `shrine.webp` | ☐ |
-| 5 | Bronze bell | chuông đồng | `bronze-bell.webp` | ☐ |
-| 6 | Pilgrimage | chuyến hành hương | `pilgrimage.webp` | ☐ |
-| 7 | Hilltop | đỉnh đồi | `hilltop.webp` | ☐ |
-| 8 | Calm | sự yên tĩnh | `calm.webp` | ☐ |
-| 9 | Worship | thờ cúng | `worship.webp` | ☐ |
-| 10 | Fishermen | ngư dân | `fishermen.webp` | ☐ |
+| 1 | Ho Quoc Pagoda | chùa Hộ Quốc | `Ho Quoc Pagoda.jpg` | ☐ |
+| 2 | Dinh Cau Temple | miếu Dinh Cậu | `Dinh Cau Temple.jpg` | ☐ |
+| 3 | Zen monastery | thiền viện | `Zen monastery.jpg` | ☐ |
+| 4 | Shrine | miếu thờ nhỏ | `Shrine.jpg` | ☐ |
+| 5 | Bronze bell | chuông đồng | `Bronze bell.jpg` | ☐ |
+| 6 | Pilgrimage | chuyến hành hương | `Pilgrimage.jpg` | ☐ |
+| 7 | Hilltop | đỉnh đồi | `Hilltop.jpg` | ☐ |
+| 8 | Calm | sự yên tĩnh | `Calm.jpg` | ☐ |
+| 9 | Worship | thờ cúng | `Worship.jpg` | ☐ |
+| 10 | Fishermen | ngư dân | `Fishermen.jpg` | ☐ |
 
-### Sacred Places of Ha Tien (Chốn linh thiêng Hà Tiên) — `ha-tien-sacred`
+### Sacred Places of Ha Tien (Chốn linh thiêng Hà Tiên) — 0/10 ảnh
 
-| # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Tam Bao Pagoda | chùa Tam Bảo | `tam-bao-pagoda.webp` | ☐ |
-| 2 | Hang Pagoda | chùa Hang | `hang-pagoda.webp` | ☐ |
-| 3 | Cave temple | chùa hang động | `cave-temple.webp` | ☐ |
-| 4 | Hillside | sườn đồi | `hillside.webp` | ☐ |
-| 5 | Tomb | lăng mộ | `tomb.webp` | ☐ |
-| 6 | Stone steps | bậc đá | `stone-steps.webp` | ☐ |
-| 7 | Old tree | cây cổ thụ | `old-tree.webp` | ☐ |
-| 8 | Quiet | yên tĩnh | `quiet.webp` | ☐ |
-| 9 | Moss | rêu | `moss.webp` | ☐ |
-| 10 | Incense smoke | khói hương | `incense-smoke.webp` | ☐ |
+| 1 | Tam Bao Pagoda | chùa Tam Bảo | `Tam Bao Pagoda.jpg` | ☐ |
+| 2 | Hang Pagoda | chùa Hang | `Hang Pagoda.jpg` | ☐ |
+| 3 | Cave temple | chùa hang động | `Cave temple.jpg` | ☐ |
+| 4 | Hillside | sườn đồi | `Hillside.jpg` | ☐ |
+| 5 | Tomb | lăng mộ | `Tomb.jpg` | ☐ |
+| 6 | Stone steps | bậc đá | `Stone steps.jpg` | ☐ |
+| 7 | Old tree | cây cổ thụ | `Old tree.jpg` | ☐ |
+| 8 | Quiet | yên tĩnh | `Quiet.jpg` | ☐ |
+| 9 | Moss | rêu | `Moss.jpg` | ☐ |
+| 10 | Incense smoke | khói hương | `Incense smoke.jpg` | ☐ |

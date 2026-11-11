@@ -74,7 +74,7 @@ export const categories: Category[] = [
           { en: 'Calm water', ipa: '/kɑːm ˈwɔːtər/', vi: 'mặt nước phẳng lặng', emoji: '🌊', example: 'Calm water makes the lake look like a mirror.', exampleVi: 'Mặt nước phẳng lặng khiến hồ như một tấm gương.' },
           { en: 'Picnic', ipa: '/ˈpɪknɪk/', vi: 'chuyến dã ngoại', emoji: '🧺', example: 'Families have a picnic by the lake.', exampleVi: 'Các gia đình đi dã ngoại bên hồ.' },
           { en: 'Shady tree', ipa: '/ˈʃeɪdi triː/', vi: 'cây bóng mát', emoji: '🌳', example: 'A shady tree is a good place to rest.', exampleVi: 'Cây bóng mát là nơi tốt để nghỉ ngơi.' },
-          { en: 'Cham temple', ipa: '/tʃɑːm ˈtɛmpəl/', vi: 'chùa Chăm', emoji: '🛕', example: 'A small Cham temple stands quietly on the shore of the lake.', exampleVi: 'Một ngôi chùa Chăm nhỏ nằm lặng lẽ bên bờ hồ.' },
+          { en: 'Cham mosque', ipa: '/tʃɑːm mɑːsk/', vi: 'thánh đường Chăm', emoji: '🕌', example: 'A small Cham mosque stands quietly on the shore of the lake.', exampleVi: 'Một thánh đường Chăm nhỏ nằm lặng lẽ bên bờ hồ.' },
         ],
       },
       {
