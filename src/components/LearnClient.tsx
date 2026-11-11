@@ -8,6 +8,7 @@ import { usePrefs } from '@/lib/prefs';
 import Illustration from './Illustration';
 import BadgeCard from './BadgeCard';
 import SpeechNotice from './SpeechNotice';
+import Lightbox from './Lightbox';
 
 const SWIPE_PX = 50;
 
@@ -20,6 +21,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
   const [autoNext, setAutoNext] = useState(false);
   const [playing, setPlaying] = useState(false);
   const [silent, setSilent] = useState(false);
+  const [zoom, setZoom] = useState(false);
   const token = useRef(0);
   const startX = useRef<number | null>(null);
 
@@ -43,14 +45,14 @@ export default function LearnClient({ category, lesson }: { category: Category; 
     [index, words.length],
   );
 
-  const play = useCallback(async () => {
+  const play = useCallback(async (skipAuto = false) => {
     const mine = ++token.current;
     setPlaying(true);
     const ok = await speakWord(words[index]);
     if (mine !== token.current) return;
     setSilent(!ok);
     setPlaying(false);
-    if (autoNext) {
+    if (autoNext && !skipAuto) {
       await new Promise((r) => setTimeout(r, 450));
       if (mine === token.current) go(1);
     }
@@ -58,7 +60,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (done) return;
+      if (done || zoom) return;
       if (e.key === 'ArrowRight') go(1);
       else if (e.key === 'ArrowLeft') go(-1);
       else if (e.key === ' ' || e.key === 'Enter') {
@@ -69,9 +71,13 @@ export default function LearnClient({ category, lesson }: { category: Category; 
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [go, play, done]);
+  }, [go, play, done, zoom]);
 
   useEffect(() => () => stopSpeaking(), []);
+
+  useEffect(() => {
+    if (done) setZoom(false);
+  }, [done]);
 
   const base = `/c/${category.id}/${lesson.id}`;
 
@@ -129,7 +135,10 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           startX.current = null;
           if (dx <= -SWIPE_PX) go(1);
           else if (dx >= SWIPE_PX) go(-1);
-          else play();
+          else if ((e.target as HTMLElement).closest('[data-zoom]')) {
+            setZoom(true);
+            play(true);
+          } else play();
         }}
         onPointerCancel={() => {
           startX.current = null;
@@ -143,6 +152,7 @@ export default function LearnClient({ category, lesson }: { category: Category; 
             to={category.to}
             image={word.image}
             label={word.en}
+            zoomable={!!word.image}
           />
           <div className="flash-text">
             <h2>{word.en}</h2>
@@ -158,6 +168,20 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           </div>
         </article>
       </div>
+      {zoom && word.image && (
+        <Lightbox
+          src={word.image}
+          title={word.en}
+          ipa={word.ipa}
+          vi={showVi ? word.vi : undefined}
+          index={index}
+          total={words.length}
+          onClose={() => setZoom(false)}
+          onPrev={() => go(-1)}
+          onNext={() => go(1)}
+          onSpeak={() => play(true)}
+        />
+      )}
       <SpeechNotice hasRecordedAudio={words.every((w) => !!w.audio)} failed={silent} />
       <p className="hint">Tap the card to hear it · Swipe to continue</p>
 

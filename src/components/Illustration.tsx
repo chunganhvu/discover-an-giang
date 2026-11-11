@@ -5,16 +5,18 @@ type Props = {
   image?: string;
   label?: string;
   className?: string;
+  /** Marks a real photo as tappable to enlarge (handled by the parent). */
+  zoomable?: boolean;
 };
 
 /**
  * Placeholder illustration: a soft gradient scene with a large emoji.
  * When a real photo path is provided via `image`, it is shown instead.
  */
-export default function Illustration({ emoji, from, to, image, label, className = '' }: Props) {
+export default function Illustration({ emoji, from, to, image, label, className = '', zoomable = false }: Props) {
   if (image) {
     // eslint-disable-next-line @next/next/no-img-element
-    return <img className={`illus ${className}`} src={image} alt={label ?? ''} loading="lazy" />;
+    return <img className={`illus ${className}${zoomable ? ' zoomable' : ''}`} {...(zoomable ? { 'data-zoom': '' } : {})} src={image} alt={label ?? ''} loading="lazy" />;
   }
   return (
     <div

@@ -2,7 +2,8 @@ import Link from 'next/link';
 import Hero from '@/components/Hero';
 import { categories } from '@/data/content';
 import CategoryArt from '@/components/CategoryArt';
-import { categoryImage } from '@/data/assets';
+import CategorySlideshow from '@/components/CategorySlideshow';
+import { categoryGallery, categoryImage } from '@/data/assets';
 
 export default function Home() {
   return (
@@ -13,17 +14,24 @@ export default function Home() {
           Choose a topic <small>Chọn chuyên mục</small>
         </h2>
         <ul className="grid">
-          {categories.map((c) => (
+          {categories.map((c, n) => {
+            const gallery = categoryGallery(c);
+            return (
             <li key={c.id}>
               <Link href={`/c/${c.id}/`} className="cat-card">
-                <CategoryArt id={c.id} image={categoryImage(c.id)} />
+                {gallery.length > 1 ? (
+                  <CategorySlideshow images={gallery} offset={n * 650} />
+                ) : (
+                  <CategoryArt id={c.id} image={categoryImage(c.id)} />
+                )}
                 <span className="cat-label" style={{ background: `linear-gradient(180deg, ${c.from}, ${c.to})` }}>
                   <span className="cat-title">{c.title}</span>
                   <span className="cat-vi">({c.vi})</span>
                 </span>
               </Link>
             </li>
-          ))}
+            );
+          })}
         </ul>
         <p className="foot">
           A community project to help officials, teachers, students and everyone in An Giang tell our story in English.{' '}

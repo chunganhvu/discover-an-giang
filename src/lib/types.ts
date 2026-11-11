@@ -23,6 +23,8 @@ export type Lesson = {
   emoji: string;
   blurb: string;
   badge: Badge;
+  /** Slug of the word whose photo represents the lesson (default: first word with a photo). */
+  cover?: string;
   words: Word[];
 };
 
