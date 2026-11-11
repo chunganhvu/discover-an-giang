@@ -36,11 +36,11 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Canopy | tán cây | `Canopy.jpg` | ✅ |
 | 10 | Ecotourism | du lịch sinh thái | `Ecotourism.jpg` | ✅ |
 
-### Bung Binh Thien Lake (Hồ Búng Bình Thiên) — 6/11 ảnh
+### Bung Binh Thien (Búng Bình Thiên) — 6/11 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Bung Binh Thien Lake | hồ Búng Bình Thiên | `Bung Binh Thien Lake.jpg` | ☐ |
+| 1 | Bung Binh Thien | Búng Bình Thiên | `Bung Binh Thien.jpg` | ☐ |
 | 2 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ☐ |
 | 3 | Sunrise | bình minh | `Sunrise.jpg` | ✅ |
 | 4 | Reflection | bóng phản chiếu | `Reflection.jpg` | ✅ |
