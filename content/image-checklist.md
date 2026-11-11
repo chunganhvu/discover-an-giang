@@ -52,20 +52,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 10 | Shady tree | cây bóng mát | `Shady tree.jpg` | ✅ |
 | 11 | Cham mosque | thánh đường Chăm | `Cham mosque.jpg` | ✅ |
 
-### Ha Tien Scenery (Phong cảnh Hà Tiên) — 1/10 ảnh
+### Ha Tien Scenery (Phong cảnh Hà Tiên) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
 | 1 | Dong Ho Lagoon | đầm Đông Hồ | `Dong Ho Lagoon.jpg` | ✅ |
-| 2 | Thach Dong Cave | Thạch Động | `Thach Dong Cave.jpg` | ☐ |
-| 3 | Mui Nai Cape | Mũi Nai | `Mui Nai Cape.jpg` | ☐ |
-| 4 | Lagoon | đầm phá | `Lagoon.jpg` | ☐ |
-| 5 | Stalactite | nhũ đá | `Stalactite.jpg` | ☐ |
-| 6 | Viewpoint | điểm ngắm cảnh | `Viewpoint.jpg` | ☐ |
-| 7 | Sea breeze | gió biển | `Sea breeze.jpg` | ☐ |
-| 8 | Rocky hill | đồi đá | `Rocky hill.jpg` | ☐ |
-| 9 | Sandy shore | bờ cát | `Sandy shore.jpg` | ☐ |
-| 10 | Boat trip | chuyến đi thuyền | `Boat trip.jpg` | ☐ |
+| 2 | Thach Dong Cave | Thạch Động | `Thach Dong Cave.jpg` | ✅ |
+| 3 | Mui Nai Cape | Mũi Nai | `Mui Nai Cape.jpg` | ✅ |
+| 4 | Lagoon | đầm phá | `Lagoon.jpg` | ✅ |
+| 5 | Stalactite | nhũ đá | `Stalactite.jpg` | ✅ |
+| 6 | Viewpoint | điểm ngắm cảnh | `Viewpoint.jpg` | ✅ |
+| 7 | Sea breeze | gió biển | `Sea breeze.jpg` | ✅ |
+| 8 | Rocky hill | đồi đá | `Rocky hill.jpg` | ✅ |
+| 9 | Sandy shore | bờ cát | `Sandy shore.jpg` | ✅ |
+| 10 | Boat trip | chuyến đi thuyền | `Boat trip.jpg` | ✅ |
 
 ### Phu Quoc Landscapes (Cảnh đẹp Phú Quốc) — 1/10 ảnh
 
