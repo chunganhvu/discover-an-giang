@@ -40,15 +40,16 @@ Mỗi từ cần **1 ảnh** (ngang 4:3, tối thiểu 800×600). Lưu đúng t�
 | # | Từ vựng | Nghĩa tiếng Việt | Tên file | Xong |
 |---|---|---|---|---|
 | 1 | Bung Binh Thien Lake | hồ Búng Bình Thiên | `bung-binh-thien-lake.webp` | ☐ |
-| 2 | Lotus | hoa sen | `lotus.webp` | ☐ |
+| 2 | Sesbania flower | bông điên điển | `sesbania-flower.webp` | ☐ |
 | 3 | Sunrise | bình minh | `sunrise.webp` | ☐ |
 | 4 | Reflection | bóng phản chiếu | `reflection.webp` | ☐ |
 | 5 | Stilt house | nhà sàn | `stilt-house.webp` | ☐ |
 | 6 | Fishing boat | thuyền đánh cá | `fishing-boat.webp` | ☐ |
-| 7 | Lotus leaf | lá sen | `lotus-leaf.webp` | ☐ |
+| 7 | Cham people | người Chăm | `cham-people.webp` | ☐ |
 | 8 | Calm water | mặt nước phẳng lặng | `calm-water.webp` | ☐ |
 | 9 | Picnic | chuyến dã ngoại | `picnic.webp` | ☐ |
 | 10 | Shady tree | cây bóng mát | `shady-tree.webp` | ☐ |
+| 11 | Cham temple | chùa Chăm | `cham-temple.webp` | ☐ |
 
 ### Ha Tien Scenery (Phong cảnh Hà Tiên) — `ha-tien-scenery`
 
