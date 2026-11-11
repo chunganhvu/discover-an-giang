@@ -36,21 +36,21 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Canopy | tán cây | `Canopy.jpg` | ✅ |
 | 10 | Ecotourism | du lịch sinh thái | `Ecotourism.jpg` | ✅ |
 
-### Bung Binh Thien (Búng Bình Thiên) — 6/11 ảnh
+### Bung Binh Thien (Búng Bình Thiên) — 11/11 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Bung Binh Thien | Búng Bình Thiên | `Bung Binh Thien.jpg` | ☐ |
-| 2 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ☐ |
+| 1 | Bung Binh Thien | Búng Bình Thiên | `Bung Binh Thien.jpg` | ✅ |
+| 2 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ✅ |
 | 3 | Sunrise | bình minh | `Sunrise.jpg` | ✅ |
 | 4 | Reflection | bóng phản chiếu | `Reflection.jpg` | ✅ |
 | 5 | Stilt house | nhà sàn | `Stilt house.jpg` | ✅ |
 | 6 | Fishing boat | thuyền đánh cá | `Fishing boat.jpg` | ✅ |
-| 7 | Cham people | người Chăm | `Cham people.jpg` | ☐ |
+| 7 | Cham people | người Chăm | `Cham people.jpg` | ✅ |
 | 8 | Calm water | mặt nước phẳng lặng | `Calm water.jpg` | ✅ |
-| 9 | Picnic | chuyến dã ngoại | `Picnic.jpg` | ☐ |
+| 9 | Picnic | chuyến dã ngoại | `Picnic.jpg` | ✅ |
 | 10 | Shady tree | cây bóng mát | `Shady tree.jpg` | ✅ |
-| 11 | Cham mosque | thánh đường Chăm | `Cham mosque.jpg` | ☐ |
+| 11 | Cham mosque | thánh đường Chăm | `Cham mosque.jpg` | ✅ |
 
 ### Ha Tien Scenery (Phong cảnh Hà Tiên) — 1/10 ảnh
 
