@@ -452,35 +452,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Seas & Islands (Du lịch biển đảo)
 
-### Ha Tien & Kien Luong Coast (Bờ biển Hà Tiên – Kiên Lương) — 0/10 ảnh
+### Ha Tien & Kien Luong Coast (Bờ biển Hà Tiên – Kiên Lương) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Father and Son Islet | Hòn Phụ Tử | `Father and Son Islet.jpg` | ☐ |
-| 2 | Islet | hòn đảo nhỏ | `Islet.jpg` | ☐ |
-| 3 | Limestone | đá vôi | `Limestone.jpg` | ☐ |
-| 4 | Cave | hang động | `Cave.jpg` | ☐ |
-| 5 | Coastline | bờ biển | `Coastline.jpg` | ☐ |
-| 6 | Speedboat | tàu cao tốc | `Speedboat.jpg` | ☐ |
-| 7 | Sea view | cảnh biển | `Sea view.jpg` | ☐ |
-| 8 | Rocky shore | bờ đá | `Rocky shore.jpg` | ☐ |
-| 9 | Calm bay | vịnh yên ả | `Calm bay.jpg` | ☐ |
-| 10 | Seagull | chim hải âu | `Seagull.jpg` | ☐ |
+| 1 | Father and Son Islet | Hòn Phụ Tử | `Father and Son Islet.jpg` | ✅ |
+| 2 | Islet | hòn đảo nhỏ | `Islet.jpg` | ✅ |
+| 3 | Limestone | đá vôi | `Limestone.jpg` | ✅ |
+| 4 | Cave | hang động | `Cave.jpg` | ✅ |
+| 5 | Coastline | bờ biển | `Coastline.jpg` | ✅ |
+| 6 | Speedboat | tàu cao tốc | `Speedboat.jpg` | ✅ |
+| 7 | Sea view | cảnh biển | `Sea view.jpg` | ✅ |
+| 8 | Rocky shore | bờ đá | `Rocky shore.jpg` | ✅ |
+| 9 | Calm bay | vịnh yên ả | `Calm bay.jpg` | ✅ |
+| 10 | Seagull | chim hải âu | `Seagull.jpg` | ✅ |
 
-### Phu Quoc Island (Đảo ngọc Phú Quốc) — 0/10 ảnh
+### Phu Quoc Island (Đảo ngọc Phú Quốc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Phu Quoc Island | đảo Phú Quốc | `Phu Quoc Island.jpg` | ☐ |
-| 2 | Sandy beach | bãi cát | `Sandy beach.jpg` | ☐ |
-| 3 | Coral reef | rạn san hô | `Coral reef.jpg` | ☐ |
-| 4 | Snorkeling | lặn ống thở | `Snorkeling.jpg` | ☐ |
-| 5 | Sunset | hoàng hôn | `Sunset.jpg` | ☐ |
-| 6 | Sea-crossing cable car | cáp treo vượt biển | `Sea-crossing cable car.jpg` | ☐ |
-| 7 | Tourist | du khách | `Tourist.jpg` | ☐ |
-| 8 | Airport | sân bay | `Airport.jpg` | ☐ |
-| 9 | Beach umbrella | dù che nắng bãi biển | `Beach umbrella.jpg` | ☐ |
-| 10 | Island tour | tour đảo | `Island tour.jpg` | ☐ |
+| 1 | Phu Quoc Island | đảo Phú Quốc | `Phu Quoc Island.jpg` | ✅ |
+| 2 | Sandy beach | bãi cát | `Sandy beach.jpg` | ✅ |
+| 3 | Coral reef | rạn san hô | `Coral reef.jpg` | ✅ |
+| 4 | Snorkeling | lặn ống thở | `Snorkeling.jpg` | ✅ |
+| 5 | Sunset | hoàng hôn | `Sunset.jpg` | ✅ |
+| 6 | Sea-crossing cable car | cáp treo vượt biển | `Sea-crossing cable car.jpg` | ✅ |
+| 7 | Tourist | du khách | `Tourist.jpg` | ✅ |
+| 8 | Airport | sân bay | `Airport.jpg` | ✅ |
+| 9 | Beach umbrella | dù che nắng bãi biển | `Beach umbrella.jpg` | ✅ |
+| 10 | Island tour | tour đảo | `Island tour.jpg` | ✅ |
 
 ### Famous Places in Phu Quoc (Điểm đến nổi tiếng ở Phú Quốc) — 10/10 ảnh
 
@@ -497,50 +497,50 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Kiss Bridge | cầu Hôn | `Kiss Bridge.jpg` | ✅ |
 | 10 | Ham Ninh Fishing Village | làng chài Hàm Ninh | `Ham Ninh Fishing Village.jpg` | ✅ |
 
-### Nam Du & Remote Islands (Nam Du và các đảo xa) — 0/10 ảnh
+### Nam Du & Remote Islands (Nam Du và các đảo xa) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Archipelago | quần đảo | `Archipelago.jpg` | ☐ |
-| 2 | Nam Du Islands | quần đảo Nam Du | `Nam Du Islands.jpg` | ☐ |
-| 3 | Island hopping | tham quan nhiều đảo | `Island hopping.jpg` | ☐ |
-| 4 | Turquoise water | nước biển xanh ngọc | `Turquoise water.jpg` | ☐ |
-| 5 | Wild beach | bãi biển hoang sơ | `Wild beach.jpg` | ☐ |
-| 6 | Life jacket | áo phao | `Life jacket.jpg` | ☐ |
-| 7 | Hammock | cái võng | `Hammock.jpg` | ☐ |
-| 8 | Remote island | đảo xa | `Remote island.jpg` | ☐ |
-| 9 | Boat captain | thuyền trưởng | `Boat captain.jpg` | ☐ |
-| 10 | Fresh air | không khí trong lành | `Fresh air.jpg` | ☐ |
+| 1 | Archipelago | quần đảo | `Archipelago.jpg` | ✅ |
+| 2 | Nam Du Islands | quần đảo Nam Du | `Nam Du Islands.jpg` | ✅ |
+| 3 | Island hopping | tham quan nhiều đảo | `Island hopping.jpg` | ✅ |
+| 4 | Turquoise water | nước biển xanh ngọc | `Turquoise water.jpg` | ✅ |
+| 5 | Wild beach | bãi biển hoang sơ | `Wild beach.jpg` | ✅ |
+| 6 | Life jacket | áo phao | `Life jacket.jpg` | ✅ |
+| 7 | Hammock | cái võng | `Hammock.jpg` | ✅ |
+| 8 | Remote island | đảo xa | `Remote island.jpg` | ✅ |
+| 9 | Boat captain | thuyền trưởng | `Boat captain.jpg` | ✅ |
+| 10 | Fresh air | không khí trong lành | `Fresh air.jpg` | ✅ |
 
-### Sea Adventures (Hoạt động trên biển) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Boat tour | tour thuyền | `Boat tour.jpg` | ☐ |
-| 2 | Squid fishing | câu mực | `Squid fishing.jpg` | ☐ |
-| 3 | Scuba diving | lặn biển | `Scuba diving.jpg` | ☐ |
-| 4 | Kayak | thuyền kayak | `Kayak.jpg` | ☐ |
-| 5 | Resort | khu nghỉ dưỡng | `Resort.jpg` | ☐ |
-| 6 | Sunscreen | kem chống nắng | `Sunscreen.jpg` | ☐ |
-| 7 | Snorkel mask | kính lặn | `Snorkel mask.jpg` | ☐ |
-| 8 | Parasailing | dù bay | `Parasailing.jpg` | ☐ |
-| 9 | Swimsuit | đồ bơi | `Swimsuit.jpg` | ☐ |
-| 10 | Towel | khăn tắm | `Towel.jpg` | ☐ |
-
-### Pirate Islands & Hon Chong (Quần đảo Hải Tặc và Hòn Chông) — 0/10 ảnh
+### Sea Adventures (Hoạt động trên biển) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Pirate Islands | quần đảo Hải Tặc | `Pirate Islands.jpg` | ☐ |
-| 2 | Hon Chong | Hòn Chông | `Hon Chong.jpg` | ☐ |
-| 3 | Cape | mũi đất | `Cape.jpg` | ☐ |
-| 4 | Cliff | vách đá | `Cliff.jpg` | ☐ |
-| 5 | Pier | cầu cảng nhỏ | `Pier.jpg` | ☐ |
-| 6 | Pirate | cướp biển | `Pirate.jpg` | ☐ |
-| 7 | Treasure | kho báu | `Treasure.jpg` | ☐ |
-| 8 | Legend | truyền thuyết | `Legend.jpg` | ☐ |
-| 9 | Bay | vịnh | `Bay.jpg` | ☐ |
-| 10 | Sea cave | hang biển | `Sea cave.jpg` | ☐ |
+| 1 | Boat tour | tour thuyền | `Boat tour.jpg` | ✅ |
+| 2 | Squid fishing | câu mực | `Squid fishing.jpg` | ✅ |
+| 3 | Scuba diving | lặn biển | `Scuba diving.jpg` | ✅ |
+| 4 | Kayak | thuyền kayak | `Kayak.jpg` | ✅ |
+| 5 | Resort | khu nghỉ dưỡng | `Resort.jpg` | ✅ |
+| 6 | Sunscreen | kem chống nắng | `Sunscreen.jpg` | ✅ |
+| 7 | Snorkel mask | kính lặn | `Snorkel mask.jpg` | ✅ |
+| 8 | Parasailing | dù bay | `Parasailing.jpg` | ✅ |
+| 9 | Swimsuit | đồ bơi | `Swimsuit.jpg` | ✅ |
+| 10 | Towel | khăn tắm | `Towel.jpg` | ✅ |
+
+### Pirate Islands & Hon Chong (Quần đảo Hải Tặc và Hòn Chông) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Pirate Islands | quần đảo Hải Tặc | `Pirate Islands.jpg` | ✅ |
+| 2 | Hon Chong | Hòn Chông | `Hon Chong.jpg` | ✅ |
+| 3 | Cape | mũi đất | `Cape.jpg` | ✅ |
+| 4 | Cliff | vách đá | `Cliff.jpg` | ✅ |
+| 5 | Pier | cầu cảng nhỏ | `Pier.jpg` | ✅ |
+| 6 | Pirate | cướp biển | `Pirate.jpg` | ✅ |
+| 7 | Treasure | kho báu | `Treasure.jpg` | ✅ |
+| 8 | Legend | truyền thuyết | `Legend.jpg` | ✅ |
+| 9 | Bay | vịnh | `Bay.jpg` | ✅ |
+| 10 | Sea cave | hang biển | `Sea cave.jpg` | ✅ |
 
 ## OCOP Products (Sản phẩm OCOP)
 
