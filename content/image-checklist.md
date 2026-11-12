@@ -283,80 +283,80 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Crafts (Ngành nghề)
 
-### Silk, Brocade and Rivers (Lụa, thổ cẩm và nghề sông nước) — 0/10 ảnh
+### Silk, Brocade and Rivers (Lụa, thổ cẩm và nghề sông nước) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Tan Chau silk | lụa Tân Châu | `Tan Chau silk.jpg` | ☐ |
-| 2 | Silkworm | con tằm | `Silkworm.jpg` | ☐ |
-| 3 | Loom | khung dệt | `Loom.jpg` | ☐ |
-| 4 | Brocade | thổ cẩm | `Brocade.jpg` | ☐ |
-| 5 | Dye | nhuộm | `Dye.jpg` | ☐ |
-| 6 | Floating fish farm | bè cá (nuôi cá bè) | `Floating fish farm.jpg` | ☐ |
-| 7 | Mulberry leaf | lá dâu | `Mulberry leaf.jpg` | ☐ |
-| 8 | Cocoon | cái kén | `Cocoon.jpg` | ☐ |
-| 9 | Thread | sợi chỉ | `Thread.jpg` | ☐ |
-| 10 | Weaver | thợ dệt | `Weaver.jpg` | ☐ |
+| 1 | Tan Chau silk | lụa Tân Châu | `Tan Chau silk.jpg` | ✅ |
+| 2 | Silkworm | con tằm | `Silkworm.jpg` | ✅ |
+| 3 | Loom | khung dệt | `Loom.jpg` | ✅ |
+| 4 | Brocade | thổ cẩm | `Brocade.jpg` | ✅ |
+| 5 | Dye | nhuộm | `Dye.jpg` | ✅ |
+| 6 | Floating fish farm | bè cá (nuôi cá bè) | `Floating fish farm.jpg` | ✅ |
+| 7 | Mulberry leaf | lá dâu | `Mulberry leaf.jpg` | ✅ |
+| 8 | Cocoon | cái kén | `Cocoon.jpg` | ✅ |
+| 9 | Thread | sợi chỉ | `Thread.jpg` | ✅ |
+| 10 | Weaver | thợ dệt | `Weaver.jpg` | ✅ |
 
-### Life on the River (Đời sống sông nước) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Hau River | sông Hậu | `Hau River.jpg` | ☐ |
-| 2 | Fisherman | ngư dân | `Fisherman.jpg` | ☐ |
-| 3 | Fishing net | lưới đánh cá | `Fishing net.jpg` | ☐ |
-| 4 | Floating house | nhà nổi | `Floating house.jpg` | ☐ |
-| 5 | Water hyacinth | lục bình | `Water hyacinth.jpg` | ☐ |
-| 6 | Ferry | phà | `Ferry.jpg` | ☐ |
-| 7 | Paddle | mái chèo | `Paddle.jpg` | ☐ |
-| 8 | Fish trap | bẫy cá | `Fish trap.jpg` | ☐ |
-| 9 | Sampan | thuyền nhỏ | `Sampan.jpg` | ☐ |
-| 10 | Dock | bến tàu | `Dock.jpg` | ☐ |
-
-### Farm & Food Crafts (Nghề nông và chế biến) — 0/10 ảnh
+### Life on the River (Đời sống sông nước) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Harvest | mùa gặt | `Harvest.jpg` | ☐ |
-| 2 | Rice mill | nhà máy xay lúa | `Rice mill.jpg` | ☐ |
-| 3 | Sap | nhựa cây | `Sap.jpg` | ☐ |
-| 4 | Wooden barrel | thùng gỗ | `Wooden barrel.jpg` | ☐ |
-| 5 | Dried fish | cá khô | `Dried fish.jpg` | ☐ |
-| 6 | Fermentation | sự lên men | `Fermentation.jpg` | ☐ |
-| 7 | Paddy | lúa | `Paddy.jpg` | ☐ |
-| 8 | Sickle | cái liềm | `Sickle.jpg` | ☐ |
-| 9 | Buffalo | con trâu | `Buffalo.jpg` | ☐ |
-| 10 | Sun drying | phơi nắng | `Sun drying.jpg` | ☐ |
+| 1 | Hau River | sông Hậu | `Hau River.jpg` | ✅ |
+| 2 | Fisherman | ngư dân | `Fisherman.jpg` | ✅ |
+| 3 | Fishing net | lưới đánh cá | `Fishing net.jpg` | ✅ |
+| 4 | Floating house | nhà nổi | `Floating house.jpg` | ✅ |
+| 5 | Water hyacinth | lục bình | `Water hyacinth.jpg` | ✅ |
+| 6 | Ferry | phà | `Ferry.jpg` | ✅ |
+| 7 | Paddle | mái chèo | `Paddle.jpg` | ✅ |
+| 8 | Fish trap | bẫy cá | `Fish trap.jpg` | ✅ |
+| 9 | Sampan | thuyền nhỏ | `Sampan.jpg` | ✅ |
+| 10 | Dock | bến tàu | `Dock.jpg` | ✅ |
 
-### Fish Sauce & Pearl Farms (Nước mắm và ngọc trai) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Anchovy | cá cơm | `Anchovy.jpg` | ☐ |
-| 2 | Salt | muối | `Salt.jpg` | ☐ |
-| 3 | Fish sauce factory | nhà thùng nước mắm | `Fish sauce factory.jpg` | ☐ |
-| 4 | Pearl oyster | trai ngọc | `Pearl oyster.jpg` | ☐ |
-| 5 | Pearl farm | trại nuôi ngọc trai | `Pearl farm.jpg` | ☐ |
-| 6 | Pepper farm | vườn tiêu | `Pepper farm.jpg` | ☐ |
-| 7 | Aging | thời gian ủ | `Aging.jpg` | ☐ |
-| 8 | Peppercorn | hạt tiêu | `Peppercorn.jpg` | ☐ |
-| 9 | Quality | chất lượng | `Quality.jpg` | ☐ |
-| 10 | Tradition | truyền thống | `Tradition.jpg` | ☐ |
-
-### Handicrafts & Souvenirs (Thủ công mỹ nghệ) — 0/10 ảnh
+### Farm & Food Crafts (Nghề nông và chế biến) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Wood carving | chạm khắc gỗ | `Wood carving.jpg` | ☐ |
-| 2 | Bamboo weaving | đan tre | `Bamboo weaving.jpg` | ☐ |
-| 3 | Straw mat | chiếu | `Straw mat.jpg` | ☐ |
-| 4 | Shell craft | đồ mỹ nghệ vỏ sò | `Shell craft.jpg` | ☐ |
-| 5 | Conical hat | nón lá | `Conical hat.jpg` | ☐ |
-| 6 | Basket | giỏ | `Basket.jpg` | ☐ |
-| 7 | Craftsman | thợ thủ công | `Craftsman.jpg` | ☐ |
-| 8 | Workshop | xưởng | `Workshop.jpg` | ☐ |
-| 9 | Pattern | hoa văn | `Pattern.jpg` | ☐ |
-| 10 | Souvenir shop | cửa hàng lưu niệm | `Souvenir shop.jpg` | ☐ |
+| 1 | Harvest | mùa gặt | `Harvest.jpg` | ✅ |
+| 2 | Rice mill | nhà máy xay lúa | `Rice mill.jpg` | ✅ |
+| 3 | Sap | nhựa cây | `Sap.jpg` | ✅ |
+| 4 | Wooden barrel | thùng gỗ | `Wooden barrel.jpg` | ✅ |
+| 5 | Dried fish | cá khô | `Dried fish.jpg` | ✅ |
+| 6 | Fermentation | sự lên men | `Fermentation.jpg` | ✅ |
+| 7 | Paddy | lúa | `Paddy.jpg` | ✅ |
+| 8 | Sickle | cái liềm | `Sickle.jpg` | ✅ |
+| 9 | Buffalo | con trâu | `Buffalo.jpg` | ✅ |
+| 10 | Sun drying | phơi nắng | `Sun drying.jpg` | ✅ |
+
+### Fish Sauce & Pearl Farms (Nước mắm và ngọc trai) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Anchovy | cá cơm | `Anchovy.jpg` | ✅ |
+| 2 | Salt | muối | `Salt.jpg` | ✅ |
+| 3 | Fish sauce factory | nhà thùng nước mắm | `Fish sauce factory.jpg` | ✅ |
+| 4 | Pearl oyster | trai ngọc | `Pearl oyster.jpg` | ✅ |
+| 5 | Pearl farm | trại nuôi ngọc trai | `Pearl farm.jpg` | ✅ |
+| 6 | Pepper farm | vườn tiêu | `Pepper farm.jpg` | ✅ |
+| 7 | Aging | thời gian ủ | `Aging.jpg` | ✅ |
+| 8 | Peppercorn | hạt tiêu | `Peppercorn.jpg` | ✅ |
+| 9 | Quality | chất lượng | `Quality.jpg` | ✅ |
+| 10 | Tradition | truyền thống | `Tradition.jpg` | ✅ |
+
+### Handicrafts & Souvenirs (Thủ công mỹ nghệ) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Wood carving | chạm khắc gỗ | `Wood carving.jpg` | ✅ |
+| 2 | Bamboo weaving | đan tre | `Bamboo weaving.jpg` | ✅ |
+| 3 | Straw mat | chiếu | `Straw mat.jpg` | ✅ |
+| 4 | Shell craft | đồ mỹ nghệ vỏ sò | `Shell craft.jpg` | ✅ |
+| 5 | Conical hat | nón lá | `Conical hat.jpg` | ✅ |
+| 6 | Basket | giỏ | `Basket.jpg` | ✅ |
+| 7 | Craftsman | thợ thủ công | `Craftsman.jpg` | ✅ |
+| 8 | Workshop | xưởng | `Workshop.jpg` | ✅ |
+| 9 | Pattern | hoa văn | `Pattern.jpg` | ✅ |
+| 10 | Souvenir shop | cửa hàng lưu niệm | `Souvenir shop.jpg` | ✅ |
 
 ## Festivals (Lễ hội)
 
