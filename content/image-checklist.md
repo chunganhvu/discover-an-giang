@@ -544,80 +544,80 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## OCOP Products (Sản phẩm OCOP)
 
-### Proud Local Products (Sản phẩm tự hào) — 0/10 ảnh
+### Proud Local Products (Sản phẩm tự hào) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | OCOP | OCOP – Mỗi xã một sản phẩm | `OCOP.jpg` | ☐ |
-| 2 | Palm sugar | đường thốt nốt | `Palm sugar.jpg` | ☐ |
-| 3 | Palmyra palm | cây thốt nốt | `Palmyra palm.jpg` | ☐ |
-| 4 | Fish sauce | nước mắm | `Fish sauce.jpg` | ☐ |
-| 5 | Pepper | hồ tiêu | `Pepper.jpg` | ☐ |
-| 6 | Pearl | ngọc trai | `Pearl.jpg` | ☐ |
-| 7 | Product | sản phẩm | `Product.jpg` | ☐ |
-| 8 | Cooperative | hợp tác xã | `Cooperative.jpg` | ☐ |
-| 9 | Commune | xã | `Commune.jpg` | ☐ |
-| 10 | Quality standard | tiêu chuẩn chất lượng | `Quality standard.jpg` | ☐ |
+| 1 | OCOP | OCOP – Mỗi xã một sản phẩm | `OCOP.jpg` | ✅ |
+| 2 | Palm sugar | đường thốt nốt | `Palm sugar.jpg` | ✅ |
+| 3 | Palmyra palm | cây thốt nốt | `Palmyra palm.jpg` | ✅ |
+| 4 | Fish sauce | nước mắm | `Fish sauce.jpg` | ✅ |
+| 5 | Pepper | hồ tiêu | `Pepper.jpg` | ✅ |
+| 6 | Pearl | ngọc trai | `Pearl.jpg` | ✅ |
+| 7 | Product | sản phẩm | `Product.jpg` | ✅ |
+| 8 | Cooperative | hợp tác xã | `Cooperative.jpg` | ✅ |
+| 9 | Commune | xã | `Commune.jpg` | ✅ |
+| 10 | Quality standard | tiêu chuẩn chất lượng | `Quality standard.jpg` | ✅ |
 
-### Farm & Forest Products (Sản phẩm từ ruộng và rừng) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Jasmine rice | gạo thơm | `Jasmine rice.jpg` | ☐ |
-| 2 | Cajuput oil | tinh dầu tràm | `Cajuput oil.jpg` | ☐ |
-| 3 | Honey | mật ong | `Honey.jpg` | ☐ |
-| 4 | Dried fish | khô cá | `Dried fish.jpg` | ☐ |
-| 5 | Herbal tea | trà thảo mộc | `Herbal tea.jpg` | ☐ |
-| 6 | Gift box | hộp quà | `Gift box.jpg` | ☐ |
-| 7 | Brown rice | gạo lứt | `Brown rice.jpg` | ☐ |
-| 8 | Organic | hữu cơ | `Organic.jpg` | ☐ |
-| 9 | Farmer | nông dân | `Farmer.jpg` | ☐ |
-| 10 | Essential oil | tinh dầu | `Essential oil.jpg` | ☐ |
-
-### OCOP Quality & Selling (Chất lượng và bán hàng OCOP) — 0/10 ảnh
+### Farm & Forest Products (Sản phẩm từ ruộng và rừng) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Star rating | xếp hạng sao | `Star rating.jpg` | ☐ |
-| 2 | Packaging | bao bì | `Packaging.jpg` | ☐ |
-| 3 | Label | nhãn mác | `Label.jpg` | ☐ |
-| 4 | Certificate | giấy chứng nhận | `Certificate.jpg` | ☐ |
-| 5 | Souvenir | quà lưu niệm | `Souvenir.jpg` | ☐ |
-| 6 | Online shop | cửa hàng trực tuyến | `Online shop.jpg` | ☐ |
-| 7 | Brand | thương hiệu | `Brand.jpg` | ☐ |
-| 8 | Customer | khách hàng | `Customer.jpg` | ☐ |
-| 9 | Delivery | giao hàng | `Delivery.jpg` | ☐ |
-| 10 | Price | giá cả | `Price.jpg` | ☐ |
+| 1 | Jasmine rice | gạo thơm | `Jasmine rice.jpg` | ✅ |
+| 2 | Cajuput oil | tinh dầu tràm | `Cajuput oil.jpg` | ✅ |
+| 3 | Honey | mật ong | `Honey.jpg` | ✅ |
+| 4 | Dried fish | khô cá | `Dried fish.jpg` | ✅ |
+| 5 | Herbal tea | trà thảo mộc | `Herbal tea.jpg` | ✅ |
+| 6 | Gift box | hộp quà | `Gift box.jpg` | ✅ |
+| 7 | Brown rice | gạo lứt | `Brown rice.jpg` | ✅ |
+| 8 | Organic | hữu cơ | `Organic.jpg` | ✅ |
+| 9 | Farmer | nông dân | `Farmer.jpg` | ✅ |
+| 10 | Essential oil | tinh dầu | `Essential oil.jpg` | ✅ |
 
-### OCOP Handmade Products (Sản phẩm thủ công OCOP) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Silk scarf | khăn lụa | `Silk scarf.jpg` | ☐ |
-| 2 | Brocade bag | túi thổ cẩm | `Brocade bag.jpg` | ☐ |
-| 3 | Pearl necklace | dây chuyền ngọc trai | `Pearl necklace.jpg` | ☐ |
-| 4 | Coconut shell bowl | tô vỏ dừa | `Coconut shell bowl.jpg` | ☐ |
-| 5 | Bamboo basket | giỏ tre | `Bamboo basket.jpg` | ☐ |
-| 6 | Handmade | làm thủ công | `Handmade.jpg` | ☐ |
-| 7 | Artisan | nghệ nhân | `Artisan.jpg` | ☐ |
-| 8 | Natural dye | thuốc nhuộm tự nhiên | `Natural dye.jpg` | ☐ |
-| 9 | Gift | quà tặng | `Gift.jpg` | ☐ |
-| 10 | Design | thiết kế | `Design.jpg` | ☐ |
-
-### Sea & Salt Products (Sản phẩm từ biển) — 0/10 ảnh
+### OCOP Quality & Selling (Chất lượng và bán hàng OCOP) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Dried squid | mực khô | `Dried squid.jpg` | ☐ |
-| 2 | Dried shrimp | tôm khô | `Dried shrimp.jpg` | ☐ |
-| 3 | Shrimp paste | mắm tôm | `Shrimp paste.jpg` | ☐ |
-| 4 | Seaweed | rong biển | `Seaweed.jpg` | ☐ |
-| 5 | Sea salt | muối biển | `Sea salt.jpg` | ☐ |
-| 6 | Vacuum pack | gói hút chân không | `Vacuum pack.jpg` | ☐ |
-| 7 | Salted fish | cá muối | `Salted fish.jpg` | ☐ |
-| 8 | Sea cucumber | hải sâm | `Sea cucumber.jpg` | ☐ |
-| 9 | Export | xuất khẩu | `Export.jpg` | ☐ |
-| 10 | Cool box | thùng giữ lạnh | `Cool box.jpg` | ☐ |
+| 1 | Star rating | xếp hạng sao | `Star rating.jpg` | ✅ |
+| 2 | Packaging | bao bì | `Packaging.jpg` | ✅ |
+| 3 | Label | nhãn mác | `Label.jpg` | ✅ |
+| 4 | Certificate | giấy chứng nhận | `Certificate.jpg` | ✅ |
+| 5 | Souvenir | quà lưu niệm | `Souvenir.jpg` | ✅ |
+| 6 | Online shop | cửa hàng trực tuyến | `Online shop.jpg` | ✅ |
+| 7 | Brand | thương hiệu | `Brand.jpg` | ✅ |
+| 8 | Customer | khách hàng | `Customer.jpg` | ✅ |
+| 9 | Delivery | giao hàng | `Delivery.jpg` | ✅ |
+| 10 | Price | giá cả | `Price.jpg` | ✅ |
+
+### OCOP Handmade Products (Sản phẩm thủ công OCOP) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Silk scarf | khăn lụa | `Silk scarf.jpg` | ✅ |
+| 2 | Brocade bag | túi thổ cẩm | `Brocade bag.jpg` | ✅ |
+| 3 | Pearl necklace | dây chuyền ngọc trai | `Pearl necklace.jpg` | ✅ |
+| 4 | Coconut shell bowl | tô vỏ dừa | `Coconut shell bowl.jpg` | ✅ |
+| 5 | Bamboo basket | giỏ tre | `Bamboo basket.jpg` | ✅ |
+| 6 | Handmade | làm thủ công | `Handmade.jpg` | ✅ |
+| 7 | Artisan | nghệ nhân | `Artisan.jpg` | ✅ |
+| 8 | Natural dye | thuốc nhuộm tự nhiên | `Natural dye.jpg` | ✅ |
+| 9 | Gift | quà tặng | `Gift.jpg` | ✅ |
+| 10 | Design | thiết kế | `Design.jpg` | ✅ |
+
+### Sea & Salt Products (Sản phẩm từ biển) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Dried squid | mực khô | `Dried squid.jpg` | ✅ |
+| 2 | Dried shrimp | tôm khô | `Dried shrimp.jpg` | ✅ |
+| 3 | Shrimp paste | mắm tôm | `Shrimp paste.jpg` | ✅ |
+| 4 | Seaweed | rong biển | `Seaweed.jpg` | ✅ |
+| 5 | Sea salt | muối biển | `Sea salt.jpg` | ✅ |
+| 6 | Vacuum pack | gói hút chân không | `Vacuum pack.jpg` | ✅ |
+| 7 | Salted fish | cá muối | `Salted fish.jpg` | ✅ |
+| 8 | Sea cucumber | hải sâm | `Sea cucumber.jpg` | ✅ |
+| 9 | Export | xuất khẩu | `Export.jpg` | ✅ |
+| 10 | Cool box | thùng giữ lạnh | `Cool box.jpg` | ✅ |
 
 ## Nature & Wildlife (Thiên nhiên)
 
