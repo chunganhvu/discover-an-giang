@@ -19,7 +19,7 @@ export default function CategoryBanner({
   /** Overrides the topic artwork, e.g. with the lesson's own cover photo. */
   image?: string;
   /** Buttons shown on top of the picture (e.g. Learn / Quiz on a lesson page). */
-  actions?: { href: string; icon: string; label: string; sub: string; variant?: 'learn' | 'quiz' }[];
+  actions?: { href: string; icon: string; label: string; aria?: string; variant?: 'learn' | 'quiz' }[];
 }) {
   return (
     <header className="cat-banner">
@@ -31,14 +31,11 @@ export default function CategoryBanner({
         {actions && actions.length > 0 && (
           <div className="banner-actions">
             {actions.map((a) => (
-              <Link key={a.href} href={a.href} className={`banner-btn ${a.variant ?? 'learn'}`}>
+              <Link key={a.href} href={a.href} className={`banner-btn ${a.variant ?? 'learn'}`} aria-label={a.aria ?? a.label}>
                 <span className="banner-btn-icon" aria-hidden="true">
                   {a.icon}
                 </span>
-                <span className="banner-btn-text">
-                  <strong>{a.label}</strong>
-                  <small>{a.sub}</small>
-                </span>
+                <span className="banner-btn-label">{a.label}</span>
               </Link>
             ))}
           </div>

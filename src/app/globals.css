@@ -382,39 +382,26 @@ body { background: var(--green-soft); }
 .lightbox-cap span { opacity: .9; font-weight: 700; }
 .lightbox-cap em { font-style: normal; font-weight: 800; color: #bff0cb; }
 
-/* ---------- Learn / Quiz buttons on top of the lesson banner ---------- */
+/* ---------- Round Learn / Quiz buttons, bottom-right of the lesson banner ---------- */
 .cat-banner-art:has(.banner-actions)::after {
-  content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 55%; pointer-events: none;
-  background: linear-gradient(to top, rgba(0, 0, 0, .55), transparent);
+  content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 45%; pointer-events: none;
+  background: linear-gradient(to top, rgba(0, 0, 0, .45), transparent);
 }
 .banner-actions {
-  position: absolute; z-index: 2; left: 0; right: 0; bottom: clamp(10px, 2vw, 22px); padding: 0 clamp(10px, 2vw, 22px);
-  display: flex; gap: clamp(8px, 1.6vw, 16px); justify-content: center;
+  position: absolute; z-index: 2; right: clamp(10px, 2vw, 22px); bottom: clamp(10px, 2vw, 22px);
+  display: flex; gap: clamp(8px, 1.4vw, 14px);
 }
 .banner-btn {
-  flex: 1 1 0; max-width: 340px; display: flex; align-items: center; gap: clamp(8px, 1.4vw, 14px);
-  padding: clamp(8px, 1.4vw, 14px) clamp(10px, 1.8vw, 20px); border-radius: 999px; color: var(--green-dark);
-  background: rgba(255, 255, 255, .95); box-shadow: 0 6px 18px rgba(0, 0, 0, .35); border: 2px solid #fff;
-  transition: transform .15s;
+  --size: clamp(64px, 11vw, 96px);
+  width: var(--size); height: var(--size); border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 1px; color: #fff; border: 3px solid rgba(255, 255, 255, .95); box-shadow: 0 8px 20px rgba(0, 0, 0, .4), inset 0 2px 0 rgba(255, 255, 255, .35);
+  background: linear-gradient(145deg, #2fa356, #0f6b3a); transition: transform .18s, box-shadow .18s;
 }
-.banner-btn:hover { transform: translateY(-2px); }
-.banner-btn:active { transform: scale(.97); }
-.banner-btn.quiz { background: #ffe9a8; border-color: #ffd34d; color: #6b4b00; }
-.banner-btn-icon { font-size: clamp(1.4rem, 3.2vw, 2.1rem); line-height: 1; flex: none; }
-.banner-btn-text { display: grid; min-width: 0; line-height: 1.2; text-align: left; }
-.banner-btn-text strong { font-size: clamp(.85rem, 1.6vw + .3rem, 1.2rem); font-weight: 900; }
-.banner-btn-text small { font-size: clamp(.68rem, 1vw + .25rem, .9rem); font-weight: 700; opacity: .85; }
-@media (max-width: 420px) {
-  .banner-btn { padding: 8px 10px; gap: 6px; }
-  .banner-btn-text strong { font-size: .8rem; }
-}
-
+.banner-btn.quiz { background: linear-gradient(145deg, #ffcf4a, #f09a1a); color: #5a3a00; }
+.banner-btn:hover { transform: translateY(-3px) scale(1.05); box-shadow: 0 12px 26px rgba(0, 0, 0, .45), inset 0 2px 0 rgba(255, 255, 255, .35); }
+.banner-btn:active { transform: scale(.94); }
+.banner-btn-icon { font-size: calc(var(--size) * .36); line-height: 1; filter: drop-shadow(0 2px 2px rgba(0, 0, 0, .25)); }
+.banner-btn-label { font-size: calc(var(--size) * .2); font-weight: 900; letter-spacing: .03em; text-transform: uppercase; }
 @media (max-width: 599px) {
   .cat-banner-art:has(.banner-actions) .cat-art { aspect-ratio: 4 / 3; }
-}
-.banner-btn-text strong, .banner-btn-text small { white-space: nowrap; }
-@media (max-width: 420px) {
-  .banner-btn-icon { font-size: 1.25rem; }
-  .banner-btn-text strong { font-size: .76rem; }
-  .banner-btn-text small { font-size: .66rem; }
 }
