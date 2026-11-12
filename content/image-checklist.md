@@ -97,20 +97,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Fire prevention | phòng cháy | `Fire prevention.jpg` | ✅ |
 | 10 | Dry season | mùa khô | `Dry season.jpg` | ✅ |
 
-### River Tour & Floating Market (Du lịch sông nước và chợ nổi) — 1/10 ảnh
+### River Tour & Floating Market (Du lịch sông nước và chợ nổi) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
 | 1 | Floating market | chợ nổi | `Floating market.jpg` | ✅ |
-| 2 | Boat vendor | người bán hàng trên ghe | `Boat vendor.jpg` | ☐ |
-| 3 | River cruise | chuyến du thuyền sông | `River cruise.jpg` | ☐ |
-| 4 | Homestay | lưu trú tại nhà dân | `Homestay.jpg` | ☐ |
-| 5 | Orchard | vườn cây ăn trái | `Orchard.jpg` | ☐ |
-| 6 | Sunset cruise | chuyến thuyền ngắm hoàng hôn | `Sunset cruise.jpg` | ☐ |
-| 7 | Tour guide | hướng dẫn viên | `Tour guide.jpg` | ☐ |
-| 8 | Fresh fruit | trái cây tươi | `Fresh fruit.jpg` | ☐ |
-| 9 | Ticket | vé | `Ticket.jpg` | ☐ |
-| 10 | Riverbank | bờ sông | `Riverbank.jpg` | ☐ |
+| 2 | Boat vendor | người bán hàng trên ghe | `Boat vendor.jpg` | ✅ |
+| 3 | River cruise | chuyến du thuyền sông | `River cruise.jpg` | ✅ |
+| 4 | Homestay | lưu trú tại nhà dân | `Homestay.jpg` | ✅ |
+| 5 | Orchard | vườn cây ăn trái | `Orchard.jpg` | ✅ |
+| 6 | Sunset cruise | chuyến thuyền ngắm hoàng hôn | `Sunset cruise.jpg` | ✅ |
+| 7 | Tour guide | hướng dẫn viên | `Tour guide.jpg` | ✅ |
+| 8 | Fresh fruit | trái cây tươi | `Fresh fruit.jpg` | ✅ |
+| 9 | Ticket | vé | `Ticket.jpg` | ✅ |
+| 10 | Riverbank | bờ sông | `Riverbank.jpg` | ✅ |
 
 ## Heritage (Lịch sử xưa)
 
