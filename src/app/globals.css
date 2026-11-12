@@ -516,3 +516,6 @@ body { background: var(--green-soft); }
 @media (max-height: 520px) and (orientation: landscape) {
   .learn-shell .quiz .listen { width: 90px; height: 90px; font-size: 2.4rem; }
 }
+
+.lesson-top .home-btn { color: var(--green-dark); }
+.lesson-top .lesson-title { margin: 0 auto; }

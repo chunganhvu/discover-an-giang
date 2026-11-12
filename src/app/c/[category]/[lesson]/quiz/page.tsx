@@ -24,6 +24,12 @@ export default async function QuizPage({ params }: { params: Promise<{ category:
         <Link href={`/c/${category.id}/${lesson.id}/`} className="back dark" aria-label="Back">
           ←
         </Link>
+        <Link href="/" className="back dark home-btn" aria-label="Home · Trang chủ" title="Home">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <path d="M3 11.5 12 4l9 7.5" />
+            <path d="M5.5 10v9.5h5v-6h3v6h5V10" />
+          </svg>
+        </Link>
         <span className="lesson-title">
           {category.title} • {category.vi}
         </span>
