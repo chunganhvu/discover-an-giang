@@ -360,95 +360,95 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Festivals (Lễ hội)
 
-### Festival Time (Mùa lễ hội) — 0/10 ảnh
+### Festival Time (Mùa lễ hội) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ba Chua Xu Festival | lễ hội Vía Bà Chúa Xứ | `Ba Chua Xu Festival.jpg` | ☐ |
-| 2 | Bull racing | đua bò | `Bull racing.jpg` | ☐ |
-| 3 | Khmer New Year | Tết Chol Chnam Thmay | `Khmer New Year.jpg` | ☐ |
-| 4 | Moon worship | cúng trăng | `Moon worship.jpg` | ☐ |
-| 5 | Offering | lễ vật | `Offering.jpg` | ☐ |
-| 6 | Pilgrim | người hành hương | `Pilgrim.jpg` | ☐ |
-| 7 | Crowd | đám đông | `Crowd.jpg` | ☐ |
-| 8 | Traditional music | nhạc truyền thống | `Traditional music.jpg` | ☐ |
-| 9 | Parade | cuộc diễu hành | `Parade.jpg` | ☐ |
-| 10 | Celebration | lễ kỷ niệm | `Celebration.jpg` | ☐ |
+| 1 | Ba Chua Xu Festival | lễ hội Vía Bà Chúa Xứ | `Ba Chua Xu Festival.jpg` | ✅ |
+| 2 | Bull racing | đua bò | `Bull racing.jpg` | ✅ |
+| 3 | Khmer New Year | Tết Chol Chnam Thmay | `Khmer New Year.jpg` | ✅ |
+| 4 | Moon worship | cúng trăng | `Moon worship.jpg` | ✅ |
+| 5 | Offering | lễ vật | `Offering.jpg` | ✅ |
+| 6 | Pilgrim | người hành hương | `Pilgrim.jpg` | ✅ |
+| 7 | Crowd | đám đông | `Crowd.jpg` | ✅ |
+| 8 | Traditional music | nhạc truyền thống | `Traditional music.jpg` | ✅ |
+| 9 | Parade | cuộc diễu hành | `Parade.jpg` | ✅ |
+| 10 | Celebration | lễ kỷ niệm | `Celebration.jpg` | ✅ |
 
-### Tet & Family Traditions (Tết và nét đẹp gia đình) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Lunar New Year | Tết Nguyên đán | `Lunar New Year.jpg` | ☐ |
-| 2 | Yellow apricot blossom | hoa mai vàng | `Yellow apricot blossom.jpg` | ☐ |
-| 3 | Sticky rice cake | bánh tét | `Sticky rice cake.jpg` | ☐ |
-| 4 | Lucky money | tiền lì xì | `Lucky money.jpg` | ☐ |
-| 5 | Ancestral altar | bàn thờ tổ tiên | `Ancestral altar.jpg` | ☐ |
-| 6 | Fireworks | pháo hoa | `Fireworks.jpg` | ☐ |
-| 7 | Family reunion | đoàn viên gia đình | `Family reunion.jpg` | ☐ |
-| 8 | Greeting | lời chúc | `Greeting.jpg` | ☐ |
-| 9 | Spring | mùa xuân | `Spring.jpg` | ☐ |
-| 10 | Decoration | đồ trang trí | `Decoration.jpg` | ☐ |
-
-### Music, Dance & Costume (Âm nhạc, múa và trang phục) — 0/10 ảnh
+### Tet & Family Traditions (Tết và nét đẹp gia đình) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Southern amateur music | đờn ca tài tử | `Southern amateur music.jpg` | ☐ |
-| 2 | Folk song | dân ca | `Folk song.jpg` | ☐ |
-| 3 | Traditional costume | trang phục truyền thống | `Traditional costume.jpg` | ☐ |
-| 4 | Ba ba shirt | áo bà ba | `Ba ba shirt.jpg` | ☐ |
-| 5 | Khmer dance | múa Khmer | `Khmer dance.jpg` | ☐ |
-| 6 | Musical instrument | nhạc cụ | `Musical instrument.jpg` | ☐ |
-| 7 | Lute | đàn | `Lute.jpg` | ☐ |
-| 8 | Singer | ca sĩ | `Singer.jpg` | ☐ |
-| 9 | Stage | sân khấu | `Stage.jpg` | ☐ |
-| 10 | Audience | khán giả | `Audience.jpg` | ☐ |
+| 1 | Lunar New Year | Tết Nguyên đán | `Lunar New Year.jpg` | ✅ |
+| 2 | Yellow apricot blossom | hoa mai vàng | `Yellow apricot blossom.jpg` | ✅ |
+| 3 | Sticky rice cake | bánh tét | `Sticky rice cake.jpg` | ✅ |
+| 4 | Lucky money | tiền lì xì | `Lucky money.jpg` | ✅ |
+| 5 | Ancestral altar | bàn thờ tổ tiên | `Ancestral altar.jpg` | ✅ |
+| 6 | Fireworks | pháo hoa | `Fireworks.jpg` | ✅ |
+| 7 | Family reunion | đoàn viên gia đình | `Family reunion.jpg` | ✅ |
+| 8 | Greeting | lời chúc | `Greeting.jpg` | ✅ |
+| 9 | Spring | mùa xuân | `Spring.jpg` | ✅ |
+| 10 | Decoration | đồ trang trí | `Decoration.jpg` | ✅ |
 
-### Sea Festivals (Lễ hội biển) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Nghinh Ong Festival | lễ hội Nghinh Ông | `Nghinh Ong Festival.jpg` | ☐ |
-| 2 | Whale worship | tục thờ cá Ông | `Whale worship.jpg` | ☐ |
-| 3 | Boat procession | rước thuyền | `Boat procession.jpg` | ☐ |
-| 4 | Fishing community | cộng đồng ngư dân | `Fishing community.jpg` | ☐ |
-| 5 | Safe voyage | chuyến đi bình an | `Safe voyage.jpg` | ☐ |
-| 6 | Drum | trống | `Drum.jpg` | ☐ |
-| 7 | Coast | bờ biển | `Coast.jpg` | ☐ |
-| 8 | Flag | lá cờ | `Flag.jpg` | ☐ |
-| 9 | Good catch | mẻ cá bội thu | `Good catch.jpg` | ☐ |
-| 10 | Ceremony | nghi lễ | `Ceremony.jpg` | ☐ |
-
-### Rach Gia & Ha Tien Festivals (Lễ hội Rạch Giá và Hà Tiên) — 0/10 ảnh
+### Music, Dance & Costume (Âm nhạc, múa và trang phục) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Nguyen Trung Truc Festival | lễ hội Nguyễn Trung Trực | `Nguyen Trung Truc Festival.jpg` | ☐ |
-| 2 | Nguyen Tieu Festival | lễ hội Nguyên tiêu | `Nguyen Tieu Festival.jpg` | ☐ |
-| 3 | Full moon | trăng tròn | `Full moon.jpg` | ☐ |
-| 4 | Lantern | đèn lồng | `Lantern.jpg` | ☐ |
-| 5 | Procession | đám rước | `Procession.jpg` | ☐ |
-| 6 | Lion dance | múa lân | `Lion dance.jpg` | ☐ |
-| 7 | Traditional game | trò chơi dân gian | `Traditional game.jpg` | ☐ |
-| 8 | Drumbeat | tiếng trống | `Drumbeat.jpg` | ☐ |
-| 9 | Temple yard | sân đền | `Temple yard.jpg` | ☐ |
-| 10 | Incense stick | nén hương | `Incense stick.jpg` | ☐ |
+| 1 | Southern amateur music | đờn ca tài tử | `Southern amateur music.jpg` | ✅ |
+| 2 | Folk song | dân ca | `Folk song.jpg` | ✅ |
+| 3 | Traditional costume | trang phục truyền thống | `Traditional costume.jpg` | ✅ |
+| 4 | Ba ba shirt | áo bà ba | `Ba ba shirt.jpg` | ✅ |
+| 5 | Khmer dance | múa Khmer | `Khmer dance.jpg` | ✅ |
+| 6 | Musical instrument | nhạc cụ | `Musical instrument.jpg` | ✅ |
+| 7 | Lute | đàn | `Lute.jpg` | ✅ |
+| 8 | Singer | ca sĩ | `Singer.jpg` | ✅ |
+| 9 | Stage | sân khấu | `Stage.jpg` | ✅ |
+| 10 | Audience | khán giả | `Audience.jpg` | ✅ |
 
-### Cham Community Festivals (Lễ hội của cộng đồng Chăm) — 0/10 ảnh
+### Sea Festivals (Lễ hội biển) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ramadan | tháng Ramadan | `Ramadan.jpg` | ☐ |
-| 2 | Fasting | nhịn ăn ban ngày | `Fasting.jpg` | ☐ |
-| 3 | Eid | lễ Eid | `Eid.jpg` | ☐ |
-| 4 | Charity | lòng từ thiện | `Charity.jpg` | ☐ |
-| 5 | Feast | bữa tiệc | `Feast.jpg` | ☐ |
-| 6 | Community | cộng đồng | `Community.jpg` | ☐ |
-| 7 | Crescent moon | trăng lưỡi liềm | `Crescent moon.jpg` | ☐ |
-| 8 | Date fruit | quả chà là | `Date fruit.jpg` | ☐ |
-| 9 | Traditional dress | trang phục truyền thống | `Traditional dress.jpg` | ☐ |
-| 10 | Gathering | buổi họp mặt | `Gathering.jpg` | ☐ |
+| 1 | Nghinh Ong Festival | lễ hội Nghinh Ông | `Nghinh Ong Festival.jpg` | ✅ |
+| 2 | Whale worship | tục thờ cá Ông | `Whale worship.jpg` | ✅ |
+| 3 | Boat procession | rước thuyền | `Boat procession.jpg` | ✅ |
+| 4 | Fishing community | cộng đồng ngư dân | `Fishing community.jpg` | ✅ |
+| 5 | Safe voyage | chuyến đi bình an | `Safe voyage.jpg` | ✅ |
+| 6 | Drum | trống | `Drum.jpg` | ✅ |
+| 7 | Coast | bờ biển | `Coast.jpg` | ✅ |
+| 8 | Flag | lá cờ | `Flag.jpg` | ✅ |
+| 9 | Good catch | mẻ cá bội thu | `Good catch.jpg` | ✅ |
+| 10 | Ceremony | nghi lễ | `Ceremony.jpg` | ✅ |
+
+### Rach Gia & Ha Tien Festivals (Lễ hội Rạch Giá và Hà Tiên) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Nguyen Trung Truc Festival | lễ hội Nguyễn Trung Trực | `Nguyen Trung Truc Festival.jpg` | ✅ |
+| 2 | Nguyen Tieu Festival | lễ hội Nguyên tiêu | `Nguyen Tieu Festival.jpg` | ✅ |
+| 3 | Full moon | trăng tròn | `Full moon.jpg` | ✅ |
+| 4 | Lantern | đèn lồng | `Lantern.jpg` | ✅ |
+| 5 | Procession | đám rước | `Procession.jpg` | ✅ |
+| 6 | Lion dance | múa lân | `Lion dance.jpg` | ✅ |
+| 7 | Traditional game | trò chơi dân gian | `Traditional game.jpg` | ✅ |
+| 8 | Drumbeat | tiếng trống | `Drumbeat.jpg` | ✅ |
+| 9 | Temple yard | sân đền | `Temple yard.jpg` | ✅ |
+| 10 | Incense stick | nén hương | `Incense stick.jpg` | ✅ |
+
+### Cham Community Festivals (Lễ hội của cộng đồng Chăm) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Ramadan | tháng Ramadan | `Ramadan.jpg` | ✅ |
+| 2 | Fasting | nhịn ăn ban ngày | `Fasting.jpg` | ✅ |
+| 3 | Eid | lễ Eid | `Eid.jpg` | ✅ |
+| 4 | Charity | lòng từ thiện | `Charity.jpg` | ✅ |
+| 5 | Feast | bữa tiệc | `Feast.jpg` | ✅ |
+| 6 | Community | cộng đồng | `Community.jpg` | ✅ |
+| 7 | Crescent moon | trăng lưỡi liềm | `Crescent moon.jpg` | ✅ |
+| 8 | Date fruit | quả chà là | `Date fruit.jpg` | ✅ |
+| 9 | Traditional dress | trang phục truyền thống | `Traditional dress.jpg` | ✅ |
+| 10 | Gathering | buổi họp mặt | `Gathering.jpg` | ✅ |
 
 ## Seas & Islands (Du lịch biển đảo)
 
