@@ -19,7 +19,7 @@ export default async function QuizPage({ params }: { params: Promise<{ category:
   const { category, lesson } = found;
 
   return (
-    <div className="lesson-shell">
+    <div className="lesson-shell learn-shell">
       <header className="lesson-top">
         <Link href={`/c/${category.id}/${lesson.id}/`} className="back dark" aria-label="Back">
           ←
