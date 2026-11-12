@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
 import CategoryBanner from '@/components/CategoryBanner';
@@ -19,26 +18,17 @@ export default async function LessonPage({ params }: { params: Promise<{ categor
 
   return (
     <>
-      <CategoryBanner category={category} backHref={`/c/${category.id}/`} title={lesson.title} subtitle={`${lesson.vi} · ${category.title}`} image={lessonCover(lesson)} />
-      <main className="modes">
-        <h2 className="section-title">
-          What would you like to do? <small>Bạn muốn làm gì?</small>
-        </h2>
-        <Link href={`${base}/learn/`} className="mode-card">
-          <span className="mode-icon" aria-hidden="true">📖</span>
-          <span>
-            <strong>Learn vocabulary</strong>
-            <em>Học từ vựng · {lesson.words.length} flashcards</em>
-          </span>
-        </Link>
-        <Link href={`${base}/quiz/`} className="mode-card quiz">
-          <span className="mode-icon" aria-hidden="true">📝</span>
-          <span>
-            <strong>Vocabulary quiz</strong>
-            <em>Câu đố từ vựng · earn the “{lesson.badge.title}” badge</em>
-          </span>
-        </Link>
-      </main>
+      <CategoryBanner
+        category={category}
+        backHref={`/c/${category.id}/`}
+        title={lesson.title}
+        subtitle={`${lesson.vi} · ${category.title}`}
+        image={lessonCover(lesson)}
+        actions={[
+          { href: `${base}/learn/`, icon: '📖', label: 'Learn vocabulary', sub: 'Học từ vựng', variant: 'learn' },
+          { href: `${base}/quiz/`, icon: '📝', label: 'Vocabulary quiz', sub: 'Câu đố từ vựng', variant: 'quiz' },
+        ]}
+      />
     </>
   );
 }

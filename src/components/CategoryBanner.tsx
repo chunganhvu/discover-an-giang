@@ -10,6 +10,7 @@ export default function CategoryBanner({
   title,
   subtitle,
   image,
+  actions,
 }: {
   category: Category;
   backHref: string;
@@ -17,6 +18,8 @@ export default function CategoryBanner({
   subtitle: string;
   /** Overrides the topic artwork, e.g. with the lesson's own cover photo. */
   image?: string;
+  /** Buttons shown on top of the picture (e.g. Learn / Quiz on a lesson page). */
+  actions?: { href: string; icon: string; label: string; sub: string; variant?: 'learn' | 'quiz' }[];
 }) {
   return (
     <header className="cat-banner">
@@ -25,6 +28,21 @@ export default function CategoryBanner({
         <Link href={backHref} className="back" aria-label="Back">
           ←
         </Link>
+        {actions && actions.length > 0 && (
+          <div className="banner-actions">
+            {actions.map((a) => (
+              <Link key={a.href} href={a.href} className={`banner-btn ${a.variant ?? 'learn'}`}>
+                <span className="banner-btn-icon" aria-hidden="true">
+                  {a.icon}
+                </span>
+                <span className="banner-btn-text">
+                  <strong>{a.label}</strong>
+                  <small>{a.sub}</small>
+                </span>
+              </Link>
+            ))}
+          </div>
+        )}
       </div>
       <div className="cat-banner-label" style={{ background: `linear-gradient(180deg, ${category.from}, ${category.to})` }}>
         <h1>{title}</h1>
