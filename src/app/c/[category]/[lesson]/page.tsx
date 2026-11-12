@@ -24,6 +24,7 @@ export default async function LessonPage({ params }: { params: Promise<{ categor
         title={lesson.title}
         subtitle={`${lesson.vi} · ${category.title}`}
         image={lessonCover(lesson)}
+        fullscreen
         actions={[
           { href: `${base}/learn/`, icon: '📖', label: 'Learn', aria: 'Learn vocabulary · Học từ vựng', variant: 'learn' },
           { href: `${base}/quiz/`, icon: '📝', label: 'Quiz', aria: 'Vocabulary quiz · Câu đố từ vựng', variant: 'quiz' },
