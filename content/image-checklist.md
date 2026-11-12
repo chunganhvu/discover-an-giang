@@ -206,80 +206,80 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Cuisine (Ẩm thực)
 
-### Famous Dishes (Món ngon nổi tiếng) — 0/10 ảnh
+### Famous Dishes (Món ngon nổi tiếng) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Fish noodle soup | bún cá | `Fish noodle soup.jpg` | ☐ |
-| 2 | Fermented fish paste | mắm cá | `Fermented fish paste.jpg` | ☐ |
-| 3 | Tile-grilled beef | bò nướng ngói | `Tile-grilled beef.jpg` | ☐ |
-| 4 | Fermented fish hotpot | lẩu mắm | `Fermented fish hotpot.jpg` | ☐ |
-| 5 | Herring salad | gỏi cá trích | `Herring salad.jpg` | ☐ |
-| 6 | Sea urchin | nhum biển | `Sea urchin.jpg` | ☐ |
-| 7 | Grilled fish | cá nướng | `Grilled fish.jpg` | ☐ |
-| 8 | Fish sauce | nước mắm | `Fish sauce.jpg` | ☐ |
-| 9 | Vegetables | rau | `Vegetables.jpg` | ☐ |
-| 10 | Delicious | ngon | `Delicious.jpg` | ☐ |
+| 1 | Fish noodle soup | bún cá | `Fish noodle soup.jpg` | ✅ |
+| 2 | Fermented fish paste | mắm cá | `Fermented fish paste.jpg` | ✅ |
+| 3 | Tile-grilled beef | bò nướng ngói | `Tile-grilled beef.jpg` | ✅ |
+| 4 | Fermented fish hotpot | lẩu mắm | `Fermented fish hotpot.jpg` | ✅ |
+| 5 | Herring salad | gỏi cá trích | `Herring salad.jpg` | ✅ |
+| 6 | Sea urchin | nhum biển | `Sea urchin.jpg` | ✅ |
+| 7 | Grilled fish | cá nướng | `Grilled fish.jpg` | ✅ |
+| 8 | Fish sauce | nước mắm | `Fish sauce.jpg` | ✅ |
+| 9 | Vegetables | rau | `Vegetables.jpg` | ✅ |
+| 10 | Delicious | ngon | `Delicious.jpg` | ✅ |
 
-### Street Food & Snacks (Món ăn vặt đường phố) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Palm sugar cake | bánh bò thốt nốt | `Palm sugar cake.jpg` | ☐ |
-| 2 | Rice pancake | bánh xèo | `Rice pancake.jpg` | ☐ |
-| 3 | Sweet soup | chè | `Sweet soup.jpg` | ☐ |
-| 4 | Sticky rice | xôi | `Sticky rice.jpg` | ☐ |
-| 5 | Fresh herbs | rau thơm | `Fresh herbs.jpg` | ☐ |
-| 6 | Dipping sauce | nước chấm | `Dipping sauce.jpg` | ☐ |
-| 7 | Sugarcane juice | nước mía | `Sugarcane juice.jpg` | ☐ |
-| 8 | Bread roll | bánh mì | `Bread roll.jpg` | ☐ |
-| 9 | Banana cake | bánh chuối | `Banana cake.jpg` | ☐ |
-| 10 | Street vendor | người bán hàng rong | `Street vendor.jpg` | ☐ |
-
-### Seafood of Phu Quoc (Hải sản Phú Quốc) — 0/10 ảnh
+### Street Food & Snacks (Món ăn vặt đường phố) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Seafood | hải sản | `Seafood.jpg` | ☐ |
-| 2 | Blue crab | ghẹ | `Blue crab.jpg` | ☐ |
-| 3 | Squid | mực | `Squid.jpg` | ☐ |
-| 4 | Sun-dried squid | mực một nắng | `Sun-dried squid.jpg` | ☐ |
-| 5 | Night market | chợ đêm | `Night market.jpg` | ☐ |
-| 6 | Fishing village | làng chài | `Fishing village.jpg` | ☐ |
-| 7 | Grilled prawn | tôm nướng | `Grilled prawn.jpg` | ☐ |
-| 8 | Fresh fish | cá tươi | `Fresh fish.jpg` | ☐ |
-| 9 | Lobster | tôm hùm | `Lobster.jpg` | ☐ |
-| 10 | Seafood hotpot | lẩu hải sản | `Seafood hotpot.jpg` | ☐ |
+| 1 | Palm sugar cake | bánh bò thốt nốt | `Palm sugar cake.jpg` | ✅ |
+| 2 | Rice pancake | bánh xèo | `Rice pancake.jpg` | ✅ |
+| 3 | Sweet soup | chè | `Sweet soup.jpg` | ✅ |
+| 4 | Sticky rice | xôi | `Sticky rice.jpg` | ✅ |
+| 5 | Fresh herbs | rau thơm | `Fresh herbs.jpg` | ✅ |
+| 6 | Dipping sauce | nước chấm | `Dipping sauce.jpg` | ✅ |
+| 7 | Sugarcane juice | nước mía | `Sugarcane juice.jpg` | ✅ |
+| 8 | Bread roll | bánh mì | `Bread roll.jpg` | ✅ |
+| 9 | Banana cake | bánh chuối | `Banana cake.jpg` | ✅ |
+| 10 | Street vendor | người bán hàng rong | `Street vendor.jpg` | ✅ |
 
-### Kien Giang Flavors (Hương vị Kiên Giang) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Bun ken | bún kèn | `Bun ken.jpg` | ☐ |
-| 2 | Sim fruit | trái sim | `Sim fruit.jpg` | ☐ |
-| 3 | Sim wine | rượu sim | `Sim wine.jpg` | ☐ |
-| 4 | Grilled snail | ốc nướng | `Grilled snail.jpg` | ☐ |
-| 5 | Coconut milk | nước cốt dừa | `Coconut milk.jpg` | ☐ |
-| 6 | Rice noodles | bún | `Rice noodles.jpg` | ☐ |
-| 7 | Fish cake | chả cá | `Fish cake.jpg` | ☐ |
-| 8 | Pickled vegetables | rau củ muối chua | `Pickled vegetables.jpg` | ☐ |
-| 9 | Lime | chanh | `Lime.jpg` | ☐ |
-| 10 | Chili | ớt | `Chili.jpg` | ☐ |
-
-### Khmer Flavors (Hương vị Khmer) — 0/10 ảnh
+### Seafood of Phu Quoc (Hải sản Phú Quốc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Khmer rice noodles | bún Khmer (num banh chok) | `Khmer rice noodles.jpg` | ☐ |
-| 2 | Curry | cà ri | `Curry.jpg` | ☐ |
-| 3 | Lemongrass | sả | `Lemongrass.jpg` | ☐ |
-| 4 | Turmeric | nghệ | `Turmeric.jpg` | ☐ |
-| 5 | Spicy | cay | `Spicy.jpg` | ☐ |
-| 6 | Banana blossom | bắp chuối | `Banana blossom.jpg` | ☐ |
-| 7 | Fish broth | nước lèo cá | `Fish broth.jpg` | ☐ |
-| 8 | Mint leaves | lá bạc hà | `Mint leaves.jpg` | ☐ |
-| 9 | Peanut | đậu phộng | `Peanut.jpg` | ☐ |
-| 10 | Garlic | tỏi | `Garlic.jpg` | ☐ |
+| 1 | Seafood | hải sản | `Seafood.jpg` | ✅ |
+| 2 | Blue crab | ghẹ | `Blue crab.jpg` | ✅ |
+| 3 | Squid | mực | `Squid.jpg` | ✅ |
+| 4 | Sun-dried squid | mực một nắng | `Sun-dried squid.jpg` | ✅ |
+| 5 | Night market | chợ đêm | `Night market.jpg` | ✅ |
+| 6 | Fishing village | làng chài | `Fishing village.jpg` | ✅ |
+| 7 | Grilled prawn | tôm nướng | `Grilled prawn.jpg` | ✅ |
+| 8 | Fresh fish | cá tươi | `Fresh fish.jpg` | ✅ |
+| 9 | Lobster | tôm hùm | `Lobster.jpg` | ✅ |
+| 10 | Seafood hotpot | lẩu hải sản | `Seafood hotpot.jpg` | ✅ |
+
+### Kien Giang Flavors (Hương vị Kiên Giang) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Bun ken | bún kèn | `Bun ken.jpg` | ✅ |
+| 2 | Sim fruit | trái sim | `Sim fruit.jpg` | ✅ |
+| 3 | Sim wine | rượu sim | `Sim wine.jpg` | ✅ |
+| 4 | Grilled snail | ốc nướng | `Grilled snail.jpg` | ✅ |
+| 5 | Coconut milk | nước cốt dừa | `Coconut milk.jpg` | ✅ |
+| 6 | Rice noodles | bún | `Rice noodles.jpg` | ✅ |
+| 7 | Fish cake | chả cá | `Fish cake.jpg` | ✅ |
+| 8 | Pickled vegetables | rau củ muối chua | `Pickled vegetables.jpg` | ✅ |
+| 9 | Lime | chanh | `Lime.jpg` | ✅ |
+| 10 | Chili | ớt | `Chili.jpg` | ✅ |
+
+### Khmer Flavors (Hương vị Khmer) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Khmer rice noodles | bún Khmer (num banh chok) | `Khmer rice noodles.jpg` | ✅ |
+| 2 | Curry | cà ri | `Curry.jpg` | ✅ |
+| 3 | Lemongrass | sả | `Lemongrass.jpg` | ✅ |
+| 4 | Turmeric | nghệ | `Turmeric.jpg` | ✅ |
+| 5 | Spicy | cay | `Spicy.jpg` | ✅ |
+| 6 | Banana blossom | bắp chuối | `Banana blossom.jpg` | ✅ |
+| 7 | Fish broth | nước lèo cá | `Fish broth.jpg` | ✅ |
+| 8 | Mint leaves | lá bạc hà | `Mint leaves.jpg` | ✅ |
+| 9 | Peanut | đậu phộng | `Peanut.jpg` | ✅ |
+| 10 | Garlic | tỏi | `Garlic.jpg` | ✅ |
 
 ## Crafts (Ngành nghề)
 
