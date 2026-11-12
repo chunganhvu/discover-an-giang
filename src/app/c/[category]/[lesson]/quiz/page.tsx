@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
 import { withAssets } from '@/data/assets';
 import QuizClient from '@/components/QuizClient';
-import LessonTabs from '@/components/LessonTabs';
 import ViToggle from '@/components/ViToggle';
 import FullscreenButton from '@/components/FullscreenButton';
 
@@ -34,7 +33,6 @@ export default async function QuizPage({ params }: { params: Promise<{ category:
       <main className="lesson-main">
         <QuizClient category={category} lesson={withAssets(lesson)} />
       </main>
-      <LessonTabs category={category.id} lesson={lesson.id} active="quiz" />
     </div>
   );
 }

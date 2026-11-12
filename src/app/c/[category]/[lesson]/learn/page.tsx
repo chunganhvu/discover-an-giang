@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
 import { withAssets } from '@/data/assets';
 import LearnClient from '@/components/LearnClient';
-import LessonTabs from '@/components/LessonTabs';
 import ViToggle from '@/components/ViToggle';
 import FullscreenButton from '@/components/FullscreenButton';
 
@@ -20,7 +19,7 @@ export default async function LearnPage({ params }: { params: Promise<{ category
   const { category, lesson } = found;
 
   return (
-    <div className="lesson-shell">
+    <div className="lesson-shell learn-shell">
       <header className="lesson-top">
         <Link href={`/c/${category.id}/${lesson.id}/`} className="back dark" aria-label="Back">
           ←
@@ -34,7 +33,6 @@ export default async function LearnPage({ params }: { params: Promise<{ category
       <main className="lesson-main">
         <LearnClient category={category} lesson={withAssets(lesson)} />
       </main>
-      <LessonTabs category={category.id} lesson={lesson.id} active="learn" />
     </div>
   );
 }

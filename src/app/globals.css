@@ -428,3 +428,42 @@ body { background: var(--green-soft); }
 /* Cards enter from the side the finger came from: swipe right -> next card slides in from the left. */
 .flashcard.slide-next { animation: in-left .28s ease-out; }
 .flashcard.slide-prev { animation: in-right .28s ease-out; }
+
+/* ---------- Full-screen flashcard (phones, tablets, laptops) ---------- */
+.learn-shell { height: 100vh; height: 100dvh; overflow: hidden; }
+.learn-shell .lesson-top { max-width: none; padding: 8px clamp(10px, 2vw, 24px) 2px; }
+.learn-shell .lesson-main {
+  flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; max-width: none; width: 100%;
+  padding: 2px clamp(8px, 2vw, 24px) max(10px, env(safe-area-inset-bottom));
+}
+.learn-shell .lesson-main > .learn { flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; max-width: none; width: 100%; margin: 0; }
+.learn-shell .progress { margin: 6px 0 2px; flex: none; }
+.learn-shell .counter { margin: 0 0 6px; flex: none; }
+.learn-shell .card-wrap { flex: 1 1 auto; min-height: 0; display: flex; margin: 0 14px; overflow: visible; padding: 0; }
+.learn-shell .flashcard {
+  flex: 1 1 auto; min-width: 0; min-height: 0; display: flex; flex-direction: column; gap: clamp(8px, 1.6vw, 18px);
+  padding: clamp(8px, 1.4vw, 18px); border-radius: clamp(20px, 3vw, 32px);
+}
+.learn-shell .flash-img { flex: 1 1 0; min-height: 0; height: 0; width: 100%; aspect-ratio: auto; border-radius: clamp(14px, 2vw, 24px); object-fit: cover; object-position: center; }
+.learn-shell .flash-img .illus-emoji, .learn-shell .illus.flash-img .illus-emoji { font-size: clamp(5rem, 22vw, 12rem); }
+.learn-shell .flash-text { flex: 0 0 auto; max-height: 46%; overflow-y: auto; display: grid; align-content: center; padding: 0 clamp(4px, 1vw, 12px) 4px; }
+.learn-shell .flash-text h2 { margin: 0 0 2px; font-size: clamp(1.6rem, 4.6vw + .4rem, 3.2rem); line-height: 1.1; }
+.learn-shell .ipa { font-size: clamp(1rem, 1.6vw + .5rem, 1.5rem); }
+.learn-shell .vi { font-size: clamp(1.05rem, 1.8vw + .5rem, 1.7rem); }
+.learn-shell .example { font-size: clamp(.92rem, 1.2vw + .5rem, 1.3rem); margin-top: 8px; }
+.learn-shell .example-vi { font-size: clamp(.8rem, 1vw + .45rem, 1.1rem); }
+.learn-shell .speaker-btn { width: clamp(30px, 3.6vw, 42px); height: clamp(30px, 3.6vw, 42px); }
+.learn-shell .speech-notice { flex: none; margin: 6px 0 0; }
+
+/* Landscape tablets / laptops / phones on their side: picture on the left, text on the right. */
+@media (min-width: 760px) and (orientation: landscape) {
+  .learn-shell .flashcard { flex-direction: row; align-items: stretch; }
+  .learn-shell .flash-img { flex: 1.5 1 0; height: auto; width: auto; min-width: 0; }
+  .learn-shell .flash-text { flex: 1 1 0; max-height: none; align-content: center; padding: 0 clamp(8px, 2vw, 32px); }
+  .learn-shell .flash-text h2 { font-size: clamp(1.5rem, 3.2vw, 3.2rem); }
+}
+@media (max-height: 520px) and (orientation: landscape) {
+  .learn-shell .lesson-title { font-size: .8rem; }
+  .learn-shell .example-vi { display: none; }
+  .learn-shell .flash-text h2 { font-size: clamp(1.3rem, 3vw, 2rem); }
+}
