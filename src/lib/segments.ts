@@ -7,7 +7,7 @@ const strip = (s: string) =>
 
 // Brand names that appear in the Vietnamese gloss unchanged but are read as English.
 // Vietnamese names written without accents in the English title (nothing to compare against).
-const PLAIN_VIETNAMESE = new Set(['sam', 'sao', 'sim', 'linh', 'hang', 'nam', 'du']);
+const PLAIN_VIETNAMESE = new Set(['hoa', 'sam', 'sao', 'sim', 'linh', 'hang', 'nam', 'du']);
 
 const ENGLISH_BRANDS = new Set(['vinpearl', 'vinwonders', 'vin', 'wonders', 'safari', 'pearl', 'grand', 'world', 'ocop']);
 

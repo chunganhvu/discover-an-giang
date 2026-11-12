@@ -307,9 +307,12 @@ body { background: var(--green-soft); }
   .grid li:last-child:nth-child(odd) { grid-column: 1 / -1; }
   .grid li:last-child:nth-child(odd) .cat-art { aspect-ratio: 21 / 9; }
 }
-/* Tablets, laptops: 3 columns so 9 topics form a perfect 3 x 3 grid. */
+/* Tablets, laptops: 3 columns. */
 @media (min-width: 600px) {
   .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  /* A lone last card (10, 13, ... topics) spans the row as a wide banner. */
+  .grid li:last-child:nth-child(3n + 1) { grid-column: 1 / -1; }
+  .grid li:last-child:nth-child(3n + 1) .cat-art { aspect-ratio: 5 / 1; }
 }
 
 /* ---------- Topic / lesson banner (same artwork as the home card) ---------- */

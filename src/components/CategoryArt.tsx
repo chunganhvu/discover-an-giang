@@ -86,6 +86,16 @@ const scenes: Record<string, React.ReactNode> = {
       <rect x="72" y="70" width="16" height="14" fill="#ffd66b" />
     </>
   ),
+  'public-services': (
+    <>
+      <rect width="160" height="100" fill="#d9e6f7" />
+      <circle cx="30" cy="24" r="12" fill="#fff6d8" />
+      <rect y="84" width="160" height="16" fill="#4a78b8" opacity=".5" />
+      <g fill="#4a78b8"><rect x="40" y="48" width="80" height="36" /><path d="M34 48 H126 L80 28Z" fill="#27508a" /></g>
+      <g fill="#fff"><rect x="48" y="54" width="8" height="30" /><rect x="64" y="54" width="8" height="30" /><rect x="88" y="54" width="8" height="30" /><rect x="104" y="54" width="8" height="30" /></g>
+      <rect x="78" y="10" width="2" height="20" fill="#27508a" /><path d="M80 10 H98 V20 H80Z" fill="#d93a2b" />
+    </>
+  ),
 };
 
 export default function CategoryArt({ id, image }: { id: string; image?: string }) {

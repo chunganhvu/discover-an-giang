@@ -1,4 +1,7 @@
 import type { Category } from '@/lib/types';
+import { heritage, landscapes, seasIslands } from './expansion/part-a.ts';
+import { spiritual, festivals, cuisine, crafts } from './expansion/part-b.ts';
+import { publicServices } from './expansion/part-c.ts';
 
 /**
  * All learning content lives here. To add a word, copy an object in a lesson's
@@ -6,7 +9,7 @@ import type { Category } from '@/lib/types';
  * audio are optional (`image`, `audio`); without them the app falls back to a
  * placeholder illustration and the device's text-to-speech voice.
  */
-export const categories: Category[] = [
+const baseCategories: Category[] = [
   {
     id: 'landscapes',
     title: 'Landscapes',
@@ -1127,6 +1130,22 @@ export const categories: Category[] = [
       },
     ],
   },
+];
+
+const extraLessons: Record<string, Category['lessons']> = {
+  heritage,
+  landscapes,
+  'seas-islands': seasIslands,
+  spiritual,
+  festivals,
+  cuisine,
+  crafts,
+};
+
+/** Base lessons first, then the expansion lessons for each topic; Public Services comes last. */
+export const categories: Category[] = [
+  ...baseCategories.map((c) => ({ ...c, lessons: [...c.lessons, ...(extraLessons[c.id] ?? [])] })),
+  publicServices,
 ];
 
 export function getCategory(id: string) {
