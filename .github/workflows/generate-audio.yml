@@ -50,6 +50,7 @@ jobs:
             exit 0
           fi
           git commit -m "Add recorded audio (Google Cloud TTS)"
+          git pull --rebase origin main
           git push origin HEAD:main
           # Pushes made with GITHUB_TOKEN do not start other workflows, so start the deploy explicitly.
           gh workflow run pages.yml --ref main
