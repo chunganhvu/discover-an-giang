@@ -698,92 +698,92 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Spiritual Sites (Tâm linh)
 
-### Places of Worship (Nơi thờ tự) — 0/10 ảnh
+### Places of Worship (Nơi thờ tự) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Pagoda | chùa | `Pagoda.jpg` | ☐ |
-| 2 | Khmer pagoda | chùa Khmer | `Khmer pagoda.jpg` | ☐ |
-| 3 | Temple | miếu, đền | `Temple.jpg` | ☐ |
-| 4 | Incense | hương, nhang | `Incense.jpg` | ☐ |
-| 5 | Mosque | thánh đường Hồi giáo | `Mosque.jpg` | ☐ |
-| 6 | Monk | nhà sư | `Monk.jpg` | ☐ |
-| 7 | Church | nhà thờ | `Church.jpg` | ☐ |
-| 8 | Prayer hall | chánh điện | `Prayer hall.jpg` | ☐ |
-| 9 | Candle | ngọn nến | `Candle.jpg` | ☐ |
-| 10 | Religion | tôn giáo | `Religion.jpg` | ☐ |
+| 1 | Pagoda | chùa | `Pagoda.jpg` | ✅ |
+| 2 | Khmer pagoda | chùa Khmer | `Khmer pagoda.jpg` | ✅ |
+| 3 | Temple | miếu, đền | `Temple.jpg` | ✅ |
+| 4 | Incense | hương, nhang | `Incense.jpg` | ✅ |
+| 5 | Mosque | thánh đường Hồi giáo | `Mosque.jpg` | ✅ |
+| 6 | Monk | nhà sư | `Monk.jpg` | ✅ |
+| 7 | Church | nhà thờ | `Church.jpg` | ✅ |
+| 8 | Prayer hall | chánh điện | `Prayer hall.jpg` | ✅ |
+| 9 | Candle | ngọn nến | `Candle.jpg` | ✅ |
+| 10 | Religion | tôn giáo | `Religion.jpg` | ✅ |
 
-### Ba Chua Xu Temple (Miếu Bà Chúa Xứ) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Goddess | nữ thần, bà chúa | `Goddess.jpg` | ☐ |
-| 2 | Statue | tượng | `Statue.jpg` | ☐ |
-| 3 | Prayer | lời cầu nguyện | `Prayer.jpg` | ☐ |
-| 4 | Wish | điều ước | `Wish.jpg` | ☐ |
-| 5 | Blessing | phước lành | `Blessing.jpg` | ☐ |
-| 6 | Altar | bàn thờ | `Altar.jpg` | ☐ |
-| 7 | Lady of the Realm | Bà Chúa Xứ | `Lady of the Realm.jpg` | ☐ |
-| 8 | Flower | bông hoa | `Flower.jpg` | ☐ |
-| 9 | Faith | niềm tin | `Faith.jpg` | ☐ |
-| 10 | Gratitude | lòng biết ơn | `Gratitude.jpg` | ☐ |
-
-### Khmer & Cham Communities (Cộng đồng Khmer và Chăm) — 0/10 ảnh
+### Ba Chua Xu Temple (Miếu Bà Chúa Xứ) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Khmer people | người Khmer | `Khmer people.jpg` | ☐ |
-| 2 | Cham people | người Chăm | `Cham people.jpg` | ☐ |
-| 3 | Saffron robe | áo cà sa | `Saffron robe.jpg` | ☐ |
-| 4 | Stupa | tháp | `Stupa.jpg` | ☐ |
-| 5 | Alms bowl | bình bát | `Alms bowl.jpg` | ☐ |
-| 6 | Harmony | sự hòa hợp | `Harmony.jpg` | ☐ |
-| 7 | Ethnic group | dân tộc | `Ethnic group.jpg` | ☐ |
-| 8 | Language | ngôn ngữ | `Language.jpg` | ☐ |
-| 9 | Respect | sự tôn trọng | `Respect.jpg` | ☐ |
-| 10 | Neighbor | hàng xóm | `Neighbor.jpg` | ☐ |
+| 1 | Goddess | nữ thần, bà chúa | `Goddess.jpg` | ✅ |
+| 2 | Statue | tượng | `Statue.jpg` | ✅ |
+| 3 | Prayer | lời cầu nguyện | `Prayer.jpg` | ✅ |
+| 4 | Wish | điều ước | `Wish.jpg` | ✅ |
+| 5 | Blessing | phước lành | `Blessing.jpg` | ✅ |
+| 6 | Altar | bàn thờ | `Altar.jpg` | ✅ |
+| 7 | Lady of the Realm | Bà Chúa Xứ | `Lady of the Realm.jpg` | ✅ |
+| 8 | Flower | bông hoa | `Flower.jpg` | ✅ |
+| 9 | Faith | niềm tin | `Faith.jpg` | ✅ |
+| 10 | Gratitude | lòng biết ơn | `Gratitude.jpg` | ✅ |
 
-### Van Linh Pagoda, Cam Mountain (Chùa Vạn Linh, núi Cấm) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Van Linh Pagoda | chùa Vạn Linh | `Van Linh Pagoda.jpg` | ☐ |
-| 2 | Maitreya Buddha | Phật Di Lặc | `Maitreya Buddha.jpg` | ☐ |
-| 3 | Meditation | thiền định | `Meditation.jpg` | ☐ |
-| 4 | Monastery | tu viện | `Monastery.jpg` | ☐ |
-| 5 | Bell | chuông | `Bell.jpg` | ☐ |
-| 6 | Steps | bậc thang | `Steps.jpg` | ☐ |
-| 7 | Mountain road | đường núi | `Mountain road.jpg` | ☐ |
-| 8 | Peaceful | yên bình | `Peaceful.jpg` | ☐ |
-| 9 | View | tầm nhìn | `View.jpg` | ☐ |
-| 10 | Courtyard | sân chùa | `Courtyard.jpg` | ☐ |
-
-### Temples of Phu Quoc (Đền chùa Phú Quốc) — 0/10 ảnh
+### Khmer & Cham Communities (Cộng đồng Khmer và Chăm) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ho Quoc Pagoda | chùa Hộ Quốc | `Ho Quoc Pagoda.jpg` | ☐ |
-| 2 | Dinh Cau Temple | miếu Dinh Cậu | `Dinh Cau Temple.jpg` | ☐ |
-| 3 | Zen monastery | thiền viện | `Zen monastery.jpg` | ☐ |
-| 4 | Shrine | miếu thờ nhỏ | `Shrine.jpg` | ☐ |
-| 5 | Bronze bell | chuông đồng | `Bronze bell.jpg` | ☐ |
-| 6 | Pilgrimage | chuyến hành hương | `Pilgrimage.jpg` | ☐ |
-| 7 | Hilltop | đỉnh đồi | `Hilltop.jpg` | ☐ |
-| 8 | Calm | sự yên tĩnh | `Calm.jpg` | ☐ |
-| 9 | Worship | thờ cúng | `Worship.jpg` | ☐ |
-| 10 | Fishermen | ngư dân | `Fishermen.jpg` | ☐ |
+| 1 | Khmer people | người Khmer | `Khmer people.jpg` | ✅ |
+| 2 | Cham people | người Chăm | `Cham people.jpg` | ✅ |
+| 3 | Saffron robe | áo cà sa | `Saffron robe.jpg` | ✅ |
+| 4 | Stupa | tháp | `Stupa.jpg` | ✅ |
+| 5 | Alms bowl | bình bát | `Alms bowl.jpg` | ✅ |
+| 6 | Harmony | sự hòa hợp | `Harmony.jpg` | ✅ |
+| 7 | Ethnic group | dân tộc | `Ethnic group.jpg` | ✅ |
+| 8 | Language | ngôn ngữ | `Language.jpg` | ✅ |
+| 9 | Respect | sự tôn trọng | `Respect.jpg` | ✅ |
+| 10 | Neighbor | hàng xóm | `Neighbor.jpg` | ✅ |
 
-### Sacred Places of Ha Tien (Chốn linh thiêng Hà Tiên) — 0/10 ảnh
+### Van Linh Pagoda, Cam Mountain (Chùa Vạn Linh, núi Cấm) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Tam Bao Pagoda | chùa Tam Bảo | `Tam Bao Pagoda.jpg` | ☐ |
-| 2 | Hang Pagoda | chùa Hang | `Hang Pagoda.jpg` | ☐ |
-| 3 | Cave temple | chùa hang động | `Cave temple.jpg` | ☐ |
-| 4 | Hillside | sườn đồi | `Hillside.jpg` | ☐ |
-| 5 | Tomb | lăng mộ | `Tomb.jpg` | ☐ |
-| 6 | Stone steps | bậc đá | `Stone steps.jpg` | ☐ |
-| 7 | Old tree | cây cổ thụ | `Old tree.jpg` | ☐ |
-| 8 | Quiet | yên tĩnh | `Quiet.jpg` | ☐ |
-| 9 | Moss | rêu | `Moss.jpg` | ☐ |
-| 10 | Incense smoke | khói hương | `Incense smoke.jpg` | ☐ |
+| 1 | Van Linh Pagoda | chùa Vạn Linh | `Van Linh Pagoda.jpg` | ✅ |
+| 2 | Maitreya Buddha | Phật Di Lặc | `Maitreya Buddha.jpg` | ✅ |
+| 3 | Meditation | thiền định | `Meditation.jpg` | ✅ |
+| 4 | Monastery | tu viện | `Monastery.jpg` | ✅ |
+| 5 | Bell | chuông | `Bell.jpg` | ✅ |
+| 6 | Steps | bậc thang | `Steps.jpg` | ✅ |
+| 7 | Mountain road | đường núi | `Mountain road.jpg` | ✅ |
+| 8 | Peaceful | yên bình | `Peaceful.jpg` | ✅ |
+| 9 | View | tầm nhìn | `View.jpg` | ✅ |
+| 10 | Courtyard | sân chùa | `Courtyard.jpg` | ✅ |
+
+### Temples of Phu Quoc (Đền chùa Phú Quốc) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Ho Quoc Pagoda | chùa Hộ Quốc | `Ho Quoc Pagoda.jpg` | ✅ |
+| 2 | Dinh Cau Temple | miếu Dinh Cậu | `Dinh Cau Temple.jpg` | ✅ |
+| 3 | Zen monastery | thiền viện | `Zen monastery.jpg` | ✅ |
+| 4 | Shrine | miếu thờ nhỏ | `Shrine.jpg` | ✅ |
+| 5 | Bronze bell | chuông đồng | `Bronze bell.jpg` | ✅ |
+| 6 | Pilgrimage | chuyến hành hương | `Pilgrimage.jpg` | ✅ |
+| 7 | Hilltop | đỉnh đồi | `Hilltop.jpg` | ✅ |
+| 8 | Calm | sự yên tĩnh | `Calm.jpg` | ✅ |
+| 9 | Worship | thờ cúng | `Worship.jpg` | ✅ |
+| 10 | Fishermen | ngư dân | `Fishermen.jpg` | ✅ |
+
+### Sacred Places of Ha Tien (Chốn linh thiêng Hà Tiên) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Tam Bao Pagoda | chùa Tam Bảo | `Tam Bao Pagoda.jpg` | ✅ |
+| 2 | Hang Pagoda | chùa Hang | `Hang Pagoda.jpg` | ✅ |
+| 3 | Cave temple | chùa hang động | `Cave temple.jpg` | ✅ |
+| 4 | Hillside | sườn đồi | `Hillside.jpg` | ✅ |
+| 5 | Tomb | lăng mộ | `Tomb.jpg` | ✅ |
+| 6 | Stone steps | bậc đá | `Stone steps.jpg` | ✅ |
+| 7 | Old tree | cây cổ thụ | `Old tree.jpg` | ✅ |
+| 8 | Quiet | yên tĩnh | `Quiet.jpg` | ✅ |
+| 9 | Moss | rêu | `Moss.jpg` | ✅ |
+| 10 | Incense smoke | khói hương | `Incense smoke.jpg` | ✅ |
