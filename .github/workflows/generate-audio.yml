@@ -8,8 +8,15 @@ on:
       voice:
         description: 'Google TTS voice name'
         default: 'en-US-Neural2-F'
+      vi_voice:
+        description: 'Google TTS voice for Vietnamese names'
+        default: 'vi-VN-Neural2-A'
+      vietnamese:
+        description: 'Regenerate only words that contain Vietnamese names (read with the Vietnamese voice)'
+        type: boolean
+        default: true
       force:
-        description: 'Regenerate files that already exist'
+        description: 'Regenerate every file'
         type: boolean
         default: false
 
@@ -31,13 +38,15 @@ jobs:
         env:
           GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
           VOICE: ${{ inputs.voice }}
+          VI_VOICE: ${{ inputs.vi_voice }}
           FORCE: ${{ inputs.force && '--force' || '' }}
+          VIET: ${{ inputs.vietnamese && '--vietnamese' || '' }}
         run: |
           if [ -z "$GOOGLE_TTS_API_KEY" ]; then
             echo "::error::Add the repository secret GOOGLE_TTS_API_KEY first (Settings > Secrets and variables > Actions)."
             exit 1
           fi
-          npm run audio -- --voice "$VOICE" $FORCE
+          npm run audio -- --voice "$VOICE" --vi-voice "$VI_VOICE" $FORCE $VIET
       - name: Commit and deploy
         env:
           GH_TOKEN: ${{ github.token }}

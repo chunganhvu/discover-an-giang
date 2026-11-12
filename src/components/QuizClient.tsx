@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import type { Category, Lesson } from '@/lib/types';
 import { blankSentence, buildQuiz, tierForScore, type Question } from '@/lib/quiz';
-import { speak, speakWord, stopSpeaking } from '@/lib/speech';
+import { speakWord, stopSpeaking } from '@/lib/speech';
 import { usePrefs } from '@/lib/prefs';
 import Illustration from './Illustration';
 import BadgeCard from './BadgeCard';
@@ -97,7 +97,7 @@ export default function QuizClient({ category, lesson, embedded = false }: { cat
     const ok = choice === q.answer;
     if (ok) setScore((s) => s + 1);
     else setMissed((m) => [...m, q]);
-    speak(q.word.say ?? q.word.en, { audio: q.word.audio }).then((ok) => setSilent(!ok));
+    speakWord(q.word).then((ok) => setSilent(!ok));
   };
 
   return (

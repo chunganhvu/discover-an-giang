@@ -1,4 +1,5 @@
 import type { Word } from './types';
+import { splitLanguages, type SpeechSegment } from './segments';
 
 let currentAudio: HTMLAudioElement | null = null;
 // Chrome can garbage-collect an utterance before it ends and never fire `onend`; keep a reference.
@@ -47,7 +48,7 @@ export function stopSpeaking() {
  */
 export async function speak(
   text: string,
-  opts: { lang?: string; rate?: number; audio?: string } = {},
+  opts: { lang?: string; rate?: number; audio?: string; segments?: SpeechSegment[] } = {},
 ): Promise<boolean> {
   if (typeof window === 'undefined') return true;
   const wasSpeaking = !!synth()?.speaking || !!synth()?.pending;
@@ -73,13 +74,27 @@ export async function speak(
   // Calling speak() right after cancel() is silently dropped by some browsers.
   if (wasSpeaking) await sleep(80);
   const voices = await loadVoices();
-  const lang = opts.lang ?? 'en-US';
+  // Vietnamese names get a Vietnamese voice when the device has one; the rest is English.
+  const parts: SpeechSegment[] = opts.segments?.length ? opts.segments : [{ lang: 'en', text }];
+  let anyOk = false;
+  for (const part of parts) {
+    const lang = part.lang === 'vi' ? 'vi-VN' : opts.lang ?? 'en-US';
+    const ok = await speakPart(s, part.text, lang, opts.rate ?? 0.85, voices);
+    if (!ok) {
+      if (!anyOk) return false;
+      break;
+    }
+    anyOk = true;
+  }
+  return anyOk;
+}
 
+function speakPart(s: SpeechSynthesis, text: string, lang: string, rate: number, voices: SpeechSynthesisVoice[]) {
   return new Promise<boolean>((resolve) => {
     const u = new SpeechSynthesisUtterance(text);
     currentUtterance = u;
     u.lang = lang;
-    u.rate = opts.rate ?? 0.85;
+    u.rate = rate;
     const voice = pickVoice(voices, lang);
     if (voice) u.voice = voice;
     let started = false;
@@ -108,5 +123,5 @@ export async function speak(
 }
 
 export function speakWord(word: Word, rate?: number) {
-  return speak(word.say ?? word.en, { audio: word.audio, rate });
+  return speak(word.say ?? word.en, { audio: word.audio, rate, segments: splitLanguages(word) });
 }

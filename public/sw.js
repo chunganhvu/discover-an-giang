@@ -1,5 +1,5 @@
 /* Simple offline support: network-first for pages, cache-first for static assets. */
-const CACHE = 'discover-an-giang-v1';
+const CACHE = 'discover-an-giang-v2';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(self.skipWaiting());
