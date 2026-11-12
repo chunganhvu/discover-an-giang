@@ -1,24 +1,26 @@
 'use client';
 
-import Link from 'next/link';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { Category, Lesson } from '@/lib/types';
 import { speakWord, stopSpeaking } from '@/lib/speech';
 import { usePrefs } from '@/lib/prefs';
 import Illustration from './Illustration';
-import BadgeCard from './BadgeCard';
 import SpeechNotice from './SpeechNotice';
 import Lightbox from './Lightbox';
+import QuizClient from './QuizClient';
 
 const SWIPE_PX = 50;
 
+/**
+ * Flashcards: swipe right for the next word, swipe left for the previous one.
+ * After the last word the quiz starts on the same page, and the quiz ends with the badge.
+ */
 export default function LearnClient({ category, lesson }: { category: Category; lesson: Lesson }) {
   const { showVi } = usePrefs();
   const words = lesson.words;
   const [index, setIndex] = useState(0);
   const [dir, setDir] = useState<'next' | 'prev'>('next');
-  const [done, setDone] = useState(false);
-  const [autoNext, setAutoNext] = useState(false);
+  const [phase, setPhase] = useState<'learn' | 'quiz'>('learn');
   const [playing, setPlaying] = useState(false);
   const [silent, setSilent] = useState(false);
   const [zoom, setZoom] = useState(false);
@@ -32,7 +34,8 @@ export default function LearnClient({ category, lesson }: { category: Category; 
       setPlaying(false);
       if (delta === 1) {
         if (index >= words.length - 1) {
-          setDone(true);
+          setZoom(false);
+          setPhase('quiz');
           return;
         }
         setDir('next');
@@ -45,73 +48,35 @@ export default function LearnClient({ category, lesson }: { category: Category; 
     [index, words.length],
   );
 
-  const play = useCallback(async (skipAuto = false) => {
+  const play = useCallback(async () => {
     const mine = ++token.current;
     setPlaying(true);
     const ok = await speakWord(words[index]);
     if (mine !== token.current) return;
     setSilent(!ok);
     setPlaying(false);
-    if (autoNext && !skipAuto) {
-      await new Promise((r) => setTimeout(r, 450));
-      if (mine === token.current) go(1);
-    }
-  }, [words, index, autoNext, go]);
+  }, [words, index]);
 
   useEffect(() => {
+    if (phase !== 'learn') return;
     const onKey = (e: KeyboardEvent) => {
-      if (done || zoom) return;
+      if (zoom) return;
       if (e.key === 'ArrowRight') go(1);
       else if (e.key === 'ArrowLeft') go(-1);
       else if (e.key === ' ' || e.key === 'Enter') {
-        if ((e.target as HTMLElement).tagName === 'BUTTON' || (e.target as HTMLElement).tagName === 'A') return;
+        const tag = (e.target as HTMLElement).tagName;
+        if (tag === 'BUTTON' || tag === 'A') return;
         e.preventDefault();
         play();
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [go, play, done, zoom]);
+  }, [go, play, phase, zoom]);
 
   useEffect(() => () => stopSpeaking(), []);
 
-  useEffect(() => {
-    if (done) setZoom(false);
-  }, [done]);
-
-  const base = `/c/${category.id}/${lesson.id}`;
-
-  if (done) {
-    return (
-      <div className="finish">
-        <BadgeCard
-          badge={lesson.badge}
-          tier="learner"
-          message={`You learned all ${words.length} words. Great job!`}
-          shareText={`I just learned ${words.length} English words about ${lesson.title} and earned the "${lesson.badge.title}" badge!`}
-        />
-        <div className="actions">
-          <Link className="btn" href={`${base}/quiz/`}>
-            Take the quiz · Làm câu đố
-          </Link>
-          <button
-            className="btn ghost"
-            type="button"
-            onClick={() => {
-              setDone(false);
-              setIndex(0);
-              setDir('prev');
-            }}
-          >
-            Review again · Học lại
-          </button>
-          <Link className="btn ghost" href={`/c/${category.id}/`}>
-            Back to lessons · Về danh sách bài
-          </Link>
-        </div>
-      </div>
-    );
-  }
+  if (phase === 'quiz') return <QuizClient category={category} lesson={lesson} embedded />;
 
   const word = words[index];
 
@@ -125,7 +90,8 @@ export default function LearnClient({ category, lesson }: { category: Category; 
       </p>
 
       <div
-        className={`card-wrap${index > 0 ? ' has-prev' : ''}${index < words.length - 1 ? ' has-next' : ''}`}
+        // Swipe right = next word, so the "next" peek sits on the left and the "previous" peek on the right.
+        className={`card-wrap has-prev${index > 0 ? ' has-next' : ''}`}
         onPointerDown={(e) => {
           startX.current = e.clientX;
         }}
@@ -133,11 +99,11 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           if (startX.current === null) return;
           const dx = e.clientX - startX.current;
           startX.current = null;
-          if (dx <= -SWIPE_PX) go(1);
-          else if (dx >= SWIPE_PX) go(-1);
+          if (dx >= SWIPE_PX) go(1);
+          else if (dx <= -SWIPE_PX) go(-1);
           else if ((e.target as HTMLElement).closest('[data-zoom]')) {
             setZoom(true);
-            play(true);
+            play();
           } else play();
         }}
         onPointerCancel={() => {
@@ -179,25 +145,10 @@ export default function LearnClient({ category, lesson }: { category: Category; 
           onClose={() => setZoom(false)}
           onPrev={() => go(-1)}
           onNext={() => go(1)}
-          onSpeak={() => play(true)}
+          onSpeak={() => play()}
         />
       )}
       <SpeechNotice hasRecordedAudio={words.every((w) => !!w.audio)} failed={silent} />
-      <p className="hint">Tap the card to hear it · Swipe to continue</p>
-
-      <label className="auto">
-        <input type="checkbox" checked={autoNext} onChange={(e) => setAutoNext(e.target.checked)} />
-        Auto-next after audio · Tự động qua từ tiếp
-      </label>
-
-      <div className="nav-row">
-        <button type="button" className="btn ghost small" onClick={() => go(-1)} disabled={index === 0} aria-label="Previous word">
-          ←
-        </button>
-        <button type="button" className="btn grow" onClick={() => go(1)}>
-          {index === words.length - 1 ? 'FINISH (Hoàn thành)' : 'NEXT (Tiếp tục)'}
-        </button>
-      </div>
     </div>
   );
 }

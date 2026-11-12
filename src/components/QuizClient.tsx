@@ -13,10 +13,10 @@ import SpeechNotice from './SpeechNotice';
 const MESSAGES = {
   gold: 'Outstanding! You know An Giang very well.',
   silver: 'Well done! A little more practice and you will reach gold.',
-  bronze: 'Good start! Review the words and try again.',
+  bronze: 'Good start! Come back soon and review the words.',
 } as const;
 
-export default function QuizClient({ category, lesson }: { category: Category; lesson: Lesson }) {
+export default function QuizClient({ category, lesson, embedded = false }: { category: Category; lesson: Lesson; embedded?: boolean }) {
   const { showVi } = usePrefs();
   const [questions, setQuestions] = useState<Question[] | null>(null);
   const [i, setI] = useState(0);
@@ -35,7 +35,10 @@ export default function QuizClient({ category, lesson }: { category: Category; l
     setMissed([]);
   }, [lesson, showVi, round]);
 
-  useEffect(() => () => stopSpeaking(), []);
+  useEffect(() => {
+    if (embedded) window.scrollTo(0, 0);
+    return () => stopSpeaking();
+  }, [embedded]);
 
   const q = questions?.[i];
 
@@ -76,14 +79,8 @@ export default function QuizClient({ category, lesson }: { category: Category; l
           </section>
         )}
         <div className="actions">
-          <button className="btn" type="button" onClick={() => setRound(round + 1)}>
-            Try again · Làm lại
-          </button>
-          <Link className="btn ghost" href={`${base}/learn/`}>
-            Study the words · Học từ vựng
-          </Link>
-          <Link className="btn ghost" href={`/c/${category.id}/`}>
-            Back to lessons · Về danh sách bài
+          <Link className="btn" href="/">
+            Back to home · Về trang chủ
           </Link>
         </div>
       </div>

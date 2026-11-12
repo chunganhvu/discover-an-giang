@@ -424,3 +424,7 @@ body { background: var(--green-soft); }
 @media (orientation: portrait) {
   .cat-banner.full .cat-banner-art .cat-art { object-fit: contain; object-position: center; }
 }
+
+/* Cards enter from the side the finger came from: swipe right -> next card slides in from the left. */
+.flashcard.slide-next { animation: in-left .28s ease-out; }
+.flashcard.slide-prev { animation: in-right .28s ease-out; }
