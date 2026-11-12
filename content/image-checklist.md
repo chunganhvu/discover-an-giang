@@ -482,6 +482,21 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Beach umbrella | dù che nắng bãi biển | `Beach umbrella.jpg` | ☐ |
 | 10 | Island tour | tour đảo | `Island tour.jpg` | ☐ |
 
+### Famous Places in Phu Quoc (Điểm đến nổi tiếng ở Phú Quốc) — 0/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Long Beach | bãi Trường (Long Beach) | `Long Beach.jpg` | ☐ |
+| 2 | Hon Thom Island | đảo Hòn Thơm | `Hon Thom Island.jpg` | ☐ |
+| 3 | An Thoi Archipelago | quần đảo An Thới | `An Thoi Archipelago.jpg` | ☐ |
+| 4 | Duong Dong Town | thị trấn Dương Đông | `Duong Dong Town.jpg` | ☐ |
+| 5 | Dinh Cau Night Market | chợ đêm Dinh Cậu | `Dinh Cau Night Market.jpg` | ☐ |
+| 6 | Vinpearl Safari | Vinpearl Safari (vườn thú bán hoang dã) | `Vinpearl Safari.jpg` | ☐ |
+| 7 | VinWonders | VinWonders (công viên giải trí) | `VinWonders.jpg` | ☐ |
+| 8 | Grand World | Grand World (tổ hợp giải trí) | `Grand World.jpg` | ☐ |
+| 9 | Kiss Bridge | cầu Hôn | `Kiss Bridge.jpg` | ☐ |
+| 10 | Ham Ninh Fishing Village | làng chài Hàm Ninh | `Ham Ninh Fishing Village.jpg` | ☐ |
+
 ### Nam Du & Remote Islands (Nam Du và các đảo xa) — 0/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
