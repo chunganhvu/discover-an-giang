@@ -16,7 +16,7 @@ type Props = {
 export default function Illustration({ emoji, from, to, image, label, className = '', zoomable = false }: Props) {
   if (image) {
     // eslint-disable-next-line @next/next/no-img-element
-    return <img className={`illus ${className}${zoomable ? ' zoomable' : ''}`} {...(zoomable ? { 'data-zoom': '' } : {})} src={image} alt={label ?? ''} loading="lazy" />;
+    return <img className={`illus ${className}${zoomable ? ' zoomable' : ''}`} {...(zoomable ? { 'data-zoom': '' } : {})} src={image} alt={label ?? ''} loading="lazy" draggable={false} />;
   }
   return (
     <div

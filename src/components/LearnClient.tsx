@@ -26,6 +26,9 @@ export default function LearnClient({ category, lesson }: { category: Category; 
   const [zoom, setZoom] = useState(false);
   const token = useRef(0);
   const startX = useRef<number | null>(null);
+  const startY = useRef<number | null>(null);
+  const swiped = useRef(false);
+  const onImage = useRef(false);
 
   const go = useCallback(
     (delta: 1 | -1) => {
@@ -94,14 +97,30 @@ export default function LearnClient({ category, lesson }: { category: Category; 
         className={`card-wrap has-prev${index > 0 ? ' has-next' : ''}`}
         onPointerDown={(e) => {
           startX.current = e.clientX;
+          startY.current = e.clientY;
+          swiped.current = false;
+          // With pointer capture the pointerup target is the wrapper, so remember what was pressed.
+          onImage.current = !!(e.target as HTMLElement).closest('[data-zoom]');
+          try {
+            e.currentTarget.setPointerCapture(e.pointerId);
+          } catch {}
+        }}
+        onPointerMove={(e) => {
+          // Act while the finger is still moving: touch browsers may cancel the gesture before it ends.
+          if (startX.current === null || swiped.current) return;
+          const dx = e.clientX - startX.current;
+          const dy = e.clientY - (startY.current ?? e.clientY);
+          if (Math.abs(dx) >= SWIPE_PX && Math.abs(dx) > Math.abs(dy) * 1.2) {
+            swiped.current = true;
+            go(dx > 0 ? 1 : -1);
+          }
         }}
         onPointerUp={(e) => {
           if (startX.current === null) return;
-          const dx = e.clientX - startX.current;
+          const moved = swiped.current || Math.abs(e.clientX - startX.current) > 12 || Math.abs(e.clientY - (startY.current ?? e.clientY)) > 12;
           startX.current = null;
-          if (dx >= SWIPE_PX) go(1);
-          else if (dx <= -SWIPE_PX) go(-1);
-          else if ((e.target as HTMLElement).closest('[data-zoom]')) {
+          if (moved) return;
+          if (onImage.current) {
             setZoom(true);
             play();
           } else play();

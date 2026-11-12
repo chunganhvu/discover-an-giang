@@ -519,3 +519,9 @@ body { background: var(--green-soft); }
 
 .lesson-top .home-btn { color: var(--green-dark); }
 .lesson-top .lesson-title { margin: 0 auto; }
+
+/* Touch swiping: keep vertical page scroll native, own the horizontal gesture; stop image drag / long-press menus. */
+.card-wrap, .card-wrap * { touch-action: pan-y; -webkit-touch-callout: none; -webkit-user-select: none; user-select: none; }
+.card-wrap img { -webkit-user-drag: none; user-drag: none; pointer-events: none; }
+.card-wrap .zoomable { pointer-events: auto; }
+.card-wrap .zoomable { -webkit-user-drag: none; }
