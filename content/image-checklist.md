@@ -621,80 +621,80 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Nature & Wildlife (Thiên nhiên)
 
-### Wild Places (Những miền hoang dã) — 0/10 ảnh
+### Wild Places (Những miền hoang dã) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Wetland | đất ngập nước | `Wetland.jpg` | ☐ |
-| 2 | Mangrove | rừng ngập mặn | `Mangrove.jpg` | ☐ |
-| 3 | Biosphere reserve | khu dự trữ sinh quyển | `Biosphere reserve.jpg` | ☐ |
-| 4 | Migratory bird | chim di cư | `Migratory bird.jpg` | ☐ |
-| 5 | Ridgeback dog | chó Phú Quốc | `Ridgeback dog.jpg` | ☐ |
-| 6 | National park | vườn quốc gia | `National park.jpg` | ☐ |
-| 7 | Ecosystem | hệ sinh thái | `Ecosystem.jpg` | ☐ |
-| 8 | Endangered | có nguy cơ tuyệt chủng | `Endangered.jpg` | ☐ |
-| 9 | Ranger | kiểm lâm | `Ranger.jpg` | ☐ |
-| 10 | Conservation | bảo tồn | `Conservation.jpg` | ☐ |
+| 1 | Wetland | đất ngập nước | `Wetland.jpg` | ✅ |
+| 2 | Mangrove | rừng ngập mặn | `Mangrove.jpg` | ✅ |
+| 3 | Biosphere reserve | khu dự trữ sinh quyển | `Biosphere reserve.jpg` | ✅ |
+| 4 | Migratory bird | chim di cư | `Migratory bird.jpg` | ✅ |
+| 5 | Ridgeback dog | chó Phú Quốc | `Ridgeback dog.jpg` | ✅ |
+| 6 | National park | vườn quốc gia | `National park.jpg` | ✅ |
+| 7 | Ecosystem | hệ sinh thái | `Ecosystem.jpg` | ✅ |
+| 8 | Endangered | có nguy cơ tuyệt chủng | `Endangered.jpg` | ✅ |
+| 9 | Ranger | kiểm lâm | `Ranger.jpg` | ✅ |
+| 10 | Conservation | bảo tồn | `Conservation.jpg` | ✅ |
 
-### Life in the Water (Sinh vật mùa nước nổi) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Linh fish | cá linh | `Linh fish.jpg` | ☐ |
-| 2 | Snakehead fish | cá lóc | `Snakehead fish.jpg` | ☐ |
-| 3 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ☐ |
-| 4 | Water lily | bông súng | `Water lily.jpg` | ☐ |
-| 5 | Catfish | cá tra | `Catfish.jpg` | ☐ |
-| 6 | Freshwater prawn | tôm nước ngọt | `Freshwater prawn.jpg` | ☐ |
-| 7 | Floodwater | nước lũ | `Floodwater.jpg` | ☐ |
-| 8 | Eel | con lươn | `Eel.jpg` | ☐ |
-| 9 | Crab | con cua | `Crab.jpg` | ☐ |
-| 10 | Fishing season | mùa đánh bắt | `Fishing season.jpg` | ☐ |
-
-### Nature of Phu Quoc (Thiên nhiên Phú Quốc) — 0/10 ảnh
+### Life in the Water (Sinh vật mùa nước nổi) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Waterfall | thác nước | `Waterfall.jpg` | ☐ |
-| 2 | Tropical forest | rừng nhiệt đới | `Tropical forest.jpg` | ☐ |
-| 3 | Hiking trail | đường mòn đi bộ | `Hiking trail.jpg` | ☐ |
-| 4 | Starfish | sao biển | `Starfish.jpg` | ☐ |
-| 5 | Coconut grove | rừng dừa | `Coconut grove.jpg` | ☐ |
-| 6 | Tide | thủy triều | `Tide.jpg` | ☐ |
-| 7 | Butterfly | con bướm | `Butterfly.jpg` | ☐ |
-| 8 | Monkey | con khỉ | `Monkey.jpg` | ☐ |
-| 9 | Wild orchid | lan rừng | `Wild orchid.jpg` | ☐ |
-| 10 | Stream | dòng suối | `Stream.jpg` | ☐ |
+| 1 | Linh fish | cá linh | `Linh fish.jpg` | ✅ |
+| 2 | Snakehead fish | cá lóc | `Snakehead fish.jpg` | ✅ |
+| 3 | Sesbania flower | bông điên điển | `Sesbania flower.jpg` | ✅ |
+| 4 | Water lily | bông súng | `Water lily.jpg` | ✅ |
+| 5 | Catfish | cá tra | `Catfish.jpg` | ✅ |
+| 6 | Freshwater prawn | tôm nước ngọt | `Freshwater prawn.jpg` | ✅ |
+| 7 | Floodwater | nước lũ | `Floodwater.jpg` | ✅ |
+| 8 | Eel | con lươn | `Eel.jpg` | ✅ |
+| 9 | Crab | con cua | `Crab.jpg` | ✅ |
+| 10 | Fishing season | mùa đánh bắt | `Fishing season.jpg` | ✅ |
 
-### Bird Watching (Ngắm chim) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Heron | con diệc | `Heron.jpg` | ☐ |
-| 2 | Kingfisher | chim bói cá | `Kingfisher.jpg` | ☐ |
-| 3 | Stork | con cò | `Stork.jpg` | ☐ |
-| 4 | Cormorant | chim cốc | `Cormorant.jpg` | ☐ |
-| 5 | Frog | con ếch | `Frog.jpg` | ☐ |
-| 6 | Dragonfly | chuồn chuồn | `Dragonfly.jpg` | ☐ |
-| 7 | Binoculars | ống nhòm | `Binoculars.jpg` | ☐ |
-| 8 | Nest | tổ chim | `Nest.jpg` | ☐ |
-| 9 | Feather | lông vũ | `Feather.jpg` | ☐ |
-| 10 | Flock | đàn chim | `Flock.jpg` | ☐ |
-
-### Marine Life (Sinh vật biển) — 0/10 ảnh
+### Nature of Phu Quoc (Thiên nhiên Phú Quốc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Seahorse | cá ngựa | `Seahorse.jpg` | ☐ |
-| 2 | Sea turtle | rùa biển | `Sea turtle.jpg` | ☐ |
-| 3 | Dolphin | cá heo | `Dolphin.jpg` | ☐ |
-| 4 | Jellyfish | con sứa | `Jellyfish.jpg` | ☐ |
-| 5 | Seagrass | cỏ biển | `Seagrass.jpg` | ☐ |
-| 6 | Clownfish | cá hề | `Clownfish.jpg` | ☐ |
-| 7 | Coral | san hô | `Coral.jpg` | ☐ |
-| 8 | Octopus | bạch tuộc | `Octopus.jpg` | ☐ |
-| 9 | Shrimp | con tôm | `Shrimp.jpg` | ☐ |
-| 10 | Plankton | sinh vật phù du | `Plankton.jpg` | ☐ |
+| 1 | Waterfall | thác nước | `Waterfall.jpg` | ✅ |
+| 2 | Tropical forest | rừng nhiệt đới | `Tropical forest.jpg` | ✅ |
+| 3 | Hiking trail | đường mòn đi bộ | `Hiking trail.jpg` | ✅ |
+| 4 | Starfish | sao biển | `Starfish.jpg` | ✅ |
+| 5 | Coconut grove | rừng dừa | `Coconut grove.jpg` | ✅ |
+| 6 | Tide | thủy triều | `Tide.jpg` | ✅ |
+| 7 | Butterfly | con bướm | `Butterfly.jpg` | ✅ |
+| 8 | Monkey | con khỉ | `Monkey.jpg` | ✅ |
+| 9 | Wild orchid | lan rừng | `Wild orchid.jpg` | ✅ |
+| 10 | Stream | dòng suối | `Stream.jpg` | ✅ |
+
+### Bird Watching (Ngắm chim) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Heron | con diệc | `Heron.jpg` | ✅ |
+| 2 | Kingfisher | chim bói cá | `Kingfisher.jpg` | ✅ |
+| 3 | Stork | con cò | `Stork.jpg` | ✅ |
+| 4 | Cormorant | chim cốc | `Cormorant.jpg` | ✅ |
+| 5 | Frog | con ếch | `Frog.jpg` | ✅ |
+| 6 | Dragonfly | chuồn chuồn | `Dragonfly.jpg` | ✅ |
+| 7 | Binoculars | ống nhòm | `Binoculars.jpg` | ✅ |
+| 8 | Nest | tổ chim | `Nest.jpg` | ✅ |
+| 9 | Feather | lông vũ | `Feather.jpg` | ✅ |
+| 10 | Flock | đàn chim | `Flock.jpg` | ✅ |
+
+### Marine Life (Sinh vật biển) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Seahorse | cá ngựa | `Seahorse.jpg` | ✅ |
+| 2 | Sea turtle | rùa biển | `Sea turtle.jpg` | ✅ |
+| 3 | Dolphin | cá heo | `Dolphin.jpg` | ✅ |
+| 4 | Jellyfish | con sứa | `Jellyfish.jpg` | ✅ |
+| 5 | Seagrass | cỏ biển | `Seagrass.jpg` | ✅ |
+| 6 | Clownfish | cá hề | `Clownfish.jpg` | ✅ |
+| 7 | Coral | san hô | `Coral.jpg` | ✅ |
+| 8 | Octopus | bạch tuộc | `Octopus.jpg` | ✅ |
+| 9 | Shrimp | con tôm | `Shrimp.jpg` | ✅ |
+| 10 | Plankton | sinh vật phù du | `Plankton.jpg` | ✅ |
 
 ## Spiritual Sites (Tâm linh)
 
