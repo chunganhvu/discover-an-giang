@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, getLesson } from '@/data/content';
 import CategoryBanner from '@/components/CategoryBanner';
+import { lessonCover } from '@/data/assets';
 
 export const dynamicParams = false;
 
@@ -18,7 +19,7 @@ export default async function LessonPage({ params }: { params: Promise<{ categor
 
   return (
     <>
-      <CategoryBanner category={category} backHref={`/c/${category.id}/`} title={lesson.title} subtitle={`${lesson.vi} · ${category.title}`} />
+      <CategoryBanner category={category} backHref={`/c/${category.id}/`} title={lesson.title} subtitle={`${lesson.vi} · ${category.title}`} image={lessonCover(lesson)} />
       <main className="modes">
         <h2 className="section-title">
           What would you like to do? <small>Bạn muốn làm gì?</small>

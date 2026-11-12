@@ -9,16 +9,19 @@ export default function CategoryBanner({
   backHref,
   title,
   subtitle,
+  image,
 }: {
   category: Category;
   backHref: string;
   title: string;
   subtitle: string;
+  /** Overrides the topic artwork, e.g. with the lesson's own cover photo. */
+  image?: string;
 }) {
   return (
     <header className="cat-banner">
       <div className="cat-banner-art">
-        <CategoryArt id={category.id} image={categoryImage(category.id)} />
+        <CategoryArt id={category.id} image={image ?? categoryImage(category.id)} />
         <Link href={backHref} className="back" aria-label="Back">
           ←
         </Link>
