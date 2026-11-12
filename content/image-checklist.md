@@ -82,20 +82,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Tropical island | đảo nhiệt đới | `Tropical island.jpg` | ✅ |
 | 10 | Forest trail | lối mòn trong rừng | `Forest trail.jpg` | ✅ |
 
-### U Minh Thuong Forest (Rừng U Minh Thượng) — 1/10 ảnh
+### U Minh Thuong Forest (Rừng U Minh Thượng) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
 | 1 | U Minh Thuong | U Minh Thượng | `U Minh Thuong.jpg` | ✅ |
-| 2 | Peat swamp forest | rừng ngập than bùn | `Peat swamp forest.jpg` | ☐ |
-| 3 | Swamp | đầm lầy | `Swamp.jpg` | ☐ |
-| 4 | Honey bee | ong mật | `Honey bee.jpg` | ☐ |
-| 5 | Beehive | tổ ong | `Beehive.jpg` | ☐ |
-| 6 | Rainy season | mùa mưa | `Rainy season.jpg` | ☐ |
-| 7 | Cajuput tree | cây tràm | `Cajuput tree.jpg` | ☐ |
-| 8 | Wildlife | động vật hoang dã | `Wildlife.jpg` | ☐ |
-| 9 | Fire prevention | phòng cháy | `Fire prevention.jpg` | ☐ |
-| 10 | Dry season | mùa khô | `Dry season.jpg` | ☐ |
+| 2 | Peat swamp forest | rừng ngập than bùn | `Peat swamp forest.jpg` | ✅ |
+| 3 | Swamp | đầm lầy | `Swamp.jpg` | ✅ |
+| 4 | Honey bee | ong mật | `Honey bee.jpg` | ✅ |
+| 5 | Beehive | tổ ong | `Beehive.jpg` | ✅ |
+| 6 | Rainy season | mùa mưa | `Rainy season.jpg` | ✅ |
+| 7 | Cajuput tree | cây tràm | `Cajuput tree.jpg` | ✅ |
+| 8 | Wildlife | động vật hoang dã | `Wildlife.jpg` | ✅ |
+| 9 | Fire prevention | phòng cháy | `Fire prevention.jpg` | ✅ |
+| 10 | Dry season | mùa khô | `Dry season.jpg` | ✅ |
 
 ### River Tour & Floating Market (Du lịch sông nước và chợ nổi) — 1/10 ảnh
 
