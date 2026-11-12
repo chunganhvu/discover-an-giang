@@ -114,95 +114,95 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 
 ## Heritage (Lịch sử xưa)
 
-### Oc Eo Culture (Văn hóa Óc Eo) — 0/10 ảnh
+### Oc Eo Culture (Văn hóa Óc Eo) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Oc Eo culture | văn hóa Óc Eo | `Oc Eo culture.jpg` | ☐ |
-| 2 | Funan Kingdom | Vương quốc Phù Nam | `Funan Kingdom.jpg` | ☐ |
-| 3 | Archaeological site | di chỉ khảo cổ | `Archaeological site.jpg` | ☐ |
-| 4 | Ancient port | cảng cổ | `Ancient port.jpg` | ☐ |
-| 5 | Artifact | hiện vật | `Artifact.jpg` | ☐ |
-| 6 | Gold ornament | đồ trang sức bằng vàng | `Gold ornament.jpg` | ☐ |
-| 7 | Excavation | cuộc khai quật | `Excavation.jpg` | ☐ |
-| 8 | Brick foundation | nền móng gạch | `Brick foundation.jpg` | ☐ |
-| 9 | Ancient trade | giao thương cổ đại | `Ancient trade.jpg` | ☐ |
-| 10 | Archaeologist | nhà khảo cổ | `Archaeologist.jpg` | ☐ |
+| 1 | Oc Eo culture | văn hóa Óc Eo | `Oc Eo culture.jpg` | ✅ |
+| 2 | Funan Kingdom | Vương quốc Phù Nam | `Funan Kingdom.jpg` | ✅ |
+| 3 | Archaeological site | di chỉ khảo cổ | `Archaeological site.jpg` | ✅ |
+| 4 | Ancient port | cảng cổ | `Ancient port.jpg` | ✅ |
+| 5 | Artifact | hiện vật | `Artifact.jpg` | ✅ |
+| 6 | Gold ornament | đồ trang sức bằng vàng | `Gold ornament.jpg` | ✅ |
+| 7 | Excavation | cuộc khai quật | `Excavation.jpg` | ✅ |
+| 8 | Brick foundation | nền móng gạch | `Brick foundation.jpg` | ✅ |
+| 9 | Ancient trade | giao thương cổ đại | `Ancient trade.jpg` | ✅ |
+| 10 | Archaeologist | nhà khảo cổ | `Archaeologist.jpg` | ✅ |
 
-### Historic Ha Tien (Hà Tiên xưa) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Ha Tien | Hà Tiên | `Ha Tien.jpg` | ☐ |
-| 2 | Mac Cuu Mausoleum | lăng Mạc Cửu | `Mac Cuu Mausoleum.jpg` | ☐ |
-| 3 | Ancestor | tổ tiên | `Ancestor.jpg` | ☐ |
-| 4 | Stone tablet | bia đá | `Stone tablet.jpg` | ☐ |
-| 5 | Historic relic | di tích lịch sử | `Historic relic.jpg` | ☐ |
-| 6 | Dynasty | triều đại | `Dynasty.jpg` | ☐ |
-| 7 | Founder | người sáng lập | `Founder.jpg` | ☐ |
-| 8 | Trading port | cảng buôn bán | `Trading port.jpg` | ☐ |
-| 9 | Poet | nhà thơ | `Poet.jpg` | ☐ |
-| 10 | Old street | phố cổ | `Old street.jpg` | ☐ |
-
-### Vinh Te Canal & Chau Doc (Kênh Vĩnh Tế và Châu Đốc) — 0/10 ảnh
+### Historic Ha Tien (Hà Tiên xưa) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Vinh Te Canal | kênh Vĩnh Tế | `Vinh Te Canal.jpg` | ☐ |
-| 2 | Thoai Ngoc Hau Mausoleum | lăng Thoại Ngọc Hầu | `Thoai Ngoc Hau Mausoleum.jpg` | ☐ |
-| 3 | Canal | kênh đào | `Canal.jpg` | ☐ |
-| 4 | Border | biên giới | `Border.jpg` | ☐ |
-| 5 | Tay An Pagoda | chùa Tây An | `Tay An Pagoda.jpg` | ☐ |
-| 6 | Waterway | đường thủy | `Waterway.jpg` | ☐ |
-| 7 | Laborer | người lao động | `Laborer.jpg` | ☐ |
-| 8 | Irrigation | thủy lợi | `Irrigation.jpg` | ☐ |
-| 9 | Trade route | tuyến giao thương | `Trade route.jpg` | ☐ |
-| 10 | Defense | phòng thủ | `Defense.jpg` | ☐ |
+| 1 | Ha Tien | Hà Tiên | `Ha Tien.jpg` | ✅ |
+| 2 | Mac Cuu Mausoleum | lăng Mạc Cửu | `Mac Cuu Mausoleum.jpg` | ✅ |
+| 3 | Ancestor | tổ tiên | `Ancestor.jpg` | ✅ |
+| 4 | Stone tablet | bia đá | `Stone tablet.jpg` | ✅ |
+| 5 | Historic relic | di tích lịch sử | `Historic relic.jpg` | ✅ |
+| 6 | Dynasty | triều đại | `Dynasty.jpg` | ✅ |
+| 7 | Founder | người sáng lập | `Founder.jpg` | ✅ |
+| 8 | Trading port | cảng buôn bán | `Trading port.jpg` | ✅ |
+| 9 | Poet | nhà thơ | `Poet.jpg` | ✅ |
+| 10 | Old street | phố cổ | `Old street.jpg` | ✅ |
 
-### Rach Gia & National Heroes (Rạch Giá và các anh hùng dân tộc) — 0/10 ảnh
-
-| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
-|---|---|---|---|---|
-| 1 | Rach Gia | Rạch Giá | `Rach Gia.jpg` | ☐ |
-| 2 | National hero | anh hùng dân tộc | `National hero.jpg` | ☐ |
-| 3 | Nguyen Trung Truc Temple | đền thờ Nguyễn Trung Trực | `Nguyen Trung Truc Temple.jpg` | ☐ |
-| 4 | Resistance | cuộc kháng chiến | `Resistance.jpg` | ☐ |
-| 5 | Monument | tượng đài | `Monument.jpg` | ☐ |
-| 6 | Commemoration | lễ tưởng niệm | `Commemoration.jpg` | ☐ |
-| 7 | Courage | lòng dũng cảm | `Courage.jpg` | ☐ |
-| 8 | Patriotism | lòng yêu nước | `Patriotism.jpg` | ☐ |
-| 9 | Tribute | sự tri ân | `Tribute.jpg` | ☐ |
-| 10 | Harbor | bến cảng | `Harbor.jpg` | ☐ |
-
-### Phu Quoc Prison (Nhà tù Phú Quốc) — 0/10 ảnh
+### Vinh Te Canal & Chau Doc (Kênh Vĩnh Tế và Châu Đốc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Prison | nhà tù | `Prison.jpg` | ☐ |
-| 2 | Coconut Tree Prison | nhà tù Phú Quốc (Cây Dừa) | `Coconut Tree Prison.jpg` | ☐ |
-| 3 | Barbed wire | dây thép gai | `Barbed wire.jpg` | ☐ |
-| 4 | Museum | bảo tàng | `Museum.jpg` | ☐ |
-| 5 | War memorial | đài tưởng niệm chiến tranh | `War memorial.jpg` | ☐ |
-| 6 | Revolutionary soldier | chiến sĩ cách mạng | `Revolutionary soldier.jpg` | ☐ |
-| 7 | Prisoner | người tù | `Prisoner.jpg` | ☐ |
-| 8 | Cell | phòng giam | `Cell.jpg` | ☐ |
-| 9 | Exhibition | cuộc triển lãm | `Exhibition.jpg` | ☐ |
-| 10 | Independence | độc lập | `Independence.jpg` | ☐ |
+| 1 | Vinh Te Canal | kênh Vĩnh Tế | `Vinh Te Canal.jpg` | ✅ |
+| 2 | Thoai Ngoc Hau Mausoleum | lăng Thoại Ngọc Hầu | `Thoai Ngoc Hau Mausoleum.jpg` | ✅ |
+| 3 | Canal | kênh đào | `Canal.jpg` | ✅ |
+| 4 | Border | biên giới | `Border.jpg` | ✅ |
+| 5 | Tay An Pagoda | chùa Tây An | `Tay An Pagoda.jpg` | ✅ |
+| 6 | Waterway | đường thủy | `Waterway.jpg` | ✅ |
+| 7 | Laborer | người lao động | `Laborer.jpg` | ✅ |
+| 8 | Irrigation | thủy lợi | `Irrigation.jpg` | ✅ |
+| 9 | Trade route | tuyến giao thương | `Trade route.jpg` | ✅ |
+| 10 | Defense | phòng thủ | `Defense.jpg` | ✅ |
 
-### Ba Chuc Memorial (Nhà mồ Ba Chúc) — 0/10 ảnh
+### Rach Gia & National Heroes (Rạch Giá và các anh hùng dân tộc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ba Chuc | Ba Chúc | `Ba Chuc.jpg` | ☐ |
-| 2 | Memorial | đài tưởng niệm | `Memorial.jpg` | ☐ |
-| 3 | Remembrance | sự tưởng nhớ | `Remembrance.jpg` | ☐ |
-| 4 | Peace | hòa bình | `Peace.jpg` | ☐ |
-| 5 | Sacrifice | sự hy sinh | `Sacrifice.jpg` | ☐ |
-| 6 | Descendant | con cháu | `Descendant.jpg` | ☐ |
-| 7 | Border region | vùng biên giới | `Border region.jpg` | ☐ |
-| 8 | Friendship | tình hữu nghị | `Friendship.jpg` | ☐ |
-| 9 | History | lịch sử | `History.jpg` | ☐ |
-| 10 | Visitor | du khách | `Visitor.jpg` | ☐ |
+| 1 | Rach Gia | Rạch Giá | `Rach Gia.jpg` | ✅ |
+| 2 | National hero | anh hùng dân tộc | `National hero.jpg` | ✅ |
+| 3 | Nguyen Trung Truc Temple | đền thờ Nguyễn Trung Trực | `Nguyen Trung Truc Temple.jpg` | ✅ |
+| 4 | Resistance | cuộc kháng chiến | `Resistance.jpg` | ✅ |
+| 5 | Monument | tượng đài | `Monument.jpg` | ✅ |
+| 6 | Commemoration | lễ tưởng niệm | `Commemoration.jpg` | ✅ |
+| 7 | Courage | lòng dũng cảm | `Courage.jpg` | ✅ |
+| 8 | Patriotism | lòng yêu nước | `Patriotism.jpg` | ✅ |
+| 9 | Tribute | sự tri ân | `Tribute.jpg` | ✅ |
+| 10 | Harbor | bến cảng | `Harbor.jpg` | ✅ |
+
+### Phu Quoc Prison (Nhà tù Phú Quốc) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Prison | nhà tù | `Prison.jpg` | ✅ |
+| 2 | Coconut Tree Prison | nhà tù Phú Quốc (Cây Dừa) | `Coconut Tree Prison.jpg` | ✅ |
+| 3 | Barbed wire | dây thép gai | `Barbed wire.jpg` | ✅ |
+| 4 | Museum | bảo tàng | `Museum.jpg` | ✅ |
+| 5 | War memorial | đài tưởng niệm chiến tranh | `War memorial.jpg` | ✅ |
+| 6 | Revolutionary soldier | chiến sĩ cách mạng | `Revolutionary soldier.jpg` | ✅ |
+| 7 | Prisoner | người tù | `Prisoner.jpg` | ✅ |
+| 8 | Cell | phòng giam | `Cell.jpg` | ✅ |
+| 9 | Exhibition | cuộc triển lãm | `Exhibition.jpg` | ✅ |
+| 10 | Independence | độc lập | `Independence.jpg` | ✅ |
+
+### Ba Chuc Memorial (Nhà mồ Ba Chúc) — 10/10 ảnh
+
+| # | Từ vựng | Nghĩa | File Drive | Trạng thái |
+|---|---|---|---|---|
+| 1 | Ba Chuc | Ba Chúc | `Ba Chuc.jpg` | ✅ |
+| 2 | Memorial | đài tưởng niệm | `Memorial.jpg` | ✅ |
+| 3 | Remembrance | sự tưởng nhớ | `Remembrance.jpg` | ✅ |
+| 4 | Peace | hòa bình | `Peace.jpg` | ✅ |
+| 5 | Sacrifice | sự hy sinh | `Sacrifice.jpg` | ✅ |
+| 6 | Descendant | con cháu | `Descendant.jpg` | ✅ |
+| 7 | Border region | vùng biên giới | `Border region.jpg` | ✅ |
+| 8 | Friendship | tình hữu nghị | `Friendship.jpg` | ✅ |
+| 9 | History | lịch sử | `History.jpg` | ✅ |
+| 10 | Visitor | du khách | `Visitor.jpg` | ✅ |
 
 ## Cuisine (Ẩm thực)
 
