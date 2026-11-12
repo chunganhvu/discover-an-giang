@@ -67,20 +67,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Sandy shore | bờ cát | `Sandy shore.jpg` | ✅ |
 | 10 | Boat trip | chuyến đi thuyền | `Boat trip.jpg` | ✅ |
 
-### Phu Quoc Landscapes (Cảnh đẹp Phú Quốc) — 1/10 ảnh
+### Phu Quoc Landscapes (Cảnh đẹp Phú Quốc) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
 | 1 | Sao Beach | bãi Sao | `Sao Beach.jpg` | ✅ |
-| 2 | Suoi Tranh Waterfall | suối Tranh | `Suoi Tranh Waterfall.jpg` | ☐ |
-| 3 | Dinh Cau Rock | mỏm đá Dinh Cậu | `Dinh Cau Rock.jpg` | ☐ |
-| 4 | Bai Khem Beach | bãi Khem | `Bai Khem Beach.jpg` | ☐ |
-| 5 | White sand | cát trắng | `White sand.jpg` | ☐ |
-| 6 | Lighthouse | hải đăng | `Lighthouse.jpg` | ☐ |
-| 7 | Palm tree | cây cọ, cây dừa | `Palm tree.jpg` | ☐ |
-| 8 | Horizon | đường chân trời | `Horizon.jpg` | ☐ |
-| 9 | Tropical island | đảo nhiệt đới | `Tropical island.jpg` | ☐ |
-| 10 | Forest trail | lối mòn trong rừng | `Forest trail.jpg` | ☐ |
+| 2 | Suoi Tranh Waterfall | suối Tranh | `Suoi Tranh Waterfall.jpg` | ✅ |
+| 3 | Dinh Cau Rock | mỏm đá Dinh Cậu | `Dinh Cau Rock.jpg` | ✅ |
+| 4 | Bai Khem Beach | bãi Khem | `Bai Khem Beach.jpg` | ✅ |
+| 5 | White sand | cát trắng | `White sand.jpg` | ✅ |
+| 6 | Lighthouse | hải đăng | `Lighthouse.jpg` | ✅ |
+| 7 | Palm tree | cây cọ, cây dừa | `Palm tree.jpg` | ✅ |
+| 8 | Horizon | đường chân trời | `Horizon.jpg` | ✅ |
+| 9 | Tropical island | đảo nhiệt đới | `Tropical island.jpg` | ✅ |
+| 10 | Forest trail | lối mòn trong rừng | `Forest trail.jpg` | ✅ |
 
 ### U Minh Thuong Forest (Rừng U Minh Thượng) — 1/10 ảnh
 
