@@ -1,7 +1,6 @@
 import type { Category } from '@/lib/types';
 import { heritage, landscapes, seasIslands } from './expansion/part-a.ts';
 import { spiritual, festivals, cuisine, crafts } from './expansion/part-b.ts';
-import { publicServices } from './expansion/part-c.ts';
 
 /**
  * All learning content lives here. To add a word, copy an object in a lesson's
@@ -1142,10 +1141,9 @@ const extraLessons: Record<string, Category['lessons']> = {
   crafts,
 };
 
-/** Base lessons first, then the expansion lessons for each topic; Public Services comes last. */
+/** Base lessons first, then the expansion lessons for each topic; */
 export const categories: Category[] = [
   ...baseCategories.map((c) => ({ ...c, lessons: [...c.lessons, ...(extraLessons[c.id] ?? [])] })),
-  publicServices,
 ];
 
 export function getCategory(id: string) {
