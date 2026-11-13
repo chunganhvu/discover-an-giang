@@ -234,20 +234,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | History | lịch sử | `History.jpg` | ✅ |
 | 10 | Visitor | du khách | `Visitor.jpg` | ✅ |
 
-### Hoa Community: History & Language (Cộng đồng người Hoa: lịch sử và ngôn ngữ) — 0/10 ảnh
+### Hoa Community: History & Language (Cộng đồng người Hoa: lịch sử và ngôn ngữ) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Hoa people | người Hoa | `Hoa people.jpg` | ☐ |
-| 2 | Chinese merchant | thương nhân người Hoa | `Chinese merchant.jpg` | ☐ |
-| 3 | Clan association | hội quán (hội đồng hương) | `Clan association.jpg` | ☐ |
-| 4 | Teochew | người Triều Châu | `Teochew.jpg` | ☐ |
-| 5 | Cantonese | người Quảng Đông | `Cantonese.jpg` | ☐ |
-| 6 | Hokkien | người Phúc Kiến | `Hokkien.jpg` | ☐ |
-| 7 | Hakka | người Hẹ (Khách Gia) | `Hakka.jpg` | ☐ |
-| 8 | Hainanese | người Hải Nam | `Hainanese.jpg` | ☐ |
-| 9 | Chinese school | trường Hoa văn | `Chinese school.jpg` | ☐ |
-| 10 | Medicine shop | tiệm thuốc bắc | `Medicine shop.jpg` | ☐ |
+| 1 | Hoa people | người Hoa | `Hoa people.jpg` | ✅ |
+| 2 | Chinese merchant | thương nhân người Hoa | `Chinese merchant.jpg` | ✅ |
+| 3 | Clan association | hội quán (hội đồng hương) | `Clan association.jpg` | ✅ |
+| 4 | Teochew | người Triều Châu | `Teochew.jpg` | ✅ |
+| 5 | Cantonese | người Quảng Đông | `Cantonese.jpg` | ✅ |
+| 6 | Hokkien | người Phúc Kiến | `Hokkien.jpg` | ✅ |
+| 7 | Hakka | người Hẹ (Khách Gia) | `Hakka.jpg` | ✅ |
+| 8 | Hainanese | người Hải Nam | `Hainanese.jpg` | ✅ |
+| 9 | Chinese school | trường Hoa văn | `Chinese school.jpg` | ✅ |
+| 10 | Medicine shop | tiệm thuốc bắc | `Medicine shop.jpg` | ✅ |
 
 ### President Ton Duc Thang (Chủ tịch Tôn Đức Thắng) — 0/10 ảnh
 
