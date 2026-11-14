@@ -112,35 +112,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Ticket | vé | `Ticket.jpg` | ✅ |
 | 10 | Riverbank | bờ sông | `Riverbank.jpg` | ✅ |
 
-### Tri Ton Highlands (Vùng núi Tri Tôn) — 0/10 ảnh
+### Tri Ton Highlands (Vùng núi Tri Tôn) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ta Pa Hill | đồi Tà Pạ | `Ta Pa Hill.jpg` | ☐ |
-| 2 | Soai So Lake | hồ Soài So | `Soai So Lake.jpg` | ☐ |
-| 3 | Co To Mountain | núi Cô Tô | `Co To Mountain.jpg` | ☐ |
-| 4 | Tuc Dup Hill | đồi Tức Dụp | `Tuc Dup Hill.jpg` | ☐ |
-| 5 | Highland | vùng cao | `Highland.jpg` | ☐ |
-| 6 | Khmer village | phum sóc Khmer | `Khmer village.jpg` | ☐ |
-| 7 | Reservoir | hồ chứa nước | `Reservoir.jpg` | ☐ |
-| 8 | Rocky cliff | vách đá | `Rocky cliff.jpg` | ☐ |
-| 9 | Terraced field | ruộng bậc thang | `Terraced field.jpg` | ☐ |
-| 10 | Hilltop pagoda | chùa trên đỉnh đồi | `Hilltop pagoda.jpg` | ☐ |
+| 1 | Ta Pa Hill | đồi Tà Pạ | `Ta Pa Hill.jpg` | ✅ |
+| 2 | Soai So Lake | hồ Soài So | `Soai So Lake.jpg` | ✅ |
+| 3 | Co To Mountain | núi Cô Tô | `Co To Mountain.jpg` | ✅ |
+| 4 | Tuc Dup Hill | đồi Tức Dụp | `Tuc Dup Hill.jpg` | ✅ |
+| 5 | Highland | vùng cao | `Highland.jpg` | ✅ |
+| 6 | Khmer village | phum sóc Khmer | `Khmer village.jpg` | ✅ |
+| 7 | Reservoir | hồ chứa nước | `Reservoir.jpg` | ✅ |
+| 8 | Rocky cliff | vách đá | `Rocky cliff.jpg` | ✅ |
+| 9 | Terraced field | ruộng bậc thang | `Terraced field.jpg` | ✅ |
+| 10 | Hilltop pagoda | chùa trên đỉnh đồi | `Hilltop pagoda.jpg` | ✅ |
 
-### Long Xuyen & Delta Farms (Long Xuyên và đồng ruộng châu thổ) — 0/10 ảnh
+### Long Xuyen & Delta Farms (Long Xuyên và đồng ruộng châu thổ) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Long Xuyen | Long Xuyên | `Long Xuyen.jpg` | ☐ |
-| 2 | Rice export | xuất khẩu gạo | `Rice export.jpg` | ☐ |
-| 3 | Pangasius | cá tra | `Pangasius.jpg` | ☐ |
-| 4 | Fish processing | chế biến cá | `Fish processing.jpg` | ☐ |
-| 5 | Dike | đê bao | `Dike.jpg` | ☐ |
-| 6 | Rice delta | vựa lúa đồng bằng | `Rice delta.jpg` | ☐ |
-| 7 | Cu Lao Gieng | cù lao Giêng | `Cu Lao Gieng.jpg` | ☐ |
-| 8 | Ba The Mountain | núi Ba Thê | `Ba The Mountain.jpg` | ☐ |
-| 9 | Flood plain | vùng ngập lũ | `Flood plain.jpg` | ☐ |
-| 10 | Aquaculture | nuôi trồng thủy sản | `Aquaculture.jpg` | ☐ |
+| 1 | Long Xuyen | Long Xuyên | `Long Xuyen.jpg` | ✅ |
+| 2 | Rice export | xuất khẩu gạo | `Rice export.jpg` | ✅ |
+| 3 | Pangasius | cá tra | `Pangasius.jpg` | ✅ |
+| 4 | Fish processing | chế biến cá | `Fish processing.jpg` | ✅ |
+| 5 | Dike | đê bao | `Dike.jpg` | ✅ |
+| 6 | Rice delta | vựa lúa đồng bằng | `Rice delta.jpg` | ✅ |
+| 7 | Cu Lao Gieng | cù lao Giêng | `Cu Lao Gieng.jpg` | ✅ |
+| 8 | Ba The Mountain | núi Ba Thê | `Ba The Mountain.jpg` | ✅ |
+| 9 | Flood plain | vùng ngập lũ | `Flood plain.jpg` | ✅ |
+| 10 | Aquaculture | nuôi trồng thủy sản | `Aquaculture.jpg` | ✅ |
 
 ## Heritage (Lịch sử xưa)
 
@@ -249,35 +249,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Chinese school | trường Hoa văn | `Chinese school.jpg` | ✅ |
 | 10 | Medicine shop | tiệm thuốc bắc | `Medicine shop.jpg` | ✅ |
 
-### President Ton Duc Thang (Chủ tịch Tôn Đức Thắng) — 0/10 ảnh
+### President Ton Duc Thang (Chủ tịch Tôn Đức Thắng) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | President | Chủ tịch nước | `President.jpg` | ☐ |
-| 2 | Birthplace | quê hương, nơi sinh | `Birthplace.jpg` | ☐ |
-| 3 | Memorial site | khu lưu niệm | `Memorial site.jpg` | ☐ |
-| 4 | Islet | cù lao | `Islet.jpg` | ☐ |
-| 5 | My Hoa Hung | Mỹ Hòa Hưng | `My Hoa Hung.jpg` | ☐ |
-| 6 | Sailor | thủy thủ | `Sailor.jpg` | ☐ |
-| 7 | Mutiny | cuộc binh biến | `Mutiny.jpg` | ☐ |
-| 8 | Labor movement | phong trào công nhân | `Labor movement.jpg` | ☐ |
-| 9 | Frugal lifestyle | lối sống giản dị | `Frugal lifestyle.jpg` | ☐ |
-| 10 | Lifelong service | cống hiến suốt đời | `Lifelong service.jpg` | ☐ |
+| 1 | President | Chủ tịch nước | `President.jpg` | ✅ |
+| 2 | Birthplace | quê hương, nơi sinh | `Birthplace.jpg` | ✅ |
+| 3 | Memorial site | khu lưu niệm | `Memorial site.jpg` | ✅ |
+| 4 | Islet | cù lao | `Islet.jpg` | ✅ |
+| 5 | My Hoa Hung | Mỹ Hòa Hưng | `My Hoa Hung.jpg` | ✅ |
+| 6 | Sailor | thủy thủ | `Sailor.jpg` | ✅ |
+| 7 | Mutiny | cuộc binh biến | `Mutiny.jpg` | ✅ |
+| 8 | Labor movement | phong trào công nhân | `Labor movement.jpg` | ✅ |
+| 9 | Frugal lifestyle | lối sống giản dị | `Frugal lifestyle.jpg` | ✅ |
+| 10 | Lifelong service | cống hiến suốt đời | `Lifelong service.jpg` | ✅ |
 
-### Ha Tien Ten Scenes (Hà Tiên thập cảnh) — 0/10 ảnh
+### Ha Tien Ten Scenes (Hà Tiên thập cảnh) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Ten Scenes | Thập cảnh | `Ten Scenes.jpg` | ☐ |
-| 2 | Mac Thien Tich | Mạc Thiên Tích | `Mac Thien Tich.jpg` | ☐ |
-| 3 | Chieu Anh Pavilion | Chiêu Anh Các | `Chieu Anh Pavilion.jpg` | ☐ |
-| 4 | Poetry circle | thi đàn | `Poetry circle.jpg` | ☐ |
-| 5 | Scholar | học giả, nho sĩ | `Scholar.jpg` | ☐ |
-| 6 | Verse | câu thơ | `Verse.jpg` | ☐ |
-| 7 | Moonlit lagoon | đầm trăng sáng | `Moonlit lagoon.jpg` | ☐ |
-| 8 | Pavilion | các, lầu, đình | `Pavilion.jpg` | ☐ |
-| 9 | Literati | giới văn nhân | `Literati.jpg` | ☐ |
-| 10 | Cultural exchange | giao lưu văn hóa | `Cultural exchange.jpg` | ☐ |
+| 1 | Ten Scenes | Thập cảnh | `Ten Scenes.jpg` | ✅ |
+| 2 | Mac Thien Tich | Mạc Thiên Tích | `Mac Thien Tich.jpg` | ✅ |
+| 3 | Chieu Anh Pavilion | Chiêu Anh Các | `Chieu Anh Pavilion.jpg` | ✅ |
+| 4 | Poetry circle | thi đàn | `Poetry circle.jpg` | ✅ |
+| 5 | Scholar | học giả, nho sĩ | `Scholar.jpg` | ✅ |
+| 6 | Verse | câu thơ | `Verse.jpg` | ✅ |
+| 7 | Moonlit lagoon | đầm trăng sáng | `Moonlit lagoon.jpg` | ✅ |
+| 8 | Pavilion | các, lầu, đình | `Pavilion.jpg` | ✅ |
+| 9 | Literati | giới văn nhân | `Literati.jpg` | ✅ |
+| 10 | Cultural exchange | giao lưu văn hóa | `Cultural exchange.jpg` | ✅ |
 
 ## Cuisine (Ẩm thực)
 
@@ -692,35 +692,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Bay | vịnh | `Bay.jpg` | ✅ |
 | 10 | Sea cave | hang biển | `Sea cave.jpg` | ✅ |
 
-### Western Islands (Các đảo phía Tây) — 0/10 ảnh
+### Western Islands (Các đảo phía Tây) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Tho Chu Islands | quần đảo Thổ Chu | `Tho Chu Islands.jpg` | ☐ |
-| 2 | Hon Nghe | Hòn Nghệ | `Hon Nghe.jpg` | ☐ |
-| 3 | Hon Son | Hòn Sơn | `Hon Son.jpg` | ☐ |
-| 4 | Ganh Dau Cape | mũi Gành Dầu | `Ganh Dau Cape.jpg` | ☐ |
-| 5 | Fingernail Island | Hòn Móng Tay | `Fingernail Island.jpg` | ☐ |
-| 6 | Fishing port | cảng cá | `Fishing port.jpg` | ☐ |
-| 7 | Island commune | xã đảo | `Island commune.jpg` | ☐ |
-| 8 | Sea border | biên giới biển | `Sea border.jpg` | ☐ |
-| 9 | Island soldier | chiến sĩ đảo | `Island soldier.jpg` | ☐ |
-| 10 | Supply boat | tàu tiếp tế | `Supply boat.jpg` | ☐ |
+| 1 | Tho Chu Islands | quần đảo Thổ Chu | `Tho Chu Islands.jpg` | ✅ |
+| 2 | Hon Nghe | Hòn Nghệ | `Hon Nghe.jpg` | ✅ |
+| 3 | Hon Son | Hòn Sơn | `Hon Son.jpg` | ✅ |
+| 4 | Ganh Dau Cape | mũi Gành Dầu | `Ganh Dau Cape.jpg` | ✅ |
+| 5 | Fingernail Island | Hòn Móng Tay | `Fingernail Island.jpg` | ✅ |
+| 6 | Fishing port | cảng cá | `Fishing port.jpg` | ✅ |
+| 7 | Island commune | xã đảo | `Island commune.jpg` | ✅ |
+| 8 | Sea border | biên giới biển | `Sea border.jpg` | ✅ |
+| 9 | Island soldier | chiến sĩ đảo | `Island soldier.jpg` | ✅ |
+| 10 | Supply boat | tàu tiếp tế | `Supply boat.jpg` | ✅ |
 
-### Rach Gia & the Western Sea (Rạch Giá và biển Tây) — 0/10 ảnh
+### Rach Gia & the Western Sea (Rạch Giá và biển Tây) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Western Sea | biển Tây | `Western Sea.jpg` | ☐ |
-| 2 | Rach Gia Bay | vịnh Rạch Giá | `Rach Gia Bay.jpg` | ☐ |
-| 3 | Seaport | cảng biển | `Seaport.jpg` | ☐ |
-| 4 | Fish market | chợ cá | `Fish market.jpg` | ☐ |
-| 5 | Fishing fleet | đội tàu cá | `Fishing fleet.jpg` | ☐ |
-| 6 | Ferry terminal | bến phà, bến tàu | `Ferry terminal.jpg` | ☐ |
-| 7 | High-speed ferry | tàu cao tốc | `High-speed ferry.jpg` | ☐ |
-| 8 | Seaside park | công viên bên biển | `Seaside park.jpg` | ☐ |
-| 9 | Sea dike | đê biển | `Sea dike.jpg` | ☐ |
-| 10 | Harbor lights | đèn cảng | `Harbor lights.jpg` | ☐ |
+| 1 | Western Sea | biển Tây | `Western Sea.jpg` | ✅ |
+| 2 | Rach Gia Bay | vịnh Rạch Giá | `Rach Gia Bay.jpg` | ✅ |
+| 3 | Seaport | cảng biển | `Seaport.jpg` | ✅ |
+| 4 | Fish market | chợ cá | `Fish market.jpg` | ✅ |
+| 5 | Fishing fleet | đội tàu cá | `Fishing fleet.jpg` | ✅ |
+| 6 | Ferry terminal | bến phà, bến tàu | `Ferry terminal.jpg` | ✅ |
+| 7 | High-speed ferry | tàu cao tốc | `High-speed ferry.jpg` | ✅ |
+| 8 | Seaside park | công viên bên biển | `Seaside park.jpg` | ✅ |
+| 9 | Sea dike | đê biển | `Sea dike.jpg` | ✅ |
+| 10 | Harbor lights | đèn cảng | `Harbor lights.jpg` | ✅ |
 
 ## OCOP Products (Sản phẩm OCOP)
 
@@ -968,20 +968,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Moss | rêu | `Moss.jpg` | ✅ |
 | 10 | Incense smoke | khói hương | `Incense smoke.jpg` | ✅ |
 
-### Hoa Hao & Local Faith (Đạo Hòa Hảo và tín ngưỡng bản địa) — 0/10 ảnh
+### Hoa Hao & Local Faith (Đạo Hòa Hảo và tín ngưỡng bản địa) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Hoa Hao Buddhism | Phật giáo Hòa Hảo | `Hoa Hao Buddhism.jpg` | ☐ |
-| 2 | Buu Son Ky Huong | Bửu Sơn Kỳ Hương | `Buu Son Ky Huong.jpg` | ☐ |
-| 3 | Buddha Master Tay An | Phật Thầy Tây An | `Buddha Master Tay An.jpg` | ☐ |
-| 4 | Four Debts of Gratitude | Tứ Ân (bốn ân) | `Four Debts of Gratitude.jpg` | ☐ |
-| 5 | Follower | tín đồ | `Follower.jpg` | ☐ |
-| 6 | Vegetarian meal | bữa cơm chay | `Vegetarian meal.jpg` | ☐ |
-| 7 | Ancestor worship | thờ cúng tổ tiên | `Ancestor worship.jpg` | ☐ |
-| 8 | Lay Buddhist | cư sĩ (phật tử tại gia) | `Lay Buddhist.jpg` | ☐ |
-| 9 | Founding anniversary | lễ khai đạo | `Founding anniversary.jpg` | ☐ |
-| 10 | Simple ritual | nghi lễ giản dị | `Simple ritual.jpg` | ☐ |
+| 1 | Hoa Hao Buddhism | Phật giáo Hòa Hảo | `Hoa Hao Buddhism.jpg` | ✅ |
+| 2 | Buu Son Ky Huong | Bửu Sơn Kỳ Hương | `Buu Son Ky Huong.jpg` | ✅ |
+| 3 | Buddha Master Tay An | Phật Thầy Tây An | `Buddha Master Tay An.jpg` | ✅ |
+| 4 | Four Debts of Gratitude | Tứ Ân (bốn ân) | `Four Debts of Gratitude.jpg` | ✅ |
+| 5 | Follower | tín đồ | `Follower.jpg` | ✅ |
+| 6 | Vegetarian meal | bữa cơm chay | `Vegetarian meal.jpg` | ✅ |
+| 7 | Ancestor worship | thờ cúng tổ tiên | `Ancestor worship.jpg` | ✅ |
+| 8 | Lay Buddhist | cư sĩ (phật tử tại gia) | `Lay Buddhist.jpg` | ✅ |
+| 9 | Founding anniversary | lễ khai đạo | `Founding anniversary.jpg` | ✅ |
+| 10 | Simple ritual | nghi lễ giản dị | `Simple ritual.jpg` | ✅ |
 
 ### Hoa Temples & Assembly Halls (Chùa miếu và hội quán người Hoa) — 0/10 ảnh
 
