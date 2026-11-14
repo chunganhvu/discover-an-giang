@@ -356,35 +356,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Peanut | đậu phộng | `Peanut.jpg` | ✅ |
 | 10 | Garlic | tỏi | `Garlic.jpg` | ✅ |
 
-### Chau Doc & Delta Specialties (Đặc sản Châu Đốc và miền sông nước) — 0/10 ảnh
+### Chau Doc & Delta Specialties (Đặc sản Châu Đốc và miền sông nước) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Sour fish soup | canh chua cá | `Sour fish soup.jpg` | ☐ |
-| 2 | Seven-course beef | bò bảy món | `Seven-course beef.jpg` | ☐ |
-| 3 | Crab thick noodle soup | bánh canh ghẹ | `Crab thick noodle soup.jpg` | ☐ |
-| 4 | Clay-pot fish | cá kho tộ | `Clay-pot fish.jpg` | ☐ |
-| 5 | Grilled snakehead | cá lóc nướng | `Grilled snakehead.jpg` | ☐ |
-| 6 | Steamed rice rolls | bánh cuốn | `Steamed rice rolls.jpg` | ☐ |
-| 7 | Stir-fried sesbania flower | bông điên điển xào | `Stir-fried sesbania flower.jpg` | ☐ |
-| 8 | Crispy rice cracker | bánh tráng nướng giòn | `Crispy rice cracker.jpg` | ☐ |
-| 9 | Coconut candy | kẹo dừa | `Coconut candy.jpg` | ☐ |
-| 10 | Local specialty | đặc sản địa phương | `Local specialty.jpg` | ☐ |
+| 1 | Sour fish soup | canh chua cá | `Sour fish soup.jpg` | ✅ |
+| 2 | Seven-course beef | bò bảy món | `Seven-course beef.jpg` | ✅ |
+| 3 | Crab thick noodle soup | bánh canh ghẹ | `Crab thick noodle soup.jpg` | ✅ |
+| 4 | Clay-pot fish | cá kho tộ | `Clay-pot fish.jpg` | ✅ |
+| 5 | Grilled snakehead | cá lóc nướng | `Grilled snakehead.jpg` | ✅ |
+| 6 | Steamed rice rolls | bánh cuốn | `Steamed rice rolls.jpg` | ✅ |
+| 7 | Stir-fried sesbania flower | bông điên điển xào | `Stir-fried sesbania flower.jpg` | ✅ |
+| 8 | Crispy rice cracker | bánh tráng nướng giòn | `Crispy rice cracker.jpg` | ✅ |
+| 9 | Coconut candy | kẹo dừa | `Coconut candy.jpg` | ✅ |
+| 10 | Local specialty | đặc sản địa phương | `Local specialty.jpg` | ✅ |
 
-### Hoa Flavors (Hương vị người Hoa) — 0/10 ảnh
+### Hoa Flavors (Hương vị người Hoa) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Chinese sausage | lạp xưởng | `Chinese sausage.jpg` | ☐ |
-| 2 | Siu mai | xíu mại | `Siu mai.jpg` | ☐ |
-| 3 | Roast duck | vịt quay | `Roast duck.jpg` | ☐ |
-| 4 | Barbecued pork | xá xíu (thịt heo quay) | `Barbecued pork.jpg` | ☐ |
-| 5 | Egg noodles | mì trứng | `Egg noodles.jpg` | ☐ |
-| 6 | Sweet dumpling soup | chè trôi nước | `Sweet dumpling soup.jpg` | ☐ |
-| 7 | Tofu pudding | tàu hủ (đậu hũ nước đường) | `Tofu pudding.jpg` | ☐ |
-| 8 | Chinese tea | trà Tàu | `Chinese tea.jpg` | ☐ |
-| 9 | Fried dough stick | bánh quẩy | `Fried dough stick.jpg` | ☐ |
-| 10 | Hu tieu noodle soup | hủ tiếu | `Hu tieu noodle soup.jpg` | ☐ |
+| 1 | Chinese sausage | lạp xưởng | `Chinese sausage.jpg` | ✅ |
+| 2 | Siu mai | xíu mại | `Siu mai.jpg` | ✅ |
+| 3 | Roast duck | vịt quay | `Roast duck.jpg` | ✅ |
+| 4 | Barbecued pork | xá xíu (thịt heo quay) | `Barbecued pork.jpg` | ✅ |
+| 5 | Egg noodles | mì trứng | `Egg noodles.jpg` | ✅ |
+| 6 | Sweet dumpling soup | chè trôi nước | `Sweet dumpling soup.jpg` | ✅ |
+| 7 | Tofu pudding | tàu hủ (đậu hũ nước đường) | `Tofu pudding.jpg` | ✅ |
+| 8 | Chinese tea | trà Tàu | `Chinese tea.jpg` | ✅ |
+| 9 | Fried dough stick | bánh quẩy | `Fried dough stick.jpg` | ✅ |
+| 10 | Hu tieu noodle soup | hủ tiếu | `Hu tieu noodle soup.jpg` | ✅ |
 
 ## Crafts (Ngành nghề)
 
@@ -463,20 +463,20 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Pattern | hoa văn | `Pattern.jpg` | ✅ |
 | 10 | Souvenir shop | cửa hàng lưu niệm | `Souvenir shop.jpg` | ✅ |
 
-### Boats & Water Hyacinth Crafts (Nghề đóng ghe và đan lục bình) — 0/10 ảnh
+### Boats & Water Hyacinth Crafts (Nghề đóng ghe và đan lục bình) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Boat building | nghề đóng ghe | `Boat building.jpg` | ☐ |
-| 2 | Shipyard | xưởng đóng tàu | `Shipyard.jpg` | ☐ |
-| 3 | Wooden hull | thân tàu gỗ | `Wooden hull.jpg` | ☐ |
-| 4 | Water hyacinth weaving | đan lục bình | `Water hyacinth weaving.jpg` | ☐ |
-| 5 | Net mending | vá lưới | `Net mending.jpg` | ☐ |
-| 6 | Palm-leaf craft | đồ thủ công lá thốt nốt | `Palm-leaf craft.jpg` | ☐ |
-| 7 | Brick kiln | lò gạch | `Brick kiln.jpg` | ☐ |
-| 8 | Pottery | đồ gốm | `Pottery.jpg` | ☐ |
-| 9 | Cooperative workshop | xưởng hợp tác xã | `Cooperative workshop.jpg` | ☐ |
-| 10 | Handloom | khung dệt tay | `Handloom.jpg` | ☐ |
+| 1 | Boat building | nghề đóng ghe | `Boat building.jpg` | ✅ |
+| 2 | Shipyard | xưởng đóng tàu | `Shipyard.jpg` | ✅ |
+| 3 | Wooden hull | thân tàu gỗ | `Wooden hull.jpg` | ✅ |
+| 4 | Water hyacinth weaving | đan lục bình | `Water hyacinth weaving.jpg` | ✅ |
+| 5 | Net mending | vá lưới | `Net mending.jpg` | ✅ |
+| 6 | Palm-leaf craft | đồ thủ công lá thốt nốt | `Palm-leaf craft.jpg` | ✅ |
+| 7 | Brick kiln | lò gạch | `Brick kiln.jpg` | ✅ |
+| 8 | Pottery | đồ gốm | `Pottery.jpg` | ✅ |
+| 9 | Cooperative workshop | xưởng hợp tác xã | `Cooperative workshop.jpg` | ✅ |
+| 10 | Handloom | khung dệt tay | `Handloom.jpg` | ✅ |
 
 ## Festivals (Lễ hội)
 
@@ -570,35 +570,35 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Traditional dress | trang phục truyền thống | `Traditional dress.jpg` | ✅ |
 | 10 | Gathering | buổi họp mặt | `Gathering.jpg` | ✅ |
 
-### More Community Festivals (Thêm lễ hội của các cộng đồng) — 0/10 ảnh
+### More Community Festivals (Thêm lễ hội của các cộng đồng) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Sene Dolta | lễ Sene Dolta (cúng ông bà) | `Sene Dolta.jpg` | ☐ |
-| 2 | Ky Yen Festival | lễ Kỳ Yên | `Ky Yen Festival.jpg` | ☐ |
-| 3 | Roya Haji | lễ Roya Haji (Hồi giáo) | `Roya Haji.jpg` | ☐ |
-| 4 | Mid-Autumn Festival | Tết Trung thu | `Mid-Autumn Festival.jpg` | ☐ |
-| 5 | Mooncake | bánh trung thu | `Mooncake.jpg` | ☐ |
-| 6 | Dragon dance | múa rồng | `Dragon dance.jpg` | ☐ |
-| 7 | Vu Lan Festival | lễ Vu Lan | `Vu Lan Festival.jpg` | ☐ |
-| 8 | Founding Day | ngày lễ khai đạo (Hòa Hảo) | `Founding Day.jpg` | ☐ |
-| 9 | Qingming | tiết Thanh minh | `Qingming.jpg` | ☐ |
-| 10 | Family altar | bàn thờ gia tiên | `Family altar.jpg` | ☐ |
+| 1 | Sene Dolta | lễ Sene Dolta (cúng ông bà) | `Sene Dolta.jpg` | ✅ |
+| 2 | Ky Yen Festival | lễ Kỳ Yên | `Ky Yen Festival.jpg` | ✅ |
+| 3 | Roya Haji | lễ Roya Haji (Hồi giáo) | `Roya Haji.jpg` | ✅ |
+| 4 | Mid-Autumn Festival | Tết Trung thu | `Mid-Autumn Festival.jpg` | ✅ |
+| 5 | Mooncake | bánh trung thu | `Mooncake.jpg` | ✅ |
+| 6 | Dragon dance | múa rồng | `Dragon dance.jpg` | ✅ |
+| 7 | Vu Lan Festival | lễ Vu Lan | `Vu Lan Festival.jpg` | ✅ |
+| 8 | Founding Day | ngày lễ khai đạo (Hòa Hảo) | `Founding Day.jpg` | ✅ |
+| 9 | Qingming | tiết Thanh minh | `Qingming.jpg` | ✅ |
+| 10 | Family altar | bàn thờ gia tiên | `Family altar.jpg` | ✅ |
 
-### Southern Performing Arts (Nghệ thuật biểu diễn Nam Bộ) — 0/10 ảnh
+### Southern Performing Arts (Nghệ thuật biểu diễn Nam Bộ) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Du ke theatre | sân khấu Dù kê | `Du ke theatre.jpg` | ☐ |
-| 2 | Cai luong | cải lương | `Cai luong.jpg` | ☐ |
-| 3 | Checkered scarf | khăn rằn | `Checkered scarf.jpg` | ☐ |
-| 4 | Sampot | xà rông (sampot) của người Khmer | `Sampot.jpg` | ☐ |
-| 5 | Cham weaving | dệt thổ cẩm Chăm | `Cham weaving.jpg` | ☐ |
-| 6 | Sa-dam drum | trống Sa-dăm | `Sa-dam drum.jpg` | ☐ |
-| 7 | Five-tone orchestra | dàn nhạc ngũ âm | `Five-tone orchestra.jpg` | ☐ |
-| 8 | Mask dance | múa mặt nạ | `Mask dance.jpg` | ☐ |
-| 9 | Troupe | đoàn nghệ thuật | `Troupe.jpg` | ☐ |
-| 10 | Rehearsal | buổi tập dượt | `Rehearsal.jpg` | ☐ |
+| 1 | Du ke theatre | sân khấu Dù kê | `Du ke theatre.jpg` | ✅ |
+| 2 | Cai luong | cải lương | `Cai luong.jpg` | ✅ |
+| 3 | Checkered scarf | khăn rằn | `Checkered scarf.jpg` | ✅ |
+| 4 | Sampot | xà rông (sampot) của người Khmer | `Sampot.jpg` | ✅ |
+| 5 | Cham weaving | dệt thổ cẩm Chăm | `Cham weaving.jpg` | ✅ |
+| 6 | Sa-dam drum | trống Sa-dăm | `Sa-dam drum.jpg` | ✅ |
+| 7 | Five-tone orchestra | dàn nhạc ngũ âm | `Five-tone orchestra.jpg` | ✅ |
+| 8 | Mask dance | múa mặt nạ | `Mask dance.jpg` | ✅ |
+| 9 | Troupe | đoàn nghệ thuật | `Troupe.jpg` | ✅ |
+| 10 | Rehearsal | buổi tập dượt | `Rehearsal.jpg` | ✅ |
 
 ## Seas & Islands (Du lịch biển đảo)
 
@@ -983,17 +983,17 @@ Trên Google Drive: thư mục `An Giang / <Chuyên mục> / <Bài học> /` —
 | 9 | Founding anniversary | lễ khai đạo | `Founding anniversary.jpg` | ✅ |
 | 10 | Simple ritual | nghi lễ giản dị | `Simple ritual.jpg` | ✅ |
 
-### Hoa Temples & Assembly Halls (Chùa miếu và hội quán người Hoa) — 0/10 ảnh
+### Hoa Temples & Assembly Halls (Chùa miếu và hội quán người Hoa) — 10/10 ảnh
 
 | # | Từ vựng | Nghĩa | File Drive | Trạng thái |
 |---|---|---|---|---|
-| 1 | Assembly hall | hội quán | `Assembly hall.jpg` | ☐ |
-| 2 | Thien Hau Temple | miếu Thiên Hậu | `Thien Hau Temple.jpg` | ☐ |
-| 3 | Quan Cong Temple | miếu Quan Công | `Quan Cong Temple.jpg` | ☐ |
-| 4 | Incense coil | nhang vòng | `Incense coil.jpg` | ☐ |
-| 5 | Parallel couplets | câu đối | `Parallel couplets.jpg` | ☐ |
-| 6 | Red lantern | đèn lồng đỏ | `Red lantern.jpg` | ☐ |
-| 7 | Ancestral hall | từ đường | `Ancestral hall.jpg` | ☐ |
-| 8 | Clan | dòng họ, bang | `Clan.jpg` | ☐ |
-| 9 | Dragon roof | mái rồng | `Dragon roof.jpg` | ☐ |
-| 10 | Joss paper | giấy cúng (giấy tiền vàng bạc) | `Joss paper.jpg` | ☐ |
+| 1 | Assembly hall | hội quán | `Assembly hall.jpg` | ✅ |
+| 2 | Thien Hau Temple | miếu Thiên Hậu | `Thien Hau Temple.jpg` | ✅ |
+| 3 | Quan Cong Temple | miếu Quan Công | `Quan Cong Temple.jpg` | ✅ |
+| 4 | Incense coil | nhang vòng | `Incense coil.jpg` | ✅ |
+| 5 | Parallel couplets | câu đối | `Parallel couplets.jpg` | ✅ |
+| 6 | Red lantern | đèn lồng đỏ | `Red lantern.jpg` | ✅ |
+| 7 | Ancestral hall | từ đường | `Ancestral hall.jpg` | ✅ |
+| 8 | Clan | dòng họ, bang | `Clan.jpg` | ✅ |
+| 9 | Dragon roof | mái rồng | `Dragon roof.jpg` | ✅ |
+| 10 | Joss paper | giấy cúng (giấy tiền vàng bạc) | `Joss paper.jpg` | ✅ |
